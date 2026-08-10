@@ -5,6 +5,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -30,6 +31,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -56,20 +58,21 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Mega Drain",
-        "effect": "Heal 30 damage from this Pokémon.",
         "damage": "80",
         "cost": [
           "Grass",
           "Grass",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Heal 30 damage from this Pokémon."
       }
     ],
     "retreatCost": 3,
@@ -84,6 +87,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 190,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -99,14 +103,14 @@
       },
       {
         "name": "Giant Bloom",
-        "effect": "Heal 30 damage from this Pokémon.",
         "damage": "100",
         "cost": [
           "Grass",
           "Grass",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Heal 30 damage from this Pokémon."
       }
     ],
     "retreatCost": 3,
@@ -121,17 +125,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Find a Friend",
-        "effect": "Put 1 random Grass Pokémon from your deck into your hand.",
         "damage": "",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Put 1 random Grass Pokémon from your deck into your hand."
       }
     ],
     "retreatCost": 1,
@@ -146,6 +151,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -171,6 +177,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -202,6 +209,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -226,6 +234,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -250,6 +259,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -274,6 +284,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -298,6 +309,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -323,19 +335,20 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Soothing Scent",
-        "effect": "Your opponent's Active Pokémon is now Asleep.",
         "damage": "80",
         "cost": [
           "Grass",
           "Grass",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
     "retreatCost": 3,
@@ -350,6 +363,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -375,6 +389,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -401,6 +416,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -425,17 +441,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Poison Powder",
-        "effect": "Your opponent's Active Pokémon is now Poisoned.",
         "damage": "30",
         "cost": [
           "Grass"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "retreatCost": 1,
@@ -450,6 +467,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -474,6 +492,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -499,6 +518,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -529,6 +549,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -553,17 +574,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Stomp",
-        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
         "damage": "30+",
         "cost": [
           "Grass"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
     "retreatCost": 3,
@@ -578,17 +600,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Tropical Swing",
-        "effect": "Flip a coin. If heads, this attack does 40 more damage.",
         "damage": "40+",
         "cost": [
           "Grass"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 40 more damage."
       }
     ],
     "retreatCost": 3,
@@ -603,18 +626,19 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Absorb",
-        "effect": "Heal 10 damage from this Pokémon.",
         "damage": "40",
         "cost": [
           "Grass",
           "Colorless"
-        ]
+        ],
+        "effect": "Heal 10 damage from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -629,6 +653,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -653,18 +678,19 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "attacks": [
       {
         "name": "Double Horn",
-        "effect": "Flip 2 coins. This attack does 50 damage for each heads.",
         "damage": "50x",
         "cost": [
           "Grass",
           "Grass"
-        ]
+        ],
+        "effect": "Flip 2 coins. This attack does 50 damage for each heads."
       }
     ],
     "retreatCost": 2,
@@ -679,6 +705,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -703,6 +730,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -727,17 +755,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "attacks": [
       {
         "name": "Blot",
-        "effect": "Heal 10 damage from this Pokémon.",
         "damage": "10",
         "cost": [
           "Grass"
-        ]
+        ],
+        "effect": "Heal 10 damage from this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -752,18 +781,19 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "attacks": [
       {
         "name": "Leaf Supply",
-        "effect": "Take a Grass Energy from your Energy Zone and attach it to 1 of your Benched Grass Pokémon.",
         "damage": "50",
         "cost": [
           "Grass",
           "Grass"
-        ]
+        ],
+        "effect": "Take a Grass Energy from your Energy Zone and attach it to 1 of your Benched Grass Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -778,17 +808,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Surprise Attack",
-        "effect": "Flip a coin. If tails, this attack does nothing.",
         "damage": "40",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
     "retreatCost": 1,
@@ -803,6 +834,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -829,17 +861,18 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Ember",
-        "effect": "Discard a Fire Energy from this Pokémon.",
         "damage": "30",
         "cost": [
           "Fire"
-        ]
+        ],
+        "effect": "Discard a Fire Energy from this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -854,6 +887,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -880,20 +914,21 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Fire Spin",
-        "effect": "Discard 2 Fire Energy from this Pokémon.",
         "damage": "150",
         "cost": [
           "Fire",
           "Fire",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard 2 Fire Energy from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -908,6 +943,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -923,14 +959,14 @@
       },
       {
         "name": "Crimson Storm",
-        "effect": "Discard 2 Fire Energy from this Pokémon.",
         "damage": "200",
         "cost": [
           "Fire",
           "Fire",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard 2 Fire Energy from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -945,17 +981,18 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Tail Whip",
-        "effect": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.",
         "damage": "",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn."
       }
     ],
     "retreatCost": 1,
@@ -970,18 +1007,19 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Flamethrower",
-        "effect": "Discard a Fire Energy from this Pokémon.",
         "damage": "90",
         "cost": [
           "Fire",
           "Fire"
-        ]
+        ],
+        "effect": "Discard a Fire Energy from this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -996,6 +1034,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -1021,19 +1060,20 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Heat Tackle",
-        "effect": "This Pokémon also does 20 damage to itself.",
         "damage": "100",
         "cost": [
           "Fire",
           "Fire",
           "Colorless"
-        ]
+        ],
+        "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
     "retreatCost": 2,
@@ -1048,19 +1088,20 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Inferno Onrush",
-        "effect": "This Pokémon also does 20 damage to itself.",
         "damage": "120",
         "cost": [
           "Fire",
           "Fire",
           "Colorless"
-        ]
+        ],
+        "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
     "retreatCost": 2,
@@ -1075,6 +1116,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -1099,6 +1141,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -1123,6 +1166,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -1148,19 +1192,20 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Flamethrower",
-        "effect": "Discard 1 Fire Energy from this Pokémon.",
         "damage": "110",
         "cost": [
           "Fire",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard 1 Fire Energy from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -1175,19 +1220,20 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Sky Attack",
-        "effect": "Flip a coin. If tails, this attack does nothing.",
         "damage": "130",
         "cost": [
           "Fire",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
     "retreatCost": 1,
@@ -1202,17 +1248,18 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Inferno Dance",
-        "effect": "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokémon in any way you like.",
         "damage": "",
         "cost": [
           "Fire"
-        ]
+        ],
+        "effect": "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokémon in any way you like."
       },
       {
         "name": "Heat Blast",
@@ -1236,6 +1283,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -1260,6 +1308,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -1284,6 +1333,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -1309,6 +1359,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -1333,20 +1384,21 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "attacks": [
       {
         "name": "Fire Blast",
-        "effect": "Discard a Fire Energy from this Pokémon.",
         "damage": "130",
         "cost": [
           "Fire",
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard a Fire Energy from this Pokémon."
       }
     ],
     "retreatCost": 3,
@@ -1361,6 +1413,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -1385,6 +1438,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -1410,19 +1464,20 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Hydro Pump",
-        "effect": "If this Pokémon has at least 2 extra Water Energy attached, this attack does 60 more damage.",
         "damage": "80+",
         "cost": [
           "Water",
           "Water",
           "Colorless"
-        ]
+        ],
+        "effect": "If this Pokémon has at least 2 extra Water Energy attached, this attack does 60 more damage."
       }
     ],
     "retreatCost": 3,
@@ -1437,6 +1492,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -1451,13 +1507,13 @@
       },
       {
         "name": "Hydro Bazooka",
-        "effect": "If this Pokémon has at least 2 extra Water Energy attached, this attack does 60 more damage.",
         "damage": "100+",
         "cost": [
           "Water",
           "Water",
           "Colorless"
-        ]
+        ],
+        "effect": "If this Pokémon has at least 2 extra Water Energy attached, this attack does 60 more damage."
       }
     ],
     "retreatCost": 3,
@@ -1472,17 +1528,18 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "attacks": [
       {
         "name": "Headache",
-        "effect": "Your opponent can't use any Supporter cards from their hand during their next turn.",
         "damage": "10",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent can't use any Supporter cards from their hand during their next turn."
       }
     ],
     "retreatCost": 1,
@@ -1497,6 +1554,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -1522,6 +1580,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -1546,6 +1605,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -1571,6 +1631,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -1602,6 +1663,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -1626,18 +1688,19 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Poison Tentacles",
-        "effect": "Your opponent's Active Pokémon is now Poisoned.",
         "damage": "50",
         "cost": [
           "Water",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "retreatCost": 2,
@@ -1652,6 +1715,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -1677,6 +1741,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -1703,6 +1768,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -1727,6 +1793,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -1758,6 +1825,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -1783,19 +1851,20 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "KO Crab",
-        "effect": "Flip 2 coins. If both of them are heads, this attack does 80 more damage.",
         "damage": "80+",
         "cost": [
           "Water",
           "Water",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip 2 coins. If both of them are heads, this attack does 80 more damage."
       }
     ],
     "retreatCost": 3,
@@ -1810,6 +1879,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -1834,19 +1904,20 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Water Arrow",
-        "effect": "This attack does 50 damage to 1 of your opponent's Pokémon.",
         "damage": "",
         "cost": [
           "Water",
           "Water",
           "Water"
-        ]
+        ],
+        "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -1861,6 +1932,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -1885,17 +1957,18 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Horn Hazard",
-        "effect": "Flip a coin. If tails, this attack does nothing.",
         "damage": "80",
         "cost": [
           "Water"
-        ]
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
     "retreatCost": 1,
@@ -1910,6 +1983,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -1934,6 +2008,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -1958,6 +2033,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -1983,6 +2059,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -2007,20 +2084,21 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Hyper Beam",
-        "effect": "Discard a random Energy from your opponent's Active Pokémon.",
         "damage": "100",
         "cost": [
           "Water",
           "Water",
           "Water",
           "Water"
-        ]
+        ],
+        "effect": "Discard a random Energy from your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 4,
@@ -2035,17 +2113,18 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Hydro Pump",
-        "effect": "If this Pokémon has at least 3 extra Water Energy attached, this attack does 70 more damage.",
         "damage": "20+",
         "cost": [
           "Water"
-        ]
+        ],
+        "effect": "If this Pokémon has at least 3 extra Water Energy attached, this attack does 70 more damage."
       }
     ],
     "retreatCost": 2,
@@ -2060,19 +2139,20 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Bubble Drain",
-        "effect": "Heal 30 damage from this Pokémon.",
         "damage": "60",
         "cost": [
           "Water",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Heal 30 damage from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -2087,6 +2167,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -2111,19 +2192,20 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Ancient Whirlpool",
-        "effect": "During your opponent's next turn, the Defending Pokémon can't attack.",
         "damage": "70",
         "cost": [
           "Water",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "During your opponent's next turn, the Defending Pokémon can't attack."
       }
     ],
     "retreatCost": 2,
@@ -2138,19 +2220,20 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Ice Beam",
-        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
         "damage": "60",
         "cost": [
           "Water",
           "Water",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "retreatCost": 1,
@@ -2165,6 +2248,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -2179,13 +2263,13 @@
       },
       {
         "name": "Blizzard",
-        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
         "damage": "80",
         "cost": [
           "Water",
           "Water",
           "Water"
-        ]
+        ],
+        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -2200,6 +2284,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -2225,6 +2310,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -2251,6 +2337,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -2275,6 +2362,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -2299,6 +2387,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -2329,6 +2418,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -2353,18 +2443,19 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "attacks": [
       {
         "name": "Second Strike",
-        "effect": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage.",
         "damage": "10+",
         "cost": [
           "Water",
           "Colorless"
-        ]
+        ],
+        "effect": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage."
       }
     ],
     "retreatCost": 1,
@@ -2379,6 +2470,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -2403,18 +2495,19 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "attacks": [
       {
         "name": "Powder Snow",
-        "effect": "Your opponent's Active Pokémon is now Asleep.",
         "damage": "40",
         "cost": [
           "Water",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
     "retreatCost": 1,
@@ -2429,6 +2522,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -2453,19 +2547,20 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Thunderbolt",
-        "effect": "Discard all Energy from this Pokémon.",
         "damage": "140",
         "cost": [
           "Lightning",
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "Discard all Energy from this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -2480,18 +2575,19 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Circle Circuit",
-        "effect": "This attack does 30 damage for each of your Benched Lightning Pokémon.",
         "damage": "30x",
         "cost": [
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "This attack does 30 damage for each of your Benched Lightning Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -2506,6 +2602,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -2530,6 +2627,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -2562,6 +2660,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -2586,6 +2685,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -2611,18 +2711,19 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Thunder Punch",
-        "effect": "Flip a coin. If heads, this attack does 40 more damage. If tails, this Pokémon also does 20 damage to itself.",
         "damage": "40+",
         "cost": [
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 40 more damage. If tails, this Pokémon also does 20 damage to itself."
       }
     ],
     "retreatCost": 1,
@@ -2637,18 +2738,19 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Pin Missile",
-        "effect": "Flip 4 coins. This attack does 40 damage for each heads.",
         "damage": "40x",
         "cost": [
           "Lightning",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip 4 coins. This attack does 40 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -2663,19 +2765,20 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Raging Thunder",
-        "effect": "This attack also does 30 damage to 1 of your Benched Pokémon.",
         "damage": "100",
         "cost": [
           "Lightning",
           "Lightning",
           "Colorless"
-        ]
+        ],
+        "effect": "This attack also does 30 damage to 1 of your Benched Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -2690,6 +2793,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -2703,13 +2807,13 @@
       },
       {
         "name": "Thundering Hurricane",
-        "effect": "Flip 4 coins. This attack does 50 damage for each heads.",
         "damage": "50x",
         "cost": [
           "Lightning",
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "Flip 4 coins. This attack does 50 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -2724,6 +2828,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -2748,17 +2853,18 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "attacks": [
       {
         "name": "Thunder Spear",
-        "effect": "This attack does 30 damage to 1 of your opponent's Pokémon.",
         "damage": "",
         "cost": [
           "Lightning"
-        ]
+        ],
+        "effect": "This attack does 30 damage to 1 of your opponent's Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -2773,6 +2879,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -2797,6 +2904,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -2821,19 +2929,20 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Thunder Fang",
-        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
         "damage": "80",
         "cost": [
           "Lightning",
           "Lightning",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "retreatCost": 3,
@@ -2848,6 +2957,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -2872,18 +2982,19 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "attacks": [
       {
         "name": "Quick Attack",
-        "effect": "Flip a coin. If heads, this attack does 40 more damage.",
         "damage": "40+",
         "cost": [
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 40 more damage."
       }
     ],
     "retreatCost": 1,
@@ -2898,18 +3009,19 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "attacks": [
       {
         "name": "Thunder Shock",
-        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
         "damage": "30",
         "cost": [
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "retreatCost": 1,
@@ -2924,6 +3036,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -2948,6 +3061,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -2972,17 +3086,18 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Teleport",
-        "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
         "damage": "",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -2997,6 +3112,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -3023,19 +3139,20 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Psychic",
-        "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",
         "damage": "60+",
         "cost": [
           "Psychic",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -3050,6 +3167,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -3075,6 +3193,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -3101,6 +3220,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -3125,6 +3245,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -3149,17 +3270,18 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Bother",
-        "effect": "Your opponent can't use any Supporter cards from their hand during their next turn.",
         "damage": "50",
         "cost": [
           "Psychic"
-        ]
+        ],
+        "effect": "Your opponent can't use any Supporter cards from their hand during their next turn."
       }
     ],
     "retreatCost": 2,
@@ -3174,6 +3296,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -3205,6 +3328,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -3230,6 +3354,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -3261,18 +3386,19 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Barrier Attack",
-        "effect": "During your opponent's next turn, this Pokémon takes -20 damage from attacks.",
         "damage": "30",
         "cost": [
           "Psychic",
           "Colorless"
-        ]
+        ],
+        "effect": "During your opponent's next turn, this Pokémon takes -20 damage from attacks."
       }
     ],
     "retreatCost": 1,
@@ -3287,18 +3413,19 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Psychic",
-        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
         "damage": "30+",
         "cost": [
           "Psychic",
           "Colorless"
-        ]
+        ],
+        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -3313,20 +3440,21 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Power Blast",
-        "effect": "Discard 2 Psychic Energy from this Pokémon.",
         "damage": "120",
         "cost": [
           "Psychic",
           "Psychic",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard 2 Psychic Energy from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -3341,6 +3469,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -3355,14 +3484,14 @@
       },
       {
         "name": "Psydrive",
-        "effect": "Discard 2 Psychic Energy from this Pokémon.",
         "damage": "150",
         "cost": [
           "Psychic",
           "Psychic",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard 2 Psychic Energy from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -3377,6 +3506,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -3401,6 +3531,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -3426,6 +3557,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 110,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -3457,6 +3589,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -3481,6 +3614,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -3506,6 +3640,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -3532,20 +3667,21 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "attacks": [
       {
         "name": "Double Lariat",
-        "effect": "Flip 2 coins. This attack does 100 damage for each heads.",
         "damage": "100x",
         "cost": [
           "Psychic",
           "Psychic",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip 2 coins. This attack does 100 damage for each heads."
       }
     ],
     "retreatCost": 4,
@@ -3560,6 +3696,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -3584,6 +3721,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -3609,6 +3747,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -3633,17 +3772,18 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Dig",
-        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
         "damage": "40",
         "cost": [
           "Fighting"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -3658,6 +3798,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -3682,18 +3823,19 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Fight Back",
-        "effect": "If this Pokémon has damage on it, this attack does 60 more damage.",
         "damage": "40+",
         "cost": [
           "Fighting",
           "Fighting"
-        ]
+        ],
+        "effect": "If this Pokémon has damage on it, this attack does 60 more damage."
       }
     ],
     "retreatCost": 1,
@@ -3708,6 +3850,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -3732,6 +3875,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -3757,6 +3901,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -3783,6 +3928,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -3809,6 +3955,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -3833,6 +3980,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -3859,20 +4007,21 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Double-Edge",
-        "effect": "This Pokémon also does 50 damage to itself.",
         "damage": "150",
         "cost": [
           "Fighting",
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "This Pokémon also does 50 damage to itself."
       }
     ],
     "retreatCost": 4,
@@ -3887,6 +4036,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -3913,17 +4063,18 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Growl",
-        "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage.",
         "damage": "",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage."
       }
     ],
     "retreatCost": 1,
@@ -3938,6 +4089,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -3962,18 +4114,19 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Bonemerang",
-        "effect": "Flip 2 coins. This attack does 80 damage for each heads.",
         "damage": "80x",
         "cost": [
           "Fighting",
           "Fighting"
-        ]
+        ],
+        "effect": "Flip 2 coins. This attack does 80 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -3988,17 +4141,18 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Stretch Kick",
-        "effect": "This attack does 30 damage to 1 of your opponent's Benched Pokémon.",
         "damage": "",
         "cost": [
           "Fighting"
-        ]
+        ],
+        "effect": "This attack does 30 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -4013,6 +4167,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -4037,6 +4192,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -4063,6 +4219,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -4090,6 +4247,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -4114,17 +4272,18 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Leech Life",
-        "effect": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.",
         "damage": "50",
         "cost": [
           "Fighting"
-        ]
+        ],
+        "effect": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -4139,6 +4298,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -4163,6 +4323,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -4187,6 +4348,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -4212,19 +4374,20 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "attacks": [
       {
         "name": "Knock Back",
-        "effect": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
         "damage": "70",
         "cost": [
           "Fighting",
           "Fighting",
           "Colorless"
-        ]
+        ],
+        "effect": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
       }
     ],
     "retreatCost": 3,
@@ -4239,6 +4402,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -4263,18 +4427,19 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "attacks": [
       {
         "name": "Corner",
-        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat.",
         "damage": "60",
         "cost": [
           "Darkness",
           "Colorless"
-        ]
+        ],
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
     "retreatCost": 2,
@@ -4289,17 +4454,18 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Call for Family",
-        "effect": "Put 1 random Nidoran♂ from your deck onto your Bench.",
         "damage": "",
         "cost": [
           "Darkness"
-        ]
+        ],
+        "effect": "Put 1 random Nidoran♂ from your deck onto your Bench."
       }
     ],
     "retreatCost": 1,
@@ -4314,6 +4480,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -4338,19 +4505,20 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Lovestrike",
-        "effect": "This attack does 50 more damage for each of your Benched Nidoking.",
         "damage": "80+",
         "cost": [
           "Darkness",
           "Darkness",
           "Colorless"
-        ]
+        ],
+        "effect": "This attack does 50 more damage for each of your Benched Nidoking."
       }
     ],
     "retreatCost": 2,
@@ -4365,6 +4533,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -4389,6 +4558,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -4414,19 +4584,20 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Poison Horn",
-        "effect": "Your opponent's Active Pokémon is now Poisoned.",
         "damage": "90",
         "cost": [
           "Darkness",
           "Darkness",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "retreatCost": 3,
@@ -4441,6 +4612,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -4465,6 +4637,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -4489,17 +4662,18 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Poison Gas",
-        "effect": "Your opponent's Active Pokémon is now Poisoned.",
         "damage": "10",
         "cost": [
           "Darkness"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "retreatCost": 3,
@@ -4514,19 +4688,20 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Venoshock",
-        "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage.",
         "damage": "70+",
         "cost": [
           "Darkness",
           "Darkness",
           "Colorless"
-        ]
+        ],
+        "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage."
       }
     ],
     "retreatCost": 3,
@@ -4541,6 +4716,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -4565,6 +4741,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -4594,17 +4771,18 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Crunch",
-        "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
         "damage": "20",
         "cost": [
           "Metal"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -4619,6 +4797,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -4643,6 +4822,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -4668,17 +4848,18 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Amass",
-        "effect": "Take 1 [M] Energy from your Energy Zone and attach it to this Pokémon.",
         "damage": "",
         "cost": [
           "Metal"
-        ]
+        ],
+        "effect": "Take 1 Metal Energy from your Energy Zone and attach it to this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -4693,6 +4874,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -4725,6 +4907,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -4750,6 +4933,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -4776,20 +4960,21 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Draco Meteor",
-        "effect": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 50 damage to it.",
         "damage": "",
         "cost": [
           "Water",
           "Lightning",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 50 damage to it."
       }
     ],
     "retreatCost": 3,
@@ -4804,6 +4989,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -4828,6 +5014,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -4852,6 +5039,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -4882,6 +5070,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 40,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -4906,6 +5095,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -4930,6 +5120,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -4954,18 +5145,19 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Drill Run",
-        "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
         "damage": "50",
         "cost": [
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -4980,6 +5172,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -5005,6 +5198,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -5030,19 +5224,20 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Sleepy Song",
-        "effect": "Your opponent's Active Pokémon is now Asleep.",
         "damage": "80",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
     "retreatCost": 2,
@@ -5057,17 +5252,18 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Pay Day",
-        "effect": "Draw 1 card.",
         "damage": "10",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Draw 1 card."
       }
     ],
     "retreatCost": 1,
@@ -5082,18 +5278,19 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Shadow Claw",
-        "effect": "Flip a coin. If heads, discard a random card from your opponent's hand.",
         "damage": "40",
         "cost": [
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, discard a random card from your opponent's hand."
       }
     ],
     "retreatCost": 1,
@@ -5108,6 +5305,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -5132,6 +5330,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -5156,6 +5355,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -5180,19 +5380,20 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Continuous Lick",
-        "effect": "Flip a coin until you get tails. This attack does 60 damage for each heads.",
         "damage": "60x",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin until you get tails. This attack does 60 damage for each heads."
       }
     ],
     "retreatCost": 3,
@@ -5207,6 +5408,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -5233,17 +5435,18 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Dizzy Punch",
-        "effect": "Flip 2 coins. This attack does 30 damage for each heads.",
         "damage": "30x",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Flip 2 coins. This attack does 30 damage for each heads."
       }
     ],
     "retreatCost": 3,
@@ -5258,6 +5461,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -5283,17 +5487,18 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Copy Anything",
-        "effect": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing.",
         "damage": "",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing."
       }
     ],
     "retreatCost": 1,
@@ -5308,6 +5513,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -5332,6 +5538,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -5356,6 +5563,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -5380,6 +5588,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -5409,18 +5618,19 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Primal Wingbeat",
-        "effect": "Flip a coin. If heads, your opponent shuffles their Active Pokémon back into their deck.",
         "damage": "",
         "cost": [
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, your opponent shuffles their Active Pokémon back into their deck."
       }
     ],
     "retreatCost": 1,
@@ -5435,6 +5645,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -5462,6 +5673,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -5486,19 +5698,20 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "attacks": [
       {
         "name": "Do the Wave",
-        "effect": "This attack does 30 damage for each of your Benched Pokémon.",
         "damage": "30x",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "This attack does 30 damage for each of your Benched Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -5513,6 +5726,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -5538,6 +5752,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -5564,6 +5779,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Play this card as if it were a 40-HP Basic Colorless Pokémon. At any time during your turn, you may discard this card from play. This card can't retreat.",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -5580,6 +5796,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Play this card as if it were a 40-HP Basic Colorless Pokémon. At any time during your turn, you may discard this card from play. This card can't retreat.",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -5596,6 +5813,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Play this card as if it were a 40-HP Basic Colorless Pokémon. At any time during your turn, you may discard this card from play. This card can't retreat.",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -5612,6 +5830,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Heal 50 damage from 1 of your Grass Pokémon.",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -5628,6 +5847,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Choose 1 of your Water Pokémon, and flip a coin until you get tails. For each heads, take a Water Energy from your Energy Zone and attach it to that Pokémon.",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -5644,6 +5864,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Ninetales, Rapidash, or Magmar do +30 damage to your opponent's Active Pokémon.",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -5660,6 +5881,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Put your Muk or Weezing in the Active Spot into your hand.",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -5676,6 +5898,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Pokémon do +10 damage to your opponent's Active Pokémon.",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -5692,6 +5915,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Take a Fighting Energy from your Energy Zone and attach it to Golem or Onix.",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -5708,6 +5932,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -5724,6 +5949,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Move all Lightning Energy from your Benched Pokémon to your Raichu, Electrode, or Electabuzz in the Active Spot.",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -5740,6 +5966,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -5765,6 +5992,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -5790,18 +6018,19 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Double Horn",
-        "effect": "Flip 2 coins. This attack does 50 damage for each heads.",
         "damage": "50x",
         "cost": [
           "Grass",
           "Grass"
-        ]
+        ],
+        "effect": "Flip 2 coins. This attack does 50 damage for each heads."
       }
     ],
     "retreatCost": 2,
@@ -5816,17 +6045,18 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Ember",
-        "effect": "Discard a Fire Energy from this Pokémon.",
         "damage": "30",
         "cost": [
           "Fire"
-        ]
+        ],
+        "effect": "Discard a Fire Energy from this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -5841,6 +6071,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -5865,6 +6096,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -5889,20 +6121,21 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Hyper Beam",
-        "effect": "Discard a random Energy from your opponent's Active Pokémon.",
         "damage": "100",
         "cost": [
           "Water",
           "Water",
           "Water",
           "Water"
-        ]
+        ],
+        "effect": "Discard a random Energy from your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 4,
@@ -5917,17 +6150,18 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Hydro Pump",
-        "effect": "If this Pokémon has at least 3 extra Water Energy attached, this attack does 70 more damage.",
         "damage": "20+",
         "cost": [
           "Water"
-        ]
+        ],
+        "effect": "If this Pokémon has at least 3 extra Water Energy attached, this attack does 70 more damage."
       }
     ],
     "retreatCost": 2,
@@ -5942,6 +6176,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -5967,19 +6202,20 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Psychic",
-        "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",
         "damage": "60+",
         "cost": [
           "Psychic",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -5994,6 +6230,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -6019,6 +6256,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -6043,17 +6281,18 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Growl",
-        "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage.",
         "damage": "",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage."
       }
     ],
     "retreatCost": 1,
@@ -6068,19 +6307,20 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Lovestrike",
-        "effect": "This attack does 50 more damage for each of your Benched Nidoking.",
         "damage": "80+",
         "cost": [
           "Darkness",
           "Darkness",
           "Colorless"
-        ]
+        ],
+        "effect": "This attack does 50 more damage for each of your Benched Nidoking."
       }
     ],
     "retreatCost": 2,
@@ -6095,19 +6335,20 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Poison Horn",
-        "effect": "Your opponent's Active Pokémon is now Poisoned.",
         "damage": "90",
         "cost": [
           "Darkness",
           "Darkness",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "retreatCost": 3,
@@ -6122,6 +6363,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -6146,6 +6388,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -6175,20 +6418,21 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Draco Meteor",
-        "effect": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 50 damage to it.",
         "damage": "",
         "cost": [
           "Water",
           "Lightning",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 50 damage to it."
       }
     ],
     "retreatCost": 3,
@@ -6203,6 +6447,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -6233,17 +6478,18 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Pay Day",
-        "effect": "Draw 1 card.",
         "damage": "10",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Draw 1 card."
       }
     ],
     "retreatCost": 1,
@@ -6258,17 +6504,18 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Copy Anything",
-        "effect": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing.",
         "damage": "",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing."
       }
     ],
     "retreatCost": 1,
@@ -6283,6 +6530,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -6307,6 +6555,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -6336,6 +6585,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -6363,6 +6613,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 190,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -6378,14 +6629,14 @@
       },
       {
         "name": "Giant Bloom",
-        "effect": "Heal 30 damage from this Pokémon.",
         "damage": "100",
         "cost": [
           "Grass",
           "Grass",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Heal 30 damage from this Pokémon."
       }
     ],
     "retreatCost": 3,
@@ -6400,17 +6651,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Tropical Swing",
-        "effect": "Flip a coin. If heads, this attack does 40 more damage.",
         "damage": "40+",
         "cost": [
           "Grass"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 40 more damage."
       }
     ],
     "retreatCost": 3,
@@ -6425,6 +6677,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -6440,14 +6693,14 @@
       },
       {
         "name": "Crimson Storm",
-        "effect": "Discard 2 Fire Energy from this Pokémon.",
         "damage": "200",
         "cost": [
           "Fire",
           "Fire",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard 2 Fire Energy from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -6462,19 +6715,20 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Inferno Onrush",
-        "effect": "This Pokémon also does 20 damage to itself.",
         "damage": "120",
         "cost": [
           "Fire",
           "Fire",
           "Colorless"
-        ]
+        ],
+        "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
     "retreatCost": 2,
@@ -6489,17 +6743,18 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Inferno Dance",
-        "effect": "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokémon in any way you like.",
         "damage": "",
         "cost": [
           "Fire"
-        ]
+        ],
+        "effect": "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokémon in any way you like."
       },
       {
         "name": "Heat Blast",
@@ -6523,6 +6778,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -6537,13 +6793,13 @@
       },
       {
         "name": "Hydro Bazooka",
-        "effect": "If this Pokémon has at least 2 extra Water Energy attached, this attack does 60 more damage.",
         "damage": "100+",
         "cost": [
           "Water",
           "Water",
           "Colorless"
-        ]
+        ],
+        "effect": "If this Pokémon has at least 2 extra Water Energy attached, this attack does 60 more damage."
       }
     ],
     "retreatCost": 3,
@@ -6558,6 +6814,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -6583,6 +6840,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -6597,13 +6855,13 @@
       },
       {
         "name": "Blizzard",
-        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
         "damage": "80",
         "cost": [
           "Water",
           "Water",
           "Water"
-        ]
+        ],
+        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -6618,18 +6876,19 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Circle Circuit",
-        "effect": "This attack does 30 damage for each of your Benched Lightning Pokémon.",
         "damage": "30x",
         "cost": [
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "This attack does 30 damage for each of your Benched Lightning Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -6644,6 +6903,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -6657,13 +6917,13 @@
       },
       {
         "name": "Thundering Hurricane",
-        "effect": "Flip 4 coins. This attack does 50 damage for each heads.",
         "damage": "50x",
         "cost": [
           "Lightning",
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "Flip 4 coins. This attack does 50 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -6678,6 +6938,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -6709,6 +6970,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -6723,14 +6985,14 @@
       },
       {
         "name": "Psydrive",
-        "effect": "Discard 2 Psychic Energy from this Pokémon.",
         "damage": "150",
         "cost": [
           "Psychic",
           "Psychic",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard 2 Psychic Energy from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -6745,6 +7007,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -6771,18 +7034,19 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
     "attacks": [
       {
         "name": "Bonemerang",
-        "effect": "Flip 2 coins. This attack does 80 damage for each heads.",
         "damage": "80x",
         "cost": [
           "Fighting",
           "Fighting"
-        ]
+        ],
+        "effect": "Flip 2 coins. This attack does 80 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -6797,19 +7061,20 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Sleepy Song",
-        "effect": "Your opponent's Active Pokémon is now Asleep.",
         "damage": "80",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
     "retreatCost": 2,
@@ -6824,6 +7089,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Heal 50 damage from 1 of your Grass Pokémon.",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -6840,6 +7106,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Choose 1 of your Water Pokémon, and flip a coin until you get tails. For each heads, take a Water Energy from your Energy Zone and attach it to that Pokémon.",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -6856,6 +7123,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Ninetales, Rapidash, or Magmar do +30 damage to your opponent's Active Pokémon.",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -6872,6 +7140,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Put your Muk or Weezing in the Active Spot into your hand.",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -6888,6 +7157,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Pokémon do +10 damage to your opponent's Active Pokémon.",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -6904,6 +7174,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Take a Fighting Energy from your Energy Zone and attach it to Golem or Onix.",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -6920,6 +7191,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -6936,6 +7208,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Move all Lightning Energy from your Benched Pokémon to your Raichu, Electrode, or Electabuzz in the Active Spot.",
     "health": null,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -6952,17 +7225,18 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
     "attacks": [
       {
         "name": "Inferno Dance",
-        "effect": "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokémon in any way you like.",
         "damage": "",
         "cost": [
           "Fire"
-        ]
+        ],
+        "effect": "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokémon in any way you like."
       },
       {
         "name": "Heat Blast",
@@ -6986,6 +7260,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -7000,13 +7275,13 @@
       },
       {
         "name": "Blizzard",
-        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
         "damage": "80",
         "cost": [
           "Water",
           "Water",
           "Water"
-        ]
+        ],
+        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -7021,6 +7296,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
@@ -7034,13 +7310,13 @@
       },
       {
         "name": "Thundering Hurricane",
-        "effect": "Flip 4 coins. This attack does 50 damage for each heads.",
         "damage": "50x",
         "cost": [
           "Lightning",
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "Flip 4 coins. This attack does 50 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -7055,6 +7331,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -7086,6 +7363,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -7112,19 +7390,20 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Sleepy Song",
-        "effect": "Your opponent's Active Pokémon is now Asleep.",
         "damage": "80",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
     "retreatCost": 2,
@@ -7139,6 +7418,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
     "set": "Genetic Apex (A1)",
     "pack": "Charizard",
@@ -7154,14 +7434,14 @@
       },
       {
         "name": "Crimson Storm",
-        "effect": "Discard 2 Fire Energy from this Pokémon.",
         "damage": "200",
         "cost": [
           "Fire",
           "Fire",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard 2 Fire Energy from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -7176,18 +7456,19 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": "Pikachu",
     "attacks": [
       {
         "name": "Circle Circuit",
-        "effect": "This attack does 30 damage for each of your Benched Lightning Pokémon.",
         "damage": "30x",
         "cost": [
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "This attack does 30 damage for each of your Benched Lightning Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -7202,6 +7483,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": "Mewtwo",
@@ -7216,14 +7498,14 @@
       },
       {
         "name": "Psydrive",
-        "effect": "Discard 2 Psychic Energy from this Pokémon.",
         "damage": "150",
         "cost": [
           "Psychic",
           "Psychic",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard 2 Psychic Energy from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -7238,17 +7520,18 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "attacks": [
       {
         "name": "Psy Report",
-        "effect": "Your opponent reveals their hand.",
         "damage": "20",
         "cost": [
           "Psychic"
-        ]
+        ],
+        "effect": "Your opponent reveals their hand."
       }
     ],
     "retreatCost": 1,
@@ -7263,6 +7546,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -7278,14 +7562,14 @@
       },
       {
         "name": "Crimson Storm",
-        "effect": "Discard 2 Fire Energy from this Pokémon.",
         "damage": "200",
         "cost": [
           "Fire",
           "Fire",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard 2 Fire Energy from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -7300,18 +7584,19 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Genetic Apex (A1)",
     "pack": null,
     "attacks": [
       {
         "name": "Circle Circuit",
-        "effect": "This attack does 30 damage for each of your Benched Lightning Pokémon.",
         "damage": "30x",
         "cost": [
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "This attack does 30 damage for each of your Benched Lightning Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -7326,6 +7611,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Genetic Apex (A1)",
     "pack": null,
@@ -7340,14 +7626,14 @@
       },
       {
         "name": "Psydrive",
-        "effect": "Discard 2 Psychic Energy from this Pokémon.",
         "damage": "150",
         "cost": [
           "Psychic",
           "Psychic",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard 2 Psychic Energy from this Pokémon."
       }
     ],
     "retreatCost": 2,

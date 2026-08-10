@@ -5,6 +5,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -17,7 +18,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -29,6 +30,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -42,7 +44,7 @@
         "effect": "Put 3 random cards from among Silcoon and Cascoon from your deck onto your Bench."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Wurmple",
@@ -54,6 +56,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -67,7 +70,7 @@
         "effect": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Silcoon",
@@ -79,6 +82,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -92,7 +96,7 @@
         "effect": "Put 3 random cards from among Silcoon and Cascoon from your deck onto your Bench."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Wurmple",
@@ -104,6 +108,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 120,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -117,7 +122,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -134,6 +139,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -147,7 +153,7 @@
         "effect": "Heal 10 damage from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Root Fossil",
@@ -159,6 +165,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -173,7 +180,7 @@
         "effect": "Heal 30 damage from this Pokémon. During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Lileep",
@@ -185,6 +192,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -197,7 +205,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -209,6 +217,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -221,7 +230,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Kricketot",
@@ -233,6 +242,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -246,7 +256,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -258,6 +268,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -272,7 +283,7 @@
         "effect": "You may discard 1 of your Benched Basic Grass Pokémon. If you do, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Combee",
@@ -284,6 +295,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -297,7 +309,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -309,6 +321,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -321,7 +334,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -333,6 +346,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -347,7 +361,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned and Paralyzed. Shuffle this Pokémon and all attached cards into your deck."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Shelmet",
@@ -359,6 +373,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -373,7 +388,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -385,6 +400,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -399,7 +415,7 @@
         "effect": "If you haven't gotten any points, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -411,6 +427,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 40,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -423,7 +440,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -440,6 +457,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -454,7 +472,7 @@
         "effect": "Your opponent's Active Pokémon is now Burned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Poltchageist",
@@ -466,6 +484,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -481,7 +500,7 @@
         "effect": "This attack does damage to your opponent's Active Pokémon equal to this Pokémon's remaining HP."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -493,6 +512,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -506,7 +526,7 @@
         "effect": "Take a Fire Energy from your Energy Zone and attach it to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -518,6 +538,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -532,7 +553,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Ponyta",
@@ -544,6 +565,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -558,7 +580,7 @@
         "effect": "Discard FireFire Energy from this Pokémon. Your opponent's Active Pokémon is now Burned."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -570,6 +592,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -586,7 +609,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -598,6 +621,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -611,7 +635,7 @@
         "effect": "Your opponent's Active Pokémon is now Burned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -623,6 +647,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -637,7 +662,7 @@
         "effect": "Your opponent's Active Pokémon is now Burned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Cyndaquil",
@@ -649,6 +674,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -664,7 +690,7 @@
         "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Quilava",
@@ -676,6 +702,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -689,7 +716,7 @@
         "effect": "Flip a coin. If heads, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -701,6 +728,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -715,7 +743,7 @@
         "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Houndour",
@@ -727,6 +755,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -740,7 +769,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -752,6 +781,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -765,7 +795,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused. If tails, this Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -777,6 +807,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -791,7 +822,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Psyduck",
@@ -803,6 +834,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -816,7 +848,7 @@
         "effect": "This attack's damage isn't affected by Weakness or by any effects on your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -828,6 +860,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -842,7 +875,7 @@
         "effect": "This attack's damage isn't affected by Weakness or by any effects on your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Staryu",
@@ -854,6 +887,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -866,7 +900,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -878,6 +912,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 190,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -891,7 +926,7 @@
         "effect": "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Water Pokémon."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Carvanha",
@@ -903,6 +938,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -917,7 +953,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -929,6 +965,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 250,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -945,7 +982,7 @@
         "effect": "This Pokémon recovers from all Special Conditions."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wailmer",
@@ -957,6 +994,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -970,7 +1008,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -982,6 +1020,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -997,7 +1036,7 @@
         "effect": "If your opponent's Active Pokémon is a Fighting Pokémon, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Spheal",
@@ -1009,6 +1048,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1025,7 +1065,7 @@
         "effect": "Your opponent can't use any Supporter cards from their hand during their next turn."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Sealeo",
@@ -1037,6 +1077,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1053,7 +1094,7 @@
         "effect": "Discard 3 Water Energy from this Pokémon, and this attack does 50 damage to each of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1065,6 +1106,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1077,7 +1119,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1089,6 +1131,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1102,7 +1145,7 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Oshawott",
@@ -1114,6 +1157,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1128,7 +1172,7 @@
         "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -1145,6 +1189,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1159,7 +1204,7 @@
         "effect": "Heal 10 damage from each of your Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1171,6 +1216,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1183,7 +1229,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1195,6 +1241,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1209,7 +1256,7 @@
         "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Dewpider",
@@ -1221,6 +1268,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1233,7 +1281,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1245,6 +1293,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1258,7 +1307,7 @@
         "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1270,6 +1319,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1283,7 +1333,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -1300,6 +1350,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1313,7 +1364,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1325,6 +1376,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1338,7 +1390,7 @@
         ]
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Shinx",
@@ -1350,6 +1402,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1365,7 +1418,7 @@
         "effect": "This attack does 50 more damage for each point your opponent has gotten."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Luxio",
@@ -1377,6 +1430,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1390,7 +1444,7 @@
         "effect": "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1402,6 +1456,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1416,7 +1471,7 @@
         "effect": "This attack does 10 more damage for each Item card in your discard pile."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1428,6 +1483,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 40,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1440,7 +1496,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1452,6 +1508,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1465,7 +1522,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Tynamo",
@@ -1477,6 +1534,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1491,7 +1549,7 @@
         "effect": "This attack does 20 more damage for each Energy attached to all of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Eelektrik",
@@ -1503,6 +1561,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1518,7 +1577,7 @@
         "effect": "Discard a Lightning Energy from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1530,6 +1589,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1543,7 +1603,7 @@
         "effect": "This attack does 10 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1555,6 +1615,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1568,7 +1629,7 @@
         "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Helioptile",
@@ -1580,6 +1641,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1592,7 +1654,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1604,6 +1666,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1617,7 +1680,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wattrel",
@@ -1629,6 +1692,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1644,7 +1708,7 @@
         "effect": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -1656,6 +1720,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1670,7 +1735,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Clefairy",
@@ -1682,6 +1747,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1695,7 +1761,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1707,6 +1773,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1722,7 +1789,7 @@
         "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Drowzee",
@@ -1734,6 +1801,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1745,7 +1813,7 @@
         "effect": "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -1757,6 +1825,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1771,7 +1840,7 @@
         "effect": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1783,6 +1852,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1798,7 +1868,7 @@
         "effect": "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1810,6 +1880,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1823,7 +1894,7 @@
         "effect": "Put a random Supporter card from your deck into your hand."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1835,6 +1906,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1848,7 +1920,7 @@
         "effect": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Ralts",
@@ -1860,6 +1932,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1874,7 +1947,7 @@
         "effect": "If you have the same number of cards in your hand as your opponent, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1886,6 +1959,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1897,7 +1971,7 @@
         "effect": "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 Colorless more."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -1909,6 +1983,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1922,7 +1997,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1934,6 +2009,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1947,7 +2023,7 @@
         "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Woobat",
@@ -1959,6 +2035,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1972,7 +2049,7 @@
         "effect": "Before doing damage, shuffle all Pokémon Tools from each of your opponent's Pokémon into their deck."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1984,6 +2061,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -1997,7 +2075,7 @@
         "effect": "Discard a card from your hand. If you can't, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2009,6 +2087,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2022,7 +2101,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -2034,6 +2113,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2049,7 +2129,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes +50 damage from attacks."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Makuhita",
@@ -2061,6 +2141,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2073,7 +2154,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Claw Fossil",
@@ -2085,6 +2166,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2100,7 +2182,7 @@
         "effect": "Discard all Energy from this Pokémon. Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, Knock Out the Pokémon in the spot you chose."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Anorith",
@@ -2112,6 +2194,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2127,7 +2210,7 @@
         "effect": "This attack also does 10 damage to each of your Benched Pokémon."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2139,6 +2222,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 220,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2154,7 +2238,7 @@
         "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Kirlia",
@@ -2166,6 +2250,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2178,7 +2263,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2190,6 +2275,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2202,7 +2288,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Drilbur",
@@ -2214,6 +2300,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2227,7 +2314,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -2239,6 +2326,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2253,7 +2341,7 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Timburr",
@@ -2265,6 +2353,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2280,7 +2369,7 @@
         "effect": "Discard a Stadium in play."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Gurdurr",
@@ -2292,6 +2381,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2305,7 +2395,7 @@
         "effect": "If your opponent's Active Pokémon has an Ability, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2317,6 +2407,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2329,7 +2420,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2341,6 +2432,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2354,7 +2446,7 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Grimer",
@@ -2366,6 +2458,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2379,7 +2472,7 @@
         "effect": "Draw a card for each Poochyena you have in play."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2391,6 +2484,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2403,7 +2497,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Poochyena",
@@ -2415,6 +2509,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2427,7 +2522,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2439,6 +2534,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2452,7 +2548,7 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Galarian Zigzagoon",
@@ -2464,6 +2560,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2479,7 +2576,7 @@
         "effect": "This attack does 80 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Galarian Linoone",
@@ -2491,6 +2588,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2503,7 +2601,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2515,6 +2613,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2529,7 +2628,7 @@
         "effect": "If your opponent's Active Pokémon has less remaining HP than this Pokémon, this attack does 80 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Gulpin",
@@ -2541,6 +2640,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2554,7 +2654,7 @@
         "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2566,6 +2666,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2579,7 +2680,7 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2591,6 +2692,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2605,7 +2707,7 @@
         "effect": "Flip a coin until you get tails. This attack does 60 damage for each heads."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Vullaby",
@@ -2617,6 +2719,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2640,7 +2743,7 @@
         "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2652,6 +2755,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2665,7 +2769,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2677,6 +2781,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2691,7 +2796,7 @@
         "effect": "Flip a coin. If heads, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -2703,6 +2808,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2715,7 +2821,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [
       {
@@ -2732,6 +2838,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2746,7 +2853,7 @@
         "effect": "Flip 2 coins. This attack does 20 more damage for each heads."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Beldum",
@@ -2758,6 +2865,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2773,7 +2881,7 @@
         "effect": "Flip 4 coins. This attack does 50 damage for each heads."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Metang",
@@ -2785,6 +2893,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 230,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2800,7 +2909,7 @@
         "effect": "This attack does 10 more damage for each Metal Energy attached to this Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Metang",
@@ -2812,6 +2921,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2825,7 +2935,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Karrablast",
@@ -2837,6 +2947,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2851,7 +2962,7 @@
         "effect": "During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -2863,6 +2974,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2877,7 +2989,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -2889,6 +3001,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2905,7 +3018,7 @@
         "effect": "If this Pokémon has damage on it, this attack does 80 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Duraludon",
@@ -2917,6 +3030,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2930,7 +3044,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -2942,6 +3056,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2958,7 +3073,7 @@
         "effect": "During your next turn, this Pokémon's Overacceleration attack does +70 damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [
       {
@@ -2975,6 +3090,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -2988,7 +3104,7 @@
         "effect": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -3000,6 +3116,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3013,7 +3130,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [
       {
@@ -3030,6 +3147,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3045,7 +3163,7 @@
         "effect": "Discard a random Energy from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dragonair",
@@ -3057,6 +3175,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3073,7 +3192,7 @@
         "effect": "Discard 2 random Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -3085,6 +3204,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 180,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3099,7 +3219,7 @@
         "effect": "Discard all Fire and Lightning Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -3111,6 +3231,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3124,7 +3245,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -3136,6 +3257,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3151,7 +3273,7 @@
         "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 60 damage to it."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Noibat",
@@ -3163,6 +3285,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3178,7 +3301,7 @@
         "effect": "Your opponent's Active Pokémon is now Burned."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -3190,6 +3313,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3204,7 +3328,7 @@
         "effect": "Discard a random Energy from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -3216,6 +3340,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 40,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3229,7 +3354,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -3241,6 +3366,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3255,7 +3381,7 @@
         "effect": "Flip 2 coins. This attack does 60 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Applin",
@@ -3267,6 +3393,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3281,7 +3408,7 @@
         "effect": "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dipplin",
@@ -3293,6 +3420,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3308,7 +3436,7 @@
         "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -3320,6 +3448,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3333,7 +3462,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3345,6 +3474,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3358,7 +3488,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -3375,6 +3505,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3388,7 +3519,7 @@
         "effect": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3400,6 +3531,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3413,7 +3545,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3425,6 +3557,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3438,7 +3571,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Aipom",
@@ -3450,6 +3583,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3463,7 +3597,7 @@
         "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3475,6 +3609,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3489,7 +3624,7 @@
         "effect": "You may move any amount of Energy from your Pokémon in play to your other Pokémon in any way you like."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Skitty",
@@ -3501,6 +3636,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3514,7 +3650,7 @@
         "effect": "If this Pokémon and your opponent's Active Pokémon have 1 or more of the same type of Energy attached, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3526,6 +3662,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3538,7 +3675,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -3550,6 +3687,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3562,7 +3700,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Pidove",
@@ -3574,6 +3712,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3588,7 +3727,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Tranquill",
@@ -3600,6 +3739,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3613,7 +3753,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -3625,6 +3765,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3640,7 +3781,7 @@
         "effect": "During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Ducklett",
@@ -3652,6 +3793,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3665,7 +3807,7 @@
         "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -3682,6 +3824,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3695,7 +3838,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3707,6 +3850,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3722,7 +3866,7 @@
         "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 90 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Type: Null",
@@ -3734,6 +3878,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Flip a coin. If heads, put a random Item card from your deck into your hand.",
     "health": null,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3750,6 +3895,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Play this card as if it were a 40-HP Basic Colorless Pokémon. At any time during your turn, you may discard this card from play. This card can't retreat.",
     "health": null,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3766,6 +3912,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Play this card as if it were a 40-HP Basic Colorless Pokémon. At any time during your turn, you may discard this card from play. This card can't retreat.",
     "health": null,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3782,6 +3929,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "At the end of your turn, if the Darkness Pokémon this card is attached to is in the Active Spot, do 10 damage to your opponent's Active Pokémon.",
     "health": null,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3798,6 +3946,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "Prevent all effects of attacks used by your opponent's Pokémon done to the Pokémon this card is attached to. (Existing effects are not removed.)",
     "health": null,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3814,6 +3963,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "You can use this card only if your Pokémon in the Active Spot has the Psychic attack. Choose 1 of your opponent's Benched Pokémon and move a random Energy from it to your opponent's Active Pokémon.",
     "health": null,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3830,6 +3980,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, 1 of your opponent's Pokémon is chosen 1 more time for the Draco Meteor attack used by your Pokémon.",
     "health": null,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3846,6 +3997,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Switch your Active Stage 1 Pokémon with 1 of your Benched Pokémon.",
     "health": null,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3862,6 +4014,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Take a Colorless Energy from your Energy Zone and attach it to 1 of your Stage 2 Pokémon.",
     "health": null,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3878,6 +4031,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Stadium",
+    "effect": "At the end of each player's turn, that player heals 20 damage from each of their Pokémon that has any Water Energy attached.",
     "health": null,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3894,6 +4048,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Stadium",
+    "effect": "Once during each player's turn, that player may discard the Energy that has been generated in their Energy Zone. If they do, the next Energy is produced.",
     "health": null,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3910,6 +4065,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3922,7 +4078,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -3934,6 +4090,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3947,7 +4104,7 @@
         "effect": "Heal 10 damage from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Root Fossil",
@@ -3959,6 +4116,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3971,7 +4129,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Kricketot",
@@ -3983,6 +4141,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -3997,7 +4156,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned and Paralyzed. Shuffle this Pokémon and all attached cards into your deck."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Shelmet",
@@ -4009,6 +4168,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4022,7 +4182,7 @@
         "effect": "Take a Fire Energy from your Energy Zone and attach it to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -4034,6 +4194,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4048,7 +4209,7 @@
         "effect": "Your opponent's Active Pokémon is now Burned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Cyndaquil",
@@ -4060,6 +4221,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4076,7 +4238,7 @@
         "effect": "Discard 3 Water Energy from this Pokémon, and this attack does 50 damage to each of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -4088,6 +4250,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4102,7 +4265,7 @@
         "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -4119,6 +4282,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4132,7 +4296,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -4149,6 +4313,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4161,7 +4326,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -4173,6 +4338,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4188,7 +4354,7 @@
         "effect": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -4200,6 +4366,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4213,7 +4380,7 @@
         "effect": "Put a random Supporter card from your deck into your hand."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4225,6 +4392,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4236,7 +4404,7 @@
         "effect": "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 Colorless more."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -4248,6 +4416,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4261,7 +4430,7 @@
         "effect": "Discard a card from your hand. If you can't, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4273,6 +4442,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4285,7 +4455,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Claw Fossil",
@@ -4297,6 +4467,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4310,7 +4481,7 @@
         "effect": "Draw a card for each Poochyena you have in play."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -4322,6 +4493,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4334,7 +4506,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4346,6 +4518,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4359,7 +4532,7 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -4371,6 +4544,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4385,7 +4559,7 @@
         "effect": "During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -4397,6 +4571,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4410,7 +4585,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [
       {
@@ -4427,6 +4602,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4442,7 +4618,7 @@
         "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 60 damage to it."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Noibat",
@@ -4454,6 +4630,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4469,7 +4646,7 @@
         "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -4481,6 +4658,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4494,7 +4672,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -4511,6 +4689,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4524,7 +4703,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4536,6 +4715,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4550,7 +4730,7 @@
         "effect": "You may discard 1 of your Benched Basic Grass Pokémon. If you do, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Combee",
@@ -4562,6 +4742,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4577,7 +4758,7 @@
         "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Quilava",
@@ -4589,6 +4770,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 190,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4602,7 +4784,7 @@
         "effect": "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Water Pokémon."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Carvanha",
@@ -4614,6 +4796,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 250,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4630,7 +4813,7 @@
         "effect": "This Pokémon recovers from all Special Conditions."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wailmer",
@@ -4642,6 +4825,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4656,7 +4840,7 @@
         "effect": "This attack does 10 more damage for each Item card in your discard pile."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4668,6 +4852,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 220,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4683,7 +4868,7 @@
         "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Kirlia",
@@ -4695,6 +4880,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4718,7 +4904,7 @@
         "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -4730,6 +4916,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 230,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4745,7 +4932,7 @@
         "effect": "This attack does 10 more damage for each Metal Energy attached to this Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Metang",
@@ -4757,6 +4944,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 180,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4771,7 +4959,7 @@
         "effect": "Discard all Fire and Lightning Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -4783,6 +4971,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4798,7 +4987,7 @@
         "effect": "During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Ducklett",
@@ -4810,6 +4999,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "You can use this card only if your Pokémon in the Active Spot has the Psychic attack. Choose 1 of your opponent's Benched Pokémon and move a random Energy from it to your opponent's Active Pokémon.",
     "health": null,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4826,6 +5016,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, 1 of your opponent's Pokémon is chosen 1 more time for the Draco Meteor attack used by your Pokémon.",
     "health": null,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4842,6 +5033,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Switch your Active Stage 1 Pokémon with 1 of your Benched Pokémon.",
     "health": null,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4858,6 +5050,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Take a Colorless Energy from your Energy Zone and attach it to 1 of your Stage 2 Pokémon.",
     "health": null,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4874,6 +5067,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4888,7 +5082,7 @@
         "effect": "You may discard 1 of your Benched Basic Grass Pokémon. If you do, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Combee",
@@ -4900,6 +5094,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4915,7 +5110,7 @@
         "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Quilava",
@@ -4927,6 +5122,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 190,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4940,7 +5136,7 @@
         "effect": "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Water Pokémon."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Carvanha",
@@ -4952,6 +5148,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 250,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4968,7 +5165,7 @@
         "effect": "This Pokémon recovers from all Special Conditions."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wailmer",
@@ -4980,6 +5177,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 220,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -4995,7 +5193,7 @@
         "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Kirlia",
@@ -5007,6 +5205,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5030,7 +5229,7 @@
         "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -5042,6 +5241,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 230,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5057,7 +5257,7 @@
         "effect": "This attack does 10 more damage for each Metal Energy attached to this Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Metang",
@@ -5069,6 +5269,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5084,7 +5285,7 @@
         "effect": "During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Ducklett",
@@ -5096,6 +5297,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5110,7 +5312,7 @@
         "effect": "This attack does 10 more damage for each Item card in your discard pile."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -5122,6 +5324,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 180,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5136,7 +5339,7 @@
         "effect": "Discard all Fire and Lightning Energy from this Pokémon, and this attack does 50 damage for each Energy you discarded in this way."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -5148,6 +5351,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5160,11 +5364,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-205",
@@ -5172,6 +5376,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5184,11 +5389,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-206",
@@ -5196,6 +5401,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5209,11 +5415,11 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Mudkip",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-207",
@@ -5221,6 +5427,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5236,11 +5443,11 @@
         "effect": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Marshtomp",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-208",
@@ -5248,6 +5455,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5260,11 +5468,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-209",
@@ -5272,6 +5480,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5285,11 +5494,11 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-210",
@@ -5297,6 +5506,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5310,11 +5520,11 @@
         "effect": "If Plusle is on your Bench, this attack also does 10 damage to each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-211",
@@ -5322,6 +5532,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5336,11 +5547,11 @@
         "effect": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-212",
@@ -5348,6 +5559,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5363,11 +5575,11 @@
         "effect": "This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-213",
@@ -5375,6 +5587,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5388,11 +5601,11 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-214",
@@ -5400,6 +5613,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5414,11 +5628,11 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Roggenrola",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-215",
@@ -5426,6 +5640,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5438,7 +5653,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [
       {
@@ -5447,7 +5662,7 @@
       }
     ],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-216",
@@ -5455,6 +5670,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5468,11 +5684,11 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-217",
@@ -5480,6 +5696,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5493,11 +5710,11 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Koffing",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-218",
@@ -5505,6 +5722,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5517,11 +5735,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-219",
@@ -5529,6 +5747,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5542,7 +5761,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [
       {
@@ -5551,7 +5770,7 @@
       }
     ],
     "evolvesFrom": "Galarian Meowth",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-220",
@@ -5559,6 +5778,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5572,11 +5792,11 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-221",
@@ -5584,6 +5804,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5597,7 +5818,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -5606,7 +5827,7 @@
       }
     ],
     "evolvesFrom": "Rattata",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-222",
@@ -5614,6 +5835,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5627,7 +5849,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -5636,7 +5858,7 @@
       }
     ],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-223",
@@ -5644,6 +5866,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5657,11 +5880,11 @@
         "effect": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b4-224",
@@ -5669,6 +5892,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5692,11 +5916,11 @@
         "effect": "Discard 3 Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b4-225",
@@ -5704,6 +5928,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5718,11 +5943,11 @@
         "effect": "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Alolan Vulpix",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b4-226",
@@ -5730,6 +5955,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 230,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5745,11 +5971,11 @@
         "effect": "Discard 2 random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Marshtomp",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b4-227",
@@ -5757,6 +5983,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 210,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5771,11 +5998,11 @@
         "effect": "Take 3 Psychic Energy from your Energy Zone and attach it to your Psychic Pokémon in any way you like."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Kirlia",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b4-228",
@@ -5783,6 +6010,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 190,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5797,11 +6025,11 @@
         "effect": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Buneary",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b4-229",
@@ -5809,6 +6037,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 190,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5825,11 +6054,11 @@
         "effect": "This attack does 140 damage to 1 of your opponent's Pokémon. During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Boldore",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b4-230",
@@ -5837,6 +6066,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5850,11 +6080,11 @@
         "effect": "This attack does 30 damage for each of your Benched Darkness Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Zorua",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b4-231",
@@ -5862,6 +6092,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 180,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5877,11 +6108,11 @@
         "effect": "This attack is used twice in a row. The second attack does 40 damage. (If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)"
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b4-232",
@@ -5889,6 +6120,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5902,7 +6134,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -5919,6 +6151,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Ruler of the Skies (B4)",
     "pack": null,
@@ -5932,7 +6165,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [
       {

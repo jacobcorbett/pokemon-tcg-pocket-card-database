@@ -1,13 +1,49 @@
-# Pokemon TCG Pocket Card database
+# Pokemon TCG Pocket Card Database
 
-An Open source database of cards for the pokemon trading card game pocket mobile game.
+An English-only JSON database of gameplay data for every Pokemon TCG Pocket card released through **Ruler of the Skies (B4)**.
 
-The goal of this repository is to create a standard, scalable and up-to-date collection of the cards as the game evolves so they can be used by the community to create apps for the game.
+This project was [forked from Hugo Burguete's original repository](https://github.com/hugoburguete/pokemon-tcg-pocket-card-database) on **10 August 2026**. The exact upstream starting point is preserved at [`b636dd0`](https://github.com/hugoburguete/pokemon-tcg-pocket-card-database/tree/b636dd08eff20c9d555fe395930ae05015d67422).
 
-## How to use
+## What's included
 
-All cards can be found within the cards directory. Within the cards directory, you will find subdirectories for each supported locale. Finally, within those folders you'll find a JSON file for each set.
+- 3,761 English cards across 22 sets and promo series
+- One JSON file per set in [`cards/en`](cards/en)
+- Pokemon attacks, abilities, evolution links, weaknesses, retreat costs and rarities
+- Trainer card effects
+- A structural and completeness validator
 
-## Contribution
+French data from the upstream repository is intentionally not maintained in this fork.
 
-If there are any issues, feel free to raise them. PRs are also welcome if you would like to improve on the data set.
+## Usage
+
+```js
+const { en } = require('pokemon-tcg-pocket-card-database');
+
+const rayquaza = en.rulerOfTheSkies.find(
+  (card) => card.name === 'Mega Rayquaza ex',
+);
+```
+
+Each card follows this shape:
+
+```js
+{
+  id, name, element, type, subtype, effect, health,
+  set, pack, attacks, retreatCost, weakness,
+  abilities, evolvesFrom, rarity
+}
+```
+
+The package includes TypeScript declarations for the full schema.
+
+## Validation
+
+```sh
+npm test
+```
+
+The validator checks the expected set inventory and card counts, contiguous and unique IDs, schema consistency, enum values, evolution references, English exports and the absence of locale directories.
+
+## Contributing
+
+Issues and pull requests are welcome. Please keep additions in the existing English schema, include the complete numbered set, cite the source used, and run `npm test` before submitting.

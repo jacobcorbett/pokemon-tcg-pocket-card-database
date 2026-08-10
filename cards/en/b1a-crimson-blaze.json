@@ -5,8 +5,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -17,7 +18,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -29,8 +30,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -42,7 +44,7 @@
         "effect": "Take 2 Grass Energy from your Energy Zone and attach it to this Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Bulbasaur",
@@ -54,8 +56,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -70,7 +73,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Ivysaur",
@@ -82,8 +85,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 240,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -98,7 +102,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned and Asleep."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Ivysaur",
@@ -110,8 +114,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -122,7 +127,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -134,8 +139,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -146,7 +152,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -163,8 +169,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -175,7 +182,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -187,8 +194,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -200,7 +208,7 @@
         "effect": "If Quick-Grow Extract is in your discard pile, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Sunkern",
@@ -212,8 +220,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -225,7 +234,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -237,8 +246,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -251,7 +261,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Burmy",
@@ -263,8 +273,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -276,7 +287,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -288,8 +299,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -302,7 +314,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [
       {
@@ -319,8 +331,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -335,7 +348,7 @@
         "effect": "This Pokémon also does 30 damage to itself."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
@@ -347,8 +360,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 220,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -363,7 +377,7 @@
         "effect": "This Pokémon also does 50 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
@@ -375,8 +389,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -388,7 +403,7 @@
         "effect": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -400,8 +415,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -412,7 +428,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Houndour",
@@ -424,8 +440,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -437,7 +454,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -449,8 +466,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -463,7 +481,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -480,8 +498,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -495,7 +514,7 @@
         "effect": "If this Pokémon has at least 2 extra Water Energy attached, this attack also does 50 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wartortle",
@@ -507,8 +526,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 230,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -522,7 +542,7 @@
         "effect": "If this Pokémon has at least 3 extra Water Energy attached, this attack also does 50 damage to 2 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wartortle",
@@ -534,8 +554,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -548,7 +569,7 @@
         "effect": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -560,8 +581,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -572,7 +594,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -584,8 +606,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -597,7 +620,7 @@
         "effect": "This attack does 20 damage to each of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Clauncher",
@@ -609,8 +632,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -621,7 +645,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -633,8 +657,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -646,7 +671,7 @@
         "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Magnemite",
@@ -658,8 +683,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -673,7 +699,7 @@
         "effect": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Magneton",
@@ -685,8 +711,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -698,7 +725,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -710,8 +737,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -723,7 +751,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -735,8 +763,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -749,7 +778,7 @@
         "effect": "Discard all Energy from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Helioptile",
@@ -761,8 +790,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -774,7 +804,7 @@
         "effect": "Put a random Supporter card from your deck into your hand."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -786,8 +816,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -800,7 +831,7 @@
         "effect": "Move all Psychic Energy from this Pokémon to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Misdreavus",
@@ -812,8 +843,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 40,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -824,7 +856,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -836,8 +868,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 70,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -849,7 +882,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Solosis",
@@ -861,8 +894,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 90,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -875,7 +909,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -892,8 +926,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -905,7 +940,7 @@
         "effect": "Heal 20 damage from 1 of your Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -917,8 +952,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -931,7 +967,7 @@
         "effect": "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 Colorless more."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Spritzee",
@@ -943,8 +979,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -958,7 +995,7 @@
         "effect": "This attack's damage is reduced by the amount of damage this Pokémon has on it."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -970,8 +1007,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -985,7 +1023,7 @@
         "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -997,8 +1035,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1010,7 +1049,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -1022,8 +1061,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1036,7 +1076,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Makuhita",
@@ -1048,8 +1088,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1061,7 +1102,7 @@
         "effect": "Flip a coin. If heads, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -1073,8 +1114,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 190,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1087,7 +1129,7 @@
         "effect": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Buneary",
@@ -1099,8 +1141,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1111,7 +1154,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -1123,8 +1166,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1135,7 +1179,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Mienfoo",
@@ -1147,8 +1191,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1160,7 +1205,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1172,8 +1217,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1187,7 +1233,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Grimer",
@@ -1199,8 +1245,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1212,7 +1259,7 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -1224,8 +1271,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1237,7 +1285,7 @@
         "effect": "Your opponent reveals a random card from their hand and shuffles it into their deck. Shuffle this Pokémon into your deck."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Purrloin",
@@ -1249,8 +1297,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1262,7 +1311,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1274,8 +1323,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1289,7 +1339,7 @@
         "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Trubbish",
@@ -1301,8 +1351,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1317,7 +1368,7 @@
         "effect": "During your opponent's next turn, this Pokémon has no Weakness."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Onix",
@@ -1329,8 +1380,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 220,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1342,10 +1394,10 @@
           "Colorless",
           "Colorless"
         ],
-        "effect": "During your opponent's next turn, this Pokémon takes  damage from attacks and has no Weakness."
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks and has no Weakness."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Onix",
@@ -1357,8 +1409,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1371,7 +1424,7 @@
         "effect": "Take 2 Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Nosepass",
@@ -1383,8 +1436,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1398,7 +1452,7 @@
         "effect": "This attack does 20 more damage for each Metal Energy attached to this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1410,8 +1464,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1423,7 +1478,7 @@
         "effect": "Choose 1 of your Benched Pokémon's attacks, except any Pokémon ex, and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1435,8 +1490,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1448,7 +1504,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1460,8 +1516,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1473,7 +1530,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Porygon",
@@ -1485,8 +1542,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1500,7 +1558,7 @@
         "effect": "This attack does 20 more damage for each Trainer card in your opponent's deck."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Porygon2",
@@ -1512,8 +1570,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1525,7 +1584,7 @@
         "effect": "Put 1 random Starly from your deck onto your Bench."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1537,8 +1596,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1551,7 +1611,7 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Starly",
@@ -1563,8 +1623,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1578,7 +1639,7 @@
         "effect": "Flip 4 coins. This attack does 50 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Staravia",
@@ -1590,8 +1651,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1603,7 +1665,7 @@
         "effect": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1615,8 +1677,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1629,7 +1692,7 @@
         "effect": "Flip 2 coins. This attack does 50 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Buneary",
@@ -1641,8 +1704,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1655,7 +1719,7 @@
         "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1667,8 +1731,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1679,7 +1744,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -1696,8 +1761,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "During this turn, attacks used by your Magneton or Heliolisk do +20 damage to your opponent's Pokémon.",
     "health": null,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -1712,8 +1778,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Choose 1 of your Grass Pokémon in play. Put a random Grass Pokémon from your deck that evolves from that Pokémon onto that Pokémon to evolve it. You can't use this card during your first turn or on a Pokémon that was put into play this turn.",
     "health": null,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -1728,8 +1795,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Put 2 random cards from among Magneton, Heliolisk, and Clemont's Backpack from your deck into your hand.",
     "health": null,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -1744,8 +1812,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Put a random Mega Evolution Pokémon ex from your deck into your hand.",
     "health": null,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -1760,8 +1829,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1772,7 +1842,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -1789,8 +1859,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1802,7 +1873,7 @@
         "effect": "If Quick-Grow Extract is in your discard pile, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Sunkern",
@@ -1814,8 +1885,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 90,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1828,7 +1900,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -1845,8 +1917,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1860,7 +1933,7 @@
         "effect": "This attack's damage is reduced by the amount of damage this Pokémon has on it."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -1872,8 +1945,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1885,7 +1959,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1897,8 +1971,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1910,7 +1985,7 @@
         "effect": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1922,8 +1997,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 240,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1938,7 +2014,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned and Asleep."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Ivysaur",
@@ -1950,8 +2026,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 220,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1966,7 +2043,7 @@
         "effect": "This Pokémon also does 50 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
@@ -1978,8 +2055,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 230,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -1993,7 +2071,7 @@
         "effect": "If this Pokémon has at least 3 extra Water Energy attached, this attack also does 50 damage to 2 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wartortle",
@@ -2005,8 +2083,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 190,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2019,7 +2098,7 @@
         "effect": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Buneary",
@@ -2031,8 +2110,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 220,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2044,10 +2124,10 @@
           "Colorless",
           "Colorless"
         ],
-        "effect": "During your opponent's next turn, this Pokémon takes  damage from attacks and has no Weakness."
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks and has no Weakness."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Onix",
@@ -2059,8 +2139,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Put 2 random cards from among Magneton, Heliolisk, and Clemont's Backpack from your deck into your hand.",
     "health": null,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2075,8 +2156,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Put a random Mega Evolution Pokémon ex from your deck into your hand.",
     "health": null,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2091,8 +2173,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 240,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2107,7 +2190,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned and Asleep."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Ivysaur",
@@ -2119,8 +2202,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 230,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2134,7 +2218,7 @@
         "effect": "If this Pokémon has at least 3 extra Water Energy attached, this attack also does 50 damage to 2 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wartortle",
@@ -2146,8 +2230,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 190,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2160,7 +2245,7 @@
         "effect": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Buneary",
@@ -2172,8 +2257,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 220,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2185,10 +2271,10 @@
           "Colorless",
           "Colorless"
         ],
-        "effect": "During your opponent's next turn, this Pokémon takes  damage from attacks and has no Weakness."
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks and has no Weakness."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Onix",
@@ -2200,8 +2286,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 220,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2216,7 +2303,7 @@
         "effect": "This Pokémon also does 50 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
@@ -2228,8 +2315,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2241,11 +2329,11 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1a-089",
@@ -2253,8 +2341,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2266,11 +2355,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Oddish",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1a-090",
@@ -2278,8 +2367,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2293,11 +2383,11 @@
         "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Gloom",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1a-091",
@@ -2305,8 +2395,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2321,11 +2412,11 @@
         "effect": "This Pokémon also does 30 damage to itself."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1a-092",
@@ -2333,8 +2424,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2345,11 +2437,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1a-093",
@@ -2357,8 +2449,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2371,11 +2464,11 @@
         "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Shellder",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1a-094",
@@ -2383,8 +2476,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2395,11 +2489,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1a-095",
@@ -2407,8 +2501,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2419,11 +2514,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Sandshrew",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1a-096",
@@ -2431,8 +2526,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2444,11 +2540,11 @@
         "effect": "Flip a coin. If heads, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1a-097",
@@ -2456,8 +2552,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2470,11 +2567,11 @@
         "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Type: Null",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1a-098",
@@ -2482,8 +2579,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2505,11 +2603,11 @@
         "effect": "During your next turn, this Pokémon can't use Big Beat."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b1a-099",
@@ -2517,8 +2615,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2531,7 +2630,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -2540,7 +2639,7 @@
       }
     ],
     "evolvesFrom": "Cosmoem",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b1a-100",
@@ -2548,8 +2647,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 170,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2572,11 +2672,11 @@
         ]
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b1a-101",
@@ -2584,8 +2684,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2598,7 +2699,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [
       {
@@ -2607,7 +2708,7 @@
       }
     ],
     "evolvesFrom": "Cosmoem",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b1a-102",
@@ -2615,8 +2716,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [
       {
@@ -2629,7 +2731,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [
       {
@@ -2646,8 +2748,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Choose 1 of your Grass Pokémon in play. Put a random Grass Pokémon from your deck that evolves from that Pokémon onto that Pokémon to evolve it. You can't use this card during your first turn or on a Pokémon that was put into play this turn.",
     "health": null,
-    "set": "Crimson Blaze  (B1a)",
+    "set": "Crimson Blaze (B1a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,

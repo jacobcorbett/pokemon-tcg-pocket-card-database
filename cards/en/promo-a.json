@@ -5,6 +5,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Heal 20 damage from 1 of your Pokémon.",
     "health": null,
     "set": "Promo-A",
     "pack": null,
@@ -21,6 +22,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "During this turn, the Retreat Cost of your Active Pokémon is 1 less.",
     "health": null,
     "set": "Promo-A",
     "pack": null,
@@ -37,6 +39,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Your opponent reveals their hand.",
     "health": null,
     "set": "Promo-A",
     "pack": null,
@@ -53,6 +56,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Look at the top 3 cards of your deck.",
     "health": null,
     "set": "Promo-A",
     "pack": null,
@@ -69,6 +73,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Put 1 random Basic Pokémon from your deck into your hand.",
     "health": null,
     "set": "Promo-A",
     "pack": null,
@@ -85,6 +90,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Your opponent shuffles their hand into their deck and draws 3 cards.",
     "health": null,
     "set": "Promo-A",
     "pack": null,
@@ -101,6 +107,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Draw 2 cards.",
     "health": null,
     "set": "Promo-A",
     "pack": null,
@@ -117,6 +124,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Look at the top 3 cards of your deck.",
     "health": null,
     "set": "Promo-A",
     "pack": null,
@@ -133,6 +141,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -145,7 +154,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -157,6 +166,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Promo-A",
     "pack": null,
@@ -173,7 +183,7 @@
         "effect": "Discard 2 Psychic Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -185,6 +195,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Promo-A",
     "pack": null,
@@ -199,7 +210,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -211,6 +222,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -224,7 +236,7 @@
         "effect": "Draw 1 card."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -236,6 +248,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 120,
     "set": "Promo-A",
     "pack": null,
@@ -250,7 +263,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -267,6 +280,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Promo-A",
     "pack": null,
@@ -282,7 +296,7 @@
         "effect": "Heal 20 damage from this Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -294,6 +308,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -306,7 +321,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -318,6 +333,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -330,7 +346,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -342,6 +358,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Promo-A",
     "pack": null,
@@ -355,7 +372,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -367,6 +384,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
     "set": "Promo-A",
     "pack": null,
@@ -383,7 +401,7 @@
         "effect": "Heal 30 damage from this Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Ivysaur",
@@ -395,6 +413,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 120,
     "set": "Promo-A",
     "pack": null,
@@ -408,7 +427,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -425,6 +444,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 70,
     "set": "Promo-A",
     "pack": null,
@@ -438,7 +458,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Gastly",
@@ -450,6 +470,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
     "set": "Promo-A",
     "pack": null,
@@ -464,7 +485,7 @@
         ]
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -476,6 +497,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -489,7 +511,7 @@
         "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -501,6 +523,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Promo-A",
     "pack": null,
@@ -514,7 +537,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -526,6 +549,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -538,7 +562,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -550,6 +574,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Promo-A",
     "pack": null,
@@ -572,7 +597,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -584,6 +609,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -596,7 +622,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -608,6 +634,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -620,7 +647,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -632,6 +659,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Promo-A",
     "pack": null,
@@ -647,7 +675,7 @@
         "effect": "Discard 2 Fire Energy from this Pokémon. This attack does 80 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Larvesta",
@@ -659,6 +687,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Promo-A",
     "pack": null,
@@ -674,7 +703,7 @@
         "effect": "If this Pokémon has at least 2 extra Water Energy attached, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wartortle",
@@ -686,6 +715,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -699,7 +729,7 @@
         "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -711,6 +741,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Promo-A",
     "pack": null,
@@ -726,7 +757,7 @@
         "effect": "This attack does 30 damage for each of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Minccino",
@@ -738,6 +769,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -751,7 +783,7 @@
         "effect": "Discard a Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -763,6 +795,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -775,7 +808,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -787,6 +820,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -800,7 +834,7 @@
         "effect": "Heal 20 damage from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -812,6 +846,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Promo-A",
     "pack": null,
@@ -825,7 +860,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -837,6 +872,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Promo-A",
     "pack": null,
@@ -851,7 +887,7 @@
         "effect": "If this Pokémon has at least 2 extra Lightning Energy attached, this attack does 80 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Electabuzz",
@@ -863,6 +899,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Promo-A",
     "pack": null,
@@ -877,7 +914,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -894,6 +931,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -907,7 +945,7 @@
         "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -919,6 +957,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Promo-A",
     "pack": null,
@@ -932,7 +971,7 @@
         "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -944,6 +983,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -956,7 +996,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -968,6 +1008,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Promo-A",
     "pack": null,
@@ -980,7 +1021,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -992,6 +1033,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Promo-A",
     "pack": null,
@@ -1006,7 +1048,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [
       {
@@ -1023,6 +1065,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Promo-A",
     "pack": null,
@@ -1037,7 +1080,7 @@
         "effect": "Heal 20 damage from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Cherubi",
@@ -1049,6 +1092,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Promo-A",
     "pack": null,
@@ -1063,7 +1107,7 @@
         "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -1080,6 +1124,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -1094,7 +1139,7 @@
         "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -1106,6 +1151,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -1118,7 +1164,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -1130,6 +1176,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Promo-A",
     "pack": null,
@@ -1144,7 +1191,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -1161,6 +1208,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Promo-A",
     "pack": null,
@@ -1174,7 +1222,7 @@
         "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a Water Energy from your Energy Zone and attach it to that Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1186,6 +1234,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Promo-A",
     "pack": null,
@@ -1202,7 +1251,7 @@
         "effect": "This Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1214,6 +1263,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Promo-A",
     "pack": null,
@@ -1238,7 +1288,7 @@
         "effect": "Discard 2 Psychic Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1250,6 +1300,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Promo-A",
     "pack": null,
@@ -1263,7 +1314,7 @@
         "effect": "During your next turn, this Pokémon's Overacceleration attack does +20 damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1275,6 +1326,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -1288,7 +1340,7 @@
         "effect": "Put 1 random Grass Pokémon from your deck into your hand."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1300,6 +1352,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Promo-A",
     "pack": null,
@@ -1313,7 +1366,7 @@
         "effect": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Buizel",
@@ -1325,6 +1378,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Promo-A",
     "pack": null,
@@ -1338,7 +1392,7 @@
         ]
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -1355,6 +1409,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Promo-A",
     "pack": null,
@@ -1369,7 +1424,7 @@
         "effect": "If this Pokémon has at least 2 extra Fighting Energy attached, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Machoke",
@@ -1381,6 +1436,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -1394,7 +1450,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1406,6 +1462,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Promo-A",
     "pack": null,
@@ -1419,7 +1476,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1431,6 +1488,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Promo-A",
     "pack": null,
@@ -1444,7 +1502,7 @@
         "effect": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1456,6 +1514,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Promo-A",
     "pack": null,
@@ -1469,7 +1528,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -1481,6 +1540,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Promo-A",
     "pack": null,
@@ -1494,7 +1554,7 @@
         "effect": "Take a Grass Energy from your Energy Zone and attach it to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1506,6 +1566,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -1518,7 +1579,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1530,6 +1591,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -1542,7 +1604,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1554,6 +1616,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Promo-A",
     "pack": null,
@@ -1570,7 +1633,7 @@
         "effect": "Flip a coin until you get tails. This attack does 30 more damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1582,6 +1645,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Promo-A",
     "pack": null,
@@ -1598,7 +1662,7 @@
         "effect": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 40 damage to it."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1610,6 +1674,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Promo-A",
     "pack": null,
@@ -1626,7 +1691,7 @@
         "effect": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 40 damage to it."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1638,6 +1703,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Promo-A",
     "pack": null,
@@ -1652,7 +1718,7 @@
         "effect": "This attack also does 20 damage to 1 of your Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1664,6 +1730,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -1677,7 +1744,7 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1689,6 +1756,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Promo-A",
     "pack": null,
@@ -1704,7 +1772,7 @@
         "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Rockruff",
@@ -1716,6 +1784,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
     "set": "Promo-A",
     "pack": null,
@@ -1731,7 +1800,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Exeggcute",
@@ -1743,6 +1812,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Promo-A",
     "pack": null,
@@ -1758,7 +1828,7 @@
         "effect": "This attack also does 20 damage to each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Alolan Vulpix",
@@ -1770,6 +1840,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Promo-A",
     "pack": null,
@@ -1782,7 +1853,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -1794,6 +1865,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Promo-A",
     "pack": null,
@@ -1807,7 +1879,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1819,6 +1891,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Promo-A",
     "pack": null,
@@ -1833,7 +1906,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Trumbeak",
@@ -1845,6 +1918,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Promo-A",
     "pack": null,
@@ -1858,7 +1932,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -1875,6 +1949,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -1887,7 +1962,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1899,6 +1974,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Promo-A",
     "pack": null,
@@ -1914,7 +1990,7 @@
         "effect": "This Pokémon also does 70 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -1926,6 +2002,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Promo-A",
     "pack": null,
@@ -1941,7 +2018,7 @@
         "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1953,9 +2030,10 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
     "set": "Promo-A",
-    "pack": "Promo pack",
+    "pack": null,
     "attacks": [
       {
         "name": "Psychobilly",
@@ -1968,11 +2046,11 @@
         "effect": "This Pokémon also does 30 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Rare"
+    "rarity": null
   },
   {
     "id": "p-a-079",
@@ -1980,9 +2058,10 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
     "set": "Promo-A",
-    "pack": "Promo pack",
+    "pack": null,
     "attacks": [
       {
         "name": "Black Metal",
@@ -1995,11 +2074,11 @@
         "effect": "Discard a Metal Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Rare"
+    "rarity": null
   },
   {
     "id": "p-a-080",
@@ -2007,6 +2086,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
     "set": "Promo-A",
     "pack": null,
@@ -2021,7 +2101,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -2033,9 +2113,10 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Promo-A",
-    "pack": "Promo pack",
+    "pack": null,
     "attacks": [
       {
         "name": "Photon Claw",
@@ -2058,11 +2139,11 @@
         "effect": "Discard the top 5 cards of each player's deck."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Rare EX"
+    "rarity": null
   },
   {
     "id": "p-a-082",
@@ -2070,6 +2151,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -2083,7 +2165,7 @@
         "effect": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2095,6 +2177,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Promo-A",
     "pack": null,
@@ -2108,7 +2191,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2120,6 +2203,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
     "set": "Promo-A",
     "pack": null,
@@ -2142,7 +2226,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2154,6 +2238,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -2167,7 +2252,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -2179,6 +2264,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Promo-A",
     "pack": null,
@@ -2192,7 +2278,7 @@
         "effect": "If this Pokémon evolved during this turn, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -2204,6 +2290,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Promo-A",
     "pack": null,
@@ -2217,7 +2304,7 @@
         "effect": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Milcery",
@@ -2229,6 +2316,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Promo-A",
     "pack": null,
@@ -2242,7 +2330,7 @@
         "effect": "Heal 30 damage from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dratini",
@@ -2254,6 +2342,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Promo-A",
     "pack": null,
@@ -2268,7 +2357,7 @@
         "effect": "Heal 10 damage from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2280,6 +2369,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Promo-A",
     "pack": null,
@@ -2294,7 +2384,7 @@
         "effect": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -2306,6 +2396,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Promo-A",
     "pack": null,
@@ -2321,7 +2412,7 @@
         "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Skwovet",
@@ -2333,6 +2424,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -2345,7 +2437,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2357,6 +2449,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
     "set": "Promo-A",
     "pack": null,
@@ -2364,13 +2457,11 @@
       {
         "name": "Twinkly Call",
         "damage": "",
-        "cost": [
-          null
-        ],
+        "cost": [],
         "effect": "Put a random Pokémon from your deck into your hand."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -2382,6 +2473,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -2395,7 +2487,7 @@
         "effect": "This attack does 10 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2407,6 +2499,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -2420,7 +2513,7 @@
         "effect": "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2432,6 +2525,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Promo-A",
     "pack": null,
@@ -2447,7 +2541,7 @@
         "effect": "Discard a random card from your opponent's hand."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Houndour",
@@ -2459,6 +2553,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Promo-A",
     "pack": null,
@@ -2472,7 +2567,7 @@
         "effect": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2484,6 +2579,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 180,
     "set": "Promo-A",
     "pack": null,
@@ -2500,7 +2596,7 @@
         "effect": "Flip a coin. If heads, heal 60 damage from this Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Chansey",
@@ -2512,6 +2608,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -2524,7 +2621,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2536,6 +2633,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Promo-A",
     "pack": null,
@@ -2548,7 +2646,7 @@
         ]
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Sneasel",
@@ -2560,6 +2658,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Promo-A",
     "pack": null,
@@ -2573,7 +2672,7 @@
         "effect": "If Latios is on your Bench, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2585,6 +2684,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Promo-A",
     "pack": null,
@@ -2599,7 +2699,7 @@
         "effect": "Flip 2 coins. This attack does 40 damage for each heads."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -2611,6 +2711,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -2624,7 +2725,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2636,6 +2737,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Promo-A",
     "pack": null,
@@ -2649,7 +2751,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -2666,6 +2768,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
     "pack": null,
@@ -2678,7 +2781,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2690,6 +2793,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Promo-A",
     "pack": null,
@@ -2703,7 +2807,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [
       {
@@ -2720,6 +2824,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
     "set": "Promo-A",
     "pack": null,
@@ -2733,7 +2838,7 @@
         "effect": "Until this Pokémon leaves the Active Spot, this Pokémon's Rolling Frenzy attack does +30 damage. This effect stacks."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2745,6 +2850,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Promo-A",
     "pack": null,
@@ -2758,7 +2864,7 @@
         "effect": "This attack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2770,9 +2876,10 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Promo-A",
-    "pack": "Missions",
+    "pack": null,
     "attacks": [
       {
         "name": "Bite",
@@ -2782,7 +2889,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -2791,7 +2898,7 @@
       }
     ],
     "evolvesFrom": null,
-    "rarity": "Full Art EX/Support"
+    "rarity": null
   },
   {
     "id": "p-a-110",
@@ -2799,9 +2906,10 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Promo-A",
-    "pack": "Premium Missions",
+    "pack": null,
     "attacks": [
       {
         "name": "Blazing Beatdown",
@@ -2813,7 +2921,7 @@
         "effect": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [
       {
@@ -2822,7 +2930,7 @@
       }
     ],
     "evolvesFrom": null,
-    "rarity": "Rare EX"
+    "rarity": null
   },
   {
     "id": "p-a-111",
@@ -2830,9 +2938,10 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
-    "pack": "Promo pack",
+    "pack": null,
     "attacks": [
       {
         "name": "Quick Attack",
@@ -2844,11 +2953,11 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Common"
+    "rarity": null
   },
   {
     "id": "p-a-112",
@@ -2856,9 +2965,10 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Promo-A",
-    "pack": "Promo pack",
+    "pack": null,
     "attacks": [
       {
         "name": "Volt Tackle",
@@ -2871,11 +2981,11 @@
         "effect": "This Pokémon also does 30 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Pikachu",
-    "rarity": "Rare EX"
+    "rarity": null
   },
   {
     "id": "p-a-113",
@@ -2883,9 +2993,10 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Promo-A",
-    "pack": "Promo pack",
+    "pack": null,
     "attacks": [
       {
         "name": "Try to Imitate",
@@ -2897,11 +3008,11 @@
         "effect": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Common"
+    "rarity": null
   },
   {
     "id": "p-a-114",
@@ -2909,9 +3020,10 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Promo-A",
-    "pack": "Promo pack",
+    "pack": null,
     "attacks": [
       {
         "name": "Hurricane Punch",
@@ -2924,11 +3036,11 @@
         "effect": "Flip 4 coins. This attack does 50 damage for each heads."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Machoke",
-    "rarity": "Common"
+    "rarity": null
   },
   {
     "id": "p-a-115",
@@ -2936,9 +3048,10 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Promo-A",
-    "pack": "Promo pack",
+    "pack": null,
     "attacks": [
       {
         "name": "Raging Hammer",
@@ -2952,11 +3065,11 @@
         "effect": "This attack does more damage equal to the damage this Pokémon has on it."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Rare"
+    "rarity": null
   },
   {
     "id": "p-a-116",
@@ -2964,9 +3077,10 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-A",
-    "pack": "Wonder Pick",
+    "pack": null,
     "attacks": [
       {
         "name": "Flop",
@@ -2977,7 +3091,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -2986,7 +3100,7 @@
       }
     ],
     "evolvesFrom": null,
-    "rarity": "Rare"
+    "rarity": null
   },
   {
     "id": "p-a-117",
@@ -2994,9 +3108,10 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Promo-A",
-    "pack": "Wonder Pick",
+    "pack": null,
     "attacks": [
       {
         "name": "Leap Over",
@@ -3007,10 +3122,10 @@
         "effect": "This attack does 30 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Rare"
+    "rarity": null
   }
 ]

@@ -5,8 +5,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -18,7 +19,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -30,8 +31,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -43,7 +45,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Oddish",
@@ -55,8 +57,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -69,7 +72,7 @@
         "effect": "Flip 3 coins. This attack does 60 damage for each heads. This Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Gloom",
@@ -81,8 +84,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -95,7 +99,7 @@
         "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -107,8 +111,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -122,7 +127,7 @@
         "effect": "This attack does 40 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Tangela",
@@ -134,8 +139,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -146,7 +152,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -158,8 +164,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -172,7 +179,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -184,8 +191,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -196,7 +204,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -208,8 +216,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -221,7 +230,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Chikorita",
@@ -233,8 +242,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -248,7 +258,7 @@
         "effect": "Heal 20 damage from each of your Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Bayleef",
@@ -260,8 +270,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -272,7 +283,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -284,8 +295,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -296,7 +308,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Ledyba",
@@ -308,8 +320,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -320,7 +333,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -332,8 +345,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -344,7 +358,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Hoppip",
@@ -356,8 +370,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 120,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -368,7 +383,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -385,8 +400,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 40,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -398,7 +414,7 @@
         "effect": "Heal 10 damage from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -410,8 +426,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -423,7 +440,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Sunkern",
@@ -435,8 +452,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -449,7 +467,7 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -461,8 +479,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -474,7 +493,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Yanma",
@@ -486,8 +505,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -499,7 +519,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -511,8 +531,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -524,7 +545,7 @@
         "effect": "Flip 3 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -541,8 +562,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -555,7 +577,7 @@
         "effect": "If this Pokémon has no damage on it, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -567,8 +589,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -580,7 +603,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -597,8 +620,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -609,7 +633,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Cherubi",
@@ -621,8 +645,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -634,7 +659,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -646,8 +671,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -661,7 +687,7 @@
         "effect": "During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Vulpix",
@@ -673,8 +699,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -685,7 +712,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -697,8 +724,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -709,7 +737,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Cyndaquil",
@@ -721,8 +749,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -734,7 +763,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [
       {
@@ -751,8 +780,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -764,7 +794,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -776,13 +806,14 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
         "name": "Spurt Fire",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Fire",
           "Colorless"
@@ -790,7 +821,7 @@
         "effect": "1 other Pokémon (either yours or your opponent's) is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Slugma",
@@ -802,20 +833,19 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
         "name": "Toasty Toss",
-        "damage": "0",
-        "cost": [
-          null
-        ],
+        "damage": "",
+        "cost": [],
         "effect": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -827,8 +857,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -843,7 +874,7 @@
         "effect": "Flip a coin. If tails, discard 2 random Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -855,8 +886,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -870,7 +902,7 @@
         "effect": "Take a Fire, Water, and Lightning Energy from your Energy Zone and attach them to your Benched Basic Pokémon in any way you like."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -882,8 +914,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -895,7 +928,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -907,8 +940,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -921,7 +955,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Darumaka",
@@ -933,8 +967,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -947,7 +982,7 @@
         "effect": "If your opponent's Active Pokémon is Burned, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -959,8 +994,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -971,7 +1007,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -983,8 +1019,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -995,7 +1032,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Poliwag",
@@ -1007,8 +1044,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1020,7 +1058,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -1037,8 +1075,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1049,7 +1088,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1061,8 +1100,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1074,7 +1114,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Horsea",
@@ -1086,8 +1126,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1100,7 +1141,7 @@
         "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Seadra",
@@ -1112,8 +1153,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1125,7 +1167,7 @@
         "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1137,8 +1179,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1151,7 +1194,7 @@
         "effect": "You may discard any number of your Benched Water Pokémon. This attack does 40 more damage for each Benched Pokémon you discarded in this way."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Magikarp",
@@ -1163,8 +1206,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -1175,7 +1219,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1187,8 +1231,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -1200,7 +1245,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Totodile",
@@ -1212,8 +1257,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -1227,7 +1273,7 @@
         "effect": "Discard a random Energy from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Croconaw",
@@ -1239,8 +1285,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -1251,7 +1298,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1263,8 +1310,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -1277,7 +1325,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -1294,8 +1342,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1307,7 +1356,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1319,8 +1368,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1333,7 +1383,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wooper",
@@ -1345,8 +1395,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1358,7 +1409,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1370,20 +1421,21 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
         "name": "Find a Friend",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
         "effect": "Put a random Pokémon from your deck into your hand."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1395,8 +1447,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1407,7 +1460,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1419,8 +1472,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1433,7 +1487,7 @@
         "effect": "If the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen. This effect lasts until the Defending Pokémon leaves the Active Spot, and it doesn't stack."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Remoraid",
@@ -1445,8 +1499,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -1458,7 +1513,7 @@
         "effect": "Draw a card."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -1470,8 +1525,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1486,7 +1542,7 @@
         "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1498,8 +1554,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1513,7 +1570,7 @@
         "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1525,8 +1582,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1538,7 +1596,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1550,8 +1608,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1564,7 +1623,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -1581,8 +1640,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -1593,7 +1653,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1605,8 +1665,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -1619,7 +1680,7 @@
         "effect": "Move all Energy from this Pokémon to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Ducklett",
@@ -1631,8 +1692,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1643,7 +1705,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1655,8 +1717,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1670,7 +1733,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed. If tails, your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Chinchou",
@@ -1682,20 +1745,19 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
         "name": "Crackly Toss",
-        "damage": "0",
-        "cost": [
-          null
-        ],
+        "damage": "",
+        "cost": [],
         "effect": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -1707,8 +1769,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1719,7 +1782,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1731,8 +1794,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1744,7 +1808,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Mareep",
@@ -1756,8 +1820,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1770,7 +1835,7 @@
         "effect": "Flip a coin. If heads, this attack does 40 more damage. If tails, this Pokémon also does 20 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Flaaffy",
@@ -1782,20 +1847,19 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
         "name": "Zappy Shot",
-        "damage": "0",
-        "cost": [
-          null
-        ],
+        "damage": "",
+        "cost": [],
         "effect": "This attack does 20 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -1807,8 +1871,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -1821,7 +1886,7 @@
         "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1833,8 +1898,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -1846,7 +1912,7 @@
         "effect": "This attack also does 10 damage to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1858,20 +1924,21 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
         "name": "Rest",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
         "effect": "This Pokémon is now Asleep. Heal 30 damage from it."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1883,8 +1950,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -1897,7 +1965,7 @@
         "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Slowpoke",
@@ -1909,20 +1977,19 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
         "name": "Shivery Wave",
         "damage": "20x",
-        "cost": [
-          null
-        ],
+        "cost": [],
         "effect": "This attack does 20 damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -1934,8 +2001,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -1948,7 +2016,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1960,20 +2028,19 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
         "name": "Twinkly Call",
-        "damage": "0",
-        "cost": [
-          null
-        ],
+        "damage": "",
+        "cost": [],
         "effect": "Put a random Pokémon from your deck into your hand."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -1985,20 +2052,21 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
         "name": "Charm",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
         "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -2010,8 +2078,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2023,7 +2092,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Togepi",
@@ -2035,8 +2104,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2049,7 +2119,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [
       {
@@ -2066,8 +2136,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -2078,7 +2149,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2090,13 +2161,14 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
         "name": "Life Drain",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Psychic",
           "Psychic"
@@ -2104,7 +2176,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon's remaining HP is now 10."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Natu",
@@ -2116,8 +2188,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -2129,7 +2202,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -2146,8 +2219,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2158,7 +2232,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -2175,8 +2249,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -2187,7 +2262,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -2204,8 +2279,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -2218,7 +2294,7 @@
         "effect": "If this Pokémon was damaged by an attack during your opponent's last turn while it was in the Active Spot, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2230,8 +2306,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2245,7 +2322,7 @@
         "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2257,8 +2334,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -2269,7 +2347,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -2281,8 +2359,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -2296,7 +2375,7 @@
         "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Snubbull",
@@ -2308,8 +2387,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -2320,7 +2400,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2332,8 +2412,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -2346,7 +2427,7 @@
         "effect": "Both Active Pokémon are now Asleep."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Munna",
@@ -2358,8 +2439,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2372,7 +2454,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2384,8 +2466,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -2397,7 +2480,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2409,8 +2492,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2421,7 +2505,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2433,8 +2517,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2446,7 +2531,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Gligar",
@@ -2458,8 +2543,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2471,7 +2557,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2483,8 +2569,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2497,7 +2584,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Swinub",
@@ -2509,8 +2596,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2525,7 +2613,7 @@
         "effect": "This attack also does 20 damage to each of your Benched Pokémon."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Piloswine",
@@ -2537,8 +2625,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2550,7 +2639,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2562,8 +2651,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2575,7 +2665,7 @@
         "effect": "If this Pokémon has at least 2 extra Fighting Energy attached, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Phanpy",
@@ -2587,19 +2677,18 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
         "name": "Slappy Knuckle",
         "damage": "20",
-        "cost": [
-          null
-        ]
+        "cost": []
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -2611,8 +2700,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -2624,7 +2714,7 @@
         "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -2636,8 +2726,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2648,7 +2739,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2660,8 +2751,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2674,7 +2766,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes −30 damage from attacks."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Larvitar",
@@ -2686,8 +2778,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -2700,7 +2793,7 @@
         "effect": "Flip 2 coins. This attack does 30 damage for each heads."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2712,8 +2805,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -2726,7 +2820,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Binacle",
@@ -2738,8 +2832,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2751,7 +2846,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2763,8 +2858,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2776,7 +2872,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Zubat",
@@ -2788,8 +2884,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2801,7 +2898,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Golbat",
@@ -2813,8 +2910,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2825,7 +2923,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2837,8 +2935,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2850,7 +2949,7 @@
         "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Spinarak",
@@ -2862,8 +2961,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -2875,7 +2975,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [
       {
@@ -2892,20 +2992,21 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
         "name": "Astonish",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness"
         ],
         "effect": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2917,8 +3018,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -2930,7 +3032,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Murkrow",
@@ -2942,8 +3044,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -2954,7 +3057,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2966,8 +3069,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -2978,7 +3082,7 @@
         ]
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Sneasel",
@@ -2990,8 +3094,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -3003,7 +3108,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -3015,8 +3120,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -3030,7 +3136,7 @@
         "effect": "Discard a random card from your opponent's hand."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Houndour",
@@ -3042,8 +3148,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -3057,7 +3164,7 @@
         ]
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Grass",
     "abilities": [
       {
@@ -3074,20 +3181,21 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
         "name": "Leap Over",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness"
         ],
         "effect": "This attack does 30 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -3099,8 +3207,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -3113,7 +3222,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Pineco",
@@ -3125,8 +3234,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -3140,7 +3250,7 @@
         ]
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Onix",
@@ -3152,8 +3262,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -3166,7 +3277,7 @@
         "effect": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Scyther",
@@ -3178,8 +3289,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -3192,7 +3304,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -3204,8 +3316,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -3216,7 +3329,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -3228,8 +3341,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -3240,7 +3354,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -3252,8 +3366,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -3265,7 +3380,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Klink",
@@ -3277,8 +3392,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -3292,7 +3408,7 @@
         "effect": "During your next turn, this Pokémon's Gear Spinner attack does +70 damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Klang",
@@ -3304,8 +3420,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -3316,7 +3433,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -3328,8 +3445,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -3341,7 +3459,7 @@
         "effect": "If your opponent's Active Pokémon is a Grass Pokémon, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Spearow",
@@ -3353,13 +3471,14 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
         "name": "Scrunch",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless"
@@ -3367,7 +3486,7 @@
         "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3379,8 +3498,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -3394,7 +3514,7 @@
         "effect": "This attack does 20 more damage for each Energy attached to this Pokémon."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Chansey",
@@ -3406,8 +3526,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -3419,7 +3540,7 @@
         "effect": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3431,20 +3552,21 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
         "name": "Find a Friend",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
         "effect": "Put a random Pokémon from your deck into your hand."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3456,8 +3578,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -3468,7 +3591,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3480,8 +3603,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -3493,7 +3617,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -3510,8 +3634,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -3524,7 +3649,7 @@
         "effect": "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 Colorless more."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Porygon2",
@@ -3536,8 +3661,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -3548,7 +3674,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3560,8 +3686,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -3573,7 +3700,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Sentret",
@@ -3585,8 +3712,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -3598,7 +3726,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -3615,8 +3743,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -3630,7 +3759,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Hoothoot",
@@ -3642,20 +3771,21 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
         "name": "Imitate",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
         "effect": "Draw cards until you have the same number of cards in your hand as your opponent."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3667,8 +3797,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -3679,7 +3810,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Aipom",
@@ -3691,8 +3822,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -3704,7 +3836,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3716,20 +3848,21 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
         "name": "Honey Snack",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
         "effect": "Heal 20 damage from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3741,8 +3874,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -3756,7 +3890,7 @@
         "effect": "Flip 2 coins. This attack does 20 more damage for each heads."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Teddiursa",
@@ -3768,8 +3902,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -3782,7 +3917,7 @@
         "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3794,8 +3929,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -3808,7 +3944,7 @@
         "effect": "Change the type of a random Energy attached to your opponent's Active Pokémon to 1 of the following at random: Grass, Fire, Water, Lightning, Psychic, Fighting, Darkness, or Metal."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3820,8 +3956,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -3835,7 +3972,7 @@
         "effect": "Discard a Fire, Water, and Lightning Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -3847,8 +3984,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -3862,7 +4000,7 @@
         "effect": "Flip a coin until you get tails. This attack does 70 damage for each heads."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3874,8 +4012,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Move a Fire, Water, or Lightning Energy from 1 of your Benched Pokémon to your Active Pokémon.",
     "health": null,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [],
     "retreatCost": null,
@@ -3890,8 +4029,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Discard a Fire Energy from your opponent's Active Pokémon.",
     "health": null,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [],
     "retreatCost": null,
@@ -3906,8 +4046,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "The Metal Pokémon this card is attached to takes −10 damage from attacks from your opponent's Pokémon, recovers from all Special Conditions, and can't be affected by any Special Conditions.",
     "health": null,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [],
     "retreatCost": null,
@@ -3922,8 +4063,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "If the Darkness Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon, your opponent reveals a random card from their hand and shuffles it into their deck.",
     "health": null,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [],
     "retreatCost": null,
@@ -3938,8 +4080,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "If the Pokémon this card is attached to is Knocked Out by damage from an attack from your opponent's Pokémon, put it into your hand instead of the discard pile.",
     "health": null,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -3954,8 +4097,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "The next time you flip any number of coins for the effect of an attack, Ability, or Trainer card after using this card on this turn, the first coin flip will definitely be heads.",
     "health": null,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [],
     "retreatCost": null,
@@ -3970,8 +4114,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Switch your Active Pokémon that has damage on it with 1 of your Benched Pokémon.",
     "health": null,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [],
     "retreatCost": null,
@@ -3986,8 +4131,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Your opponent reveals their hand. Choose a Supporter card you find there and shuffle it into your opponent's deck.",
     "health": null,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [],
     "retreatCost": null,
@@ -4002,8 +4148,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Flip 3 coins. For each heads, a Water Pokémon is chosen at random from your discard pile and put into your hand.",
     "health": null,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [],
     "retreatCost": null,
@@ -4018,8 +4165,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During your opponent's next turn, all of your Steelix and Skarmory ex take −50 damage from attacks from your opponent's Pokémon.",
     "health": null,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [],
     "retreatCost": null,
@@ -4034,8 +4182,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "For each of your Fighting Pokémon in play, look at that many cards from the top of your deck and put them back in any order.",
     "health": null,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [],
     "retreatCost": null,
@@ -4050,8 +4199,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -4062,7 +4212,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -4074,8 +4224,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -4088,7 +4239,7 @@
         "effect": "Flip 3 coins. This attack does 60 damage for each heads. This Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Gloom",
@@ -4100,8 +4251,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -4114,7 +4266,7 @@
         "effect": "If this Pokémon has no damage on it, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -4126,8 +4278,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -4138,7 +4291,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -4150,20 +4303,19 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
         "name": "Toasty Toss",
-        "damage": "0",
-        "cost": [
-          null
-        ],
+        "damage": "",
+        "cost": [],
         "effect": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -4175,8 +4327,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -4187,7 +4340,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -4199,8 +4352,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -4212,7 +4366,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -4224,8 +4378,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -4238,7 +4393,7 @@
         "effect": "If the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen. This effect lasts until the Defending Pokémon leaves the Active Spot, and it doesn't stack."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Remoraid",
@@ -4250,8 +4405,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -4263,7 +4419,7 @@
         "effect": "Draw a card."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -4275,20 +4431,19 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
         "name": "Crackly Toss",
-        "damage": "0",
-        "cost": [
-          null
-        ],
+        "damage": "",
+        "cost": [],
         "effect": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -4300,8 +4455,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -4314,7 +4470,7 @@
         "effect": "Flip a coin. If heads, this attack does 40 more damage. If tails, this Pokémon also does 20 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Flaaffy",
@@ -4326,20 +4482,21 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
         "name": "Charm",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
         "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -4351,13 +4508,14 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
         "name": "Life Drain",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Psychic",
           "Psychic"
@@ -4365,7 +4523,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon's remaining HP is now 10."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Natu",
@@ -4377,8 +4535,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -4391,7 +4550,7 @@
         "effect": "If this Pokémon was damaged by an attack during your opponent's last turn while it was in the Active Spot, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4403,8 +4562,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -4415,7 +4575,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -4427,8 +4587,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -4439,7 +4600,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4451,20 +4612,21 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
         "name": "Astonish",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness"
         ],
         "effect": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -4476,8 +4638,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -4491,7 +4654,7 @@
         ]
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Grass",
     "abilities": [
       {
@@ -4508,8 +4671,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -4522,7 +4686,7 @@
         "effect": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Scyther",
@@ -4534,8 +4698,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -4546,7 +4711,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4558,8 +4723,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -4571,7 +4737,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -4588,8 +4754,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -4602,7 +4769,7 @@
         "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4614,8 +4781,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -4628,7 +4796,7 @@
         "effect": "Change the type of a random Energy attached to your opponent's Active Pokémon to 1 of the following at random: Grass, Fire, Water, Lightning, Psychic, Fighting, Darkness, or Metal."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4640,8 +4808,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -4655,7 +4824,7 @@
         "effect": "This attack does 20 more damage for each Energy attached to this Pokémon."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Chansey",
@@ -4667,8 +4836,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -4680,7 +4850,7 @@
         "effect": "Flip 3 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -4697,8 +4867,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -4712,7 +4883,7 @@
         "effect": "Take a Fire, Water, and Lightning Energy from your Energy Zone and attach them to your Benched Basic Pokémon in any way you like."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -4724,8 +4895,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -4738,7 +4910,7 @@
         "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Seadra",
@@ -4750,8 +4922,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -4765,7 +4938,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed. If tails, your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Chinchou",
@@ -4777,8 +4950,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -4790,7 +4964,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -4807,8 +4981,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -4820,7 +4995,7 @@
         "effect": "If this Pokémon has at least 2 extra Fighting Energy attached, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Phanpy",
@@ -4832,8 +5007,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -4845,7 +5021,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Golbat",
@@ -4857,8 +5033,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -4870,7 +5047,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [
       {
@@ -4887,8 +5064,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -4901,7 +5079,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -4913,8 +5091,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -4928,7 +5107,7 @@
         "effect": "Discard a Fire, Water, and Lightning Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -4940,8 +5119,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "The next time you flip any number of coins for the effect of an attack, Ability, or Trainer card after using this card on this turn, the first coin flip will definitely be heads.",
     "health": null,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [],
     "retreatCost": null,
@@ -4956,8 +5136,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Switch your Active Pokémon that has damage on it with 1 of your Benched Pokémon.",
     "health": null,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [],
     "retreatCost": null,
@@ -4972,8 +5153,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Your opponent reveals their hand. Choose a Supporter card you find there and shuffle it into your opponent's deck.",
     "health": null,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [],
     "retreatCost": null,
@@ -4988,8 +5170,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Flip 3 coins. For each heads, a Water Pokémon is chosen at random from your discard pile and put into your hand.",
     "health": null,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [],
     "retreatCost": null,
@@ -5004,8 +5187,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During your opponent's next turn, all of your Steelix and Skarmory ex take −50 damage from attacks from your opponent's Pokémon.",
     "health": null,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [],
     "retreatCost": null,
@@ -5020,8 +5204,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "For each of your Fighting Pokémon in play, look at that many cards from the top of your deck and put them back in any order.",
     "health": null,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [],
     "retreatCost": null,
@@ -5036,8 +5221,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -5049,7 +5235,7 @@
         "effect": "Flip 3 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -5066,8 +5252,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -5080,7 +5267,7 @@
         "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Seadra",
@@ -5092,8 +5279,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -5107,7 +5295,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed. If tails, your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Chinchou",
@@ -5119,8 +5307,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -5132,7 +5321,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -5149,8 +5338,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -5162,7 +5352,7 @@
         "effect": "If this Pokémon has at least 2 extra Fighting Energy attached, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Phanpy",
@@ -5174,8 +5364,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -5187,7 +5378,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Golbat",
@@ -5199,8 +5390,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -5212,7 +5404,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [
       {
@@ -5229,8 +5421,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -5243,7 +5436,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -5255,8 +5448,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -5270,7 +5464,7 @@
         "effect": "Take a Fire, Water, and Lightning Energy from your Energy Zone and attach them to your Benched Basic Pokémon in any way you like."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -5282,8 +5476,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -5297,7 +5492,7 @@
         "effect": "Discard a Fire, Water, and Lightning Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -5309,8 +5504,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -5323,11 +5519,11 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-213",
@@ -5335,8 +5531,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -5349,11 +5546,11 @@
         "effect": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Eevee",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-214",
@@ -5361,24 +5558,25 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
         "name": "Leap Out",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Water"
         ],
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-215",
@@ -5386,8 +5584,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -5400,11 +5599,11 @@
         "effect": "You may discard any number of your Benched Water Pokémon. This attack does 40 more damage for each Benched Pokémon you discarded in this way."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Magikarp",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-216",
@@ -5412,8 +5611,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -5427,11 +5627,11 @@
         "effect": "Heal 30 damage from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Eevee",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-217",
@@ -5439,8 +5639,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -5451,11 +5652,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-218",
@@ -5463,8 +5664,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -5478,7 +5680,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -5487,7 +5689,7 @@
       }
     ],
     "evolvesFrom": "Magnemite",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-219",
@@ -5495,8 +5697,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -5508,11 +5711,11 @@
         "effect": "If this Pokémon evolved during this turn, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Eevee",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-220",
@@ -5520,8 +5723,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -5532,11 +5736,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-221",
@@ -5544,8 +5748,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -5557,11 +5762,11 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-222",
@@ -5569,8 +5774,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -5583,11 +5789,11 @@
         "effect": "If this Pokémon has damage on it, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Mankey",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-223",
@@ -5595,24 +5801,25 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
         "name": "Call for Family",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness"
         ],
         "effect": "Put 1 random Nidoran♂ from your deck onto your Bench."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-224",
@@ -5620,8 +5827,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -5632,11 +5840,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Nidoran♀",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-225",
@@ -5644,8 +5852,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -5659,11 +5868,11 @@
         "effect": "This attack does 50 more damage for each of your Benched Nidoking."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Nidorina",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-226",
@@ -5671,8 +5880,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -5683,11 +5893,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-227",
@@ -5695,8 +5905,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -5708,11 +5919,11 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Nidoran♂",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-228",
@@ -5720,8 +5931,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -5735,11 +5947,11 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Nidorino",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-229",
@@ -5747,8 +5959,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -5759,11 +5972,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-230",
@@ -5771,8 +5984,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -5785,11 +5999,11 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-231",
@@ -5797,24 +6011,25 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
         "name": "Find a Friend",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
         "effect": "Put a random Pokémon from your deck into your hand."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a4-232",
@@ -5822,8 +6037,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -5837,11 +6053,11 @@
         "effect": "Discard a random Energy from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Yanma",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a4-233",
@@ -5849,8 +6065,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -5863,7 +6080,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -5872,7 +6089,7 @@
       }
     ],
     "evolvesFrom": "Eevee",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a4-234",
@@ -5880,8 +6097,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 180,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -5896,11 +6114,11 @@
         "effect": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Magikarp",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a4-235",
@@ -5908,8 +6126,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -5922,7 +6141,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [
       {
@@ -5931,7 +6150,7 @@
       }
     ],
     "evolvesFrom": "Eevee",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a4-236",
@@ -5939,8 +6158,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -5953,11 +6173,11 @@
         "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a4-237",
@@ -5965,8 +6185,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -5979,11 +6200,11 @@
         "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Misdreavus",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a4-238",
@@ -5991,8 +6212,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Lugia",
     "attacks": [
       {
@@ -6004,11 +6226,11 @@
         "effect": "If your opponent's Active Pokémon has damage on it, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Sneasel",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a4-239",
@@ -6016,8 +6238,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": "Ho-Oh",
     "attacks": [
       {
@@ -6032,11 +6255,11 @@
         "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Lickitung",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a4-240",
@@ -6044,8 +6267,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -6059,7 +6283,7 @@
         "effect": "Take a Fire, Water, and Lightning Energy from your Energy Zone and attach them to your Benched Basic Pokémon in any way you like."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -6071,8 +6295,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Wisdom of Sea and Sky  (A4)",
+    "set": "Wisdom of Sea and Sky (A4)",
     "pack": null,
     "attacks": [
       {
@@ -6086,7 +6311,7 @@
         "effect": "Discard a Fire, Water, and Lightning Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,

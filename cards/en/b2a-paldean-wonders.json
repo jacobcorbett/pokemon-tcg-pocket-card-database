@@ -5,8 +5,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -17,7 +18,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -29,8 +30,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -41,7 +43,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Sprigatito",
@@ -53,8 +55,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -74,7 +77,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Floragato",
@@ -86,8 +89,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -98,7 +102,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -110,8 +114,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -123,7 +128,7 @@
         "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Tarountula",
@@ -135,8 +140,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 40,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -148,7 +154,7 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -160,8 +166,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -173,7 +180,7 @@
         "effect": "Heal 10 damage from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -185,8 +192,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -198,7 +206,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Smoliv",
@@ -210,8 +218,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -223,7 +232,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [
       {
@@ -240,8 +249,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -252,7 +262,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -264,8 +274,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -278,7 +289,7 @@
         "effect": "Flip a coin until you get tails. This attack does 60 damage for each heads."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Bramblin",
@@ -290,8 +301,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -302,7 +314,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -314,8 +326,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -328,7 +341,7 @@
         "effect": "If your opponent's Active Pokémon is a Grass or Metal Pokémon, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Capsakid",
@@ -340,8 +353,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -353,7 +367,7 @@
         "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -365,8 +379,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -381,7 +396,7 @@
         "effect": "During your opponent's next turn, attacks used by the Defending Pokémon cost 2 Colorless more."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -393,8 +408,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -406,7 +422,7 @@
         "effect": "Put 1 random Basic Pokémon from your deck onto your Bench."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -418,8 +434,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -431,7 +448,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Fuecoco",
@@ -443,8 +460,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -456,7 +474,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Water",
     "abilities": [
       {
@@ -473,8 +491,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -485,7 +504,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -497,8 +516,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -512,7 +532,7 @@
         "effect": "Discard a Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [
       {
@@ -529,8 +549,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -543,7 +564,7 @@
         "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -555,8 +576,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -568,7 +590,7 @@
         "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -580,8 +602,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -594,7 +617,7 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Quaxly",
@@ -606,8 +629,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -620,7 +644,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -637,8 +661,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -649,7 +674,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -661,8 +686,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -674,7 +700,7 @@
         "effect": "Flip 3 coins. This attack does 30 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wiglett",
@@ -686,8 +712,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -698,7 +725,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -710,8 +737,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -725,7 +753,7 @@
         "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Finizen",
@@ -737,8 +765,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -751,7 +780,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -763,8 +792,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -779,7 +809,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Cetoddle",
@@ -791,8 +821,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -807,7 +838,7 @@
         "effect": "If you have no cards in your deck, this attack can be used for 1 Water Energy."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -819,8 +850,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -835,7 +867,7 @@
         "effect": "During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -847,8 +879,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -860,7 +893,7 @@
         "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -872,8 +905,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -884,7 +918,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -896,8 +930,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -909,7 +944,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Frigibax",
@@ -921,8 +956,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -935,7 +971,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Metal",
     "abilities": [
       {
@@ -952,8 +988,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -974,7 +1011,7 @@
         "effect": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -986,8 +1023,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -999,7 +1037,7 @@
         "effect": "This attack does 10 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1011,8 +1049,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1023,7 +1062,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Pawmi",
@@ -1035,8 +1074,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1049,7 +1089,7 @@
         "effect": "Discard a Lightning Energy from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Pawmo",
@@ -1061,8 +1101,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1073,7 +1114,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1085,8 +1126,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1099,7 +1141,7 @@
         "effect": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Tadbulb",
@@ -1111,8 +1153,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1123,7 +1166,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1135,8 +1178,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1147,7 +1191,7 @@
         ]
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wattrel",
@@ -1159,8 +1203,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1174,7 +1219,7 @@
         "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1186,8 +1231,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1198,7 +1244,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -1210,8 +1256,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1224,7 +1271,7 @@
         "effect": "Flip a coin. If heads, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Fidough",
@@ -1236,8 +1283,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1251,7 +1299,7 @@
         "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Charcadet",
@@ -1263,8 +1311,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 70,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1277,7 +1326,7 @@
         "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Rellor",
@@ -1289,8 +1338,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1301,7 +1351,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1313,8 +1363,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1326,7 +1377,7 @@
         "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Flittle",
@@ -1338,8 +1389,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1351,7 +1403,7 @@
         "effect": "Discard a card from your hand. If you can't, this attack does nothing."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1363,8 +1415,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1377,7 +1430,7 @@
         "effect": "This attack does 20 more damage for each Psychic Pokémon in your discard pile."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Greavard",
@@ -1389,8 +1442,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1402,7 +1456,7 @@
         "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1414,8 +1468,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1427,7 +1482,7 @@
         "effect": "Flip 3 coins. This attack does 10 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -1439,8 +1494,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1452,7 +1508,7 @@
         "effect": "This attack does more damage equal to the damage this Pokémon has on it."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Mankey",
@@ -1464,8 +1520,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1477,7 +1534,7 @@
         "effect": "This Pokémon also does 30 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Primeape",
@@ -1489,8 +1546,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1502,7 +1560,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -1514,8 +1572,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1526,7 +1585,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -1538,8 +1597,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1553,7 +1613,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Toedscool",
@@ -1565,8 +1625,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1579,7 +1640,7 @@
         "effect": "This Pokémon is now Confused."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -1591,8 +1652,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1606,7 +1668,7 @@
         "effect": "If this Pokémon's remaining HP is 60 or less, this attack does nothing."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -1618,8 +1680,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1634,7 +1697,7 @@
         "effect": "Discard 2 Fighting Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -1646,8 +1709,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1659,7 +1723,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1671,8 +1735,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1686,7 +1751,7 @@
         "effect": "Discard the top card of your opponent's deck."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Paldean Wooper",
@@ -1698,8 +1763,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1711,7 +1777,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Nymble",
@@ -1723,8 +1789,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1736,7 +1803,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -1748,8 +1815,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1763,7 +1831,7 @@
         "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Maschiff",
@@ -1775,8 +1843,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1787,7 +1856,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1799,8 +1868,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1812,7 +1882,7 @@
         "effect": "If your Pokémon in play have 3 or more different types of Energy attached, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Shroodle",
@@ -1824,8 +1894,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1839,7 +1910,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1851,8 +1922,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1864,7 +1936,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1876,8 +1948,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1889,7 +1962,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Tinkatink",
@@ -1901,8 +1974,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1916,7 +1990,7 @@
         "effect": "During your next turn, this Pokémon can't use Gigaton Hammer."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Tinkatuff",
@@ -1928,8 +2002,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1940,7 +2015,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1952,8 +2027,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1966,7 +2042,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Varoom",
@@ -1978,8 +2054,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -1991,7 +2068,7 @@
         "effect": "Take a Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -2003,8 +2080,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2016,7 +2094,7 @@
         "effect": "1 of your opponent's Pokémon is chosen at random for each Metal Energy attached to this Pokémon. For each time a Pokémon was chosen, do 40 damage to it."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Gimmighoul",
@@ -2028,8 +2106,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2040,7 +2119,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2052,8 +2131,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2067,7 +2147,7 @@
         "effect": "Flip a coin. If tails, during your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Lechonk",
@@ -2079,8 +2159,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2092,7 +2173,7 @@
         "effect": "Flip 2 coins. This attack does 30 damage for each heads."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2104,8 +2185,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2118,7 +2200,7 @@
         "effect": "Flip 3 coins. For each heads, discard a random Energy from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Tandemaus",
@@ -2130,8 +2212,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2144,7 +2227,7 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2156,8 +2239,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2171,7 +2255,7 @@
         "effect": "If you played a Supporter card from your hand during this turn, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2183,8 +2267,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2196,7 +2281,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2208,8 +2293,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Flip a coin. If heads, take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokémon.",
     "health": null,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2224,8 +2310,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "The Stage 2 Pokémon this card is attached to has no Retreat Cost.",
     "health": null,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2240,8 +2327,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Discard a random Energy from among the Energy attached to all of your opponent's Pokémon that have an Ability.",
     "health": null,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2256,8 +2344,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Each player shuffles the cards in their hand into their deck, then draws that many cards.",
     "health": null,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2272,8 +2361,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Pawmot do +80 damage to your opponent's Active Pokémon ex.",
     "health": null,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2288,8 +2378,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Flip a coin. If heads, put a random Item card from your deck into your hand. If tails, put a random Pokémon Tool card from your deck into your hand.",
     "health": null,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2304,8 +2395,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
     "health": null,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2320,8 +2412,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Stadium",
+    "effect": "Once during each player's turn, that player may flip a coin. If heads, that player puts a random Pokémon from their deck into their hand.",
     "health": null,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2336,8 +2429,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2349,7 +2443,7 @@
         "effect": "Put 1 random Basic Pokémon from your deck onto your Bench."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -2361,8 +2455,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2374,7 +2469,7 @@
         "effect": "Discard a card from your hand. If you can't, this attack does nothing."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2386,8 +2481,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2399,7 +2495,7 @@
         "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2411,8 +2507,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2424,7 +2521,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2436,8 +2533,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2449,7 +2547,7 @@
         "effect": "Take a Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -2461,8 +2559,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2475,7 +2574,7 @@
         "effect": "Flip 3 coins. For each heads, discard a random Energy from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Tandemaus",
@@ -2487,8 +2586,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2508,7 +2608,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Floragato",
@@ -2520,8 +2620,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2535,7 +2636,7 @@
         "effect": "Discard a Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [
       {
@@ -2552,8 +2653,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2574,7 +2676,7 @@
         "effect": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -2586,8 +2688,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2600,7 +2703,7 @@
         "effect": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Tadbulb",
@@ -2612,8 +2715,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2625,7 +2729,7 @@
         "effect": "1 of your opponent's Pokémon is chosen at random for each Metal Energy attached to this Pokémon. For each time a Pokémon was chosen, do 40 damage to it."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Gimmighoul",
@@ -2637,8 +2741,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Discard a random Energy from among the Energy attached to all of your opponent's Pokémon that have an Ability.",
     "health": null,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2653,8 +2758,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Each player shuffles the cards in their hand into their deck, then draws that many cards.",
     "health": null,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2669,8 +2775,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Pawmot do +80 damage to your opponent's Active Pokémon ex.",
     "health": null,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2685,8 +2792,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Flip a coin. If heads, put a random Item card from your deck into your hand. If tails, put a random Pokémon Tool card from your deck into your hand.",
     "health": null,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2701,8 +2809,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
     "health": null,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2717,8 +2826,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2738,7 +2848,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Floragato",
@@ -2750,8 +2860,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2765,7 +2876,7 @@
         "effect": "Discard a Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [
       {
@@ -2782,8 +2893,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2804,7 +2916,7 @@
         "effect": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -2816,8 +2928,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2830,7 +2943,7 @@
         "effect": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Tadbulb",
@@ -2842,8 +2955,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2855,7 +2969,7 @@
         "effect": "1 of your opponent's Pokémon is chosen at random for each Metal Energy attached to this Pokémon. For each time a Pokémon was chosen, do 40 damage to it."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Gimmighoul",
@@ -2867,8 +2981,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Flip a coin. If heads, put a random Item card from your deck into your hand. If tails, put a random Pokémon Tool card from your deck into your hand.",
     "health": null,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2883,8 +2998,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2895,11 +3011,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2a-117",
@@ -2907,8 +3023,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2919,11 +3036,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Sprigatito",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2a-118",
@@ -2931,8 +3048,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2945,11 +3063,11 @@
         "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Floragato",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2a-119",
@@ -2957,8 +3075,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2970,11 +3089,11 @@
         "effect": "This attack does 10 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2a-120",
@@ -2982,8 +3101,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -2994,11 +3114,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Pawmi",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2a-121",
@@ -3006,8 +3126,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -3020,11 +3141,11 @@
         "effect": "Discard a Lightning Energy from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Pawmo",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2a-122",
@@ -3032,8 +3153,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -3045,11 +3167,11 @@
         "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2a-123",
@@ -3057,8 +3179,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -3070,11 +3193,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2a-124",
@@ -3082,8 +3205,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -3095,11 +3219,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Tinkatink",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2a-125",
@@ -3107,8 +3231,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -3122,11 +3247,11 @@
         "effect": "Flip a coin for each Metal Energy attached to this Pokémon. This attack does 50 damage for each heads."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Gimmighoul",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2a-126",
@@ -3134,8 +3259,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -3148,7 +3274,7 @@
         "effect": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [
       {
@@ -3157,7 +3283,7 @@
       }
     ],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b2a-127",
@@ -3165,8 +3291,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -3179,7 +3306,7 @@
         "effect": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's)."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -3188,7 +3315,7 @@
       }
     ],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b2a-128",
@@ -3196,8 +3323,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -3210,7 +3338,7 @@
         "effect": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -3219,7 +3347,7 @@
       }
     ],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b2a-129",
@@ -3227,8 +3355,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -3242,11 +3371,11 @@
         "effect": "Flip a coin. If heads, this attack does 80 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Tinkatuff",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b2a-130",
@@ -3254,8 +3383,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [
       {
@@ -3268,7 +3398,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Metal",
     "abilities": [
       {
@@ -3285,8 +3415,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Flip a coin. If heads, take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokémon.",
     "health": null,
-    "set": "Paldean Wonders  (B2a)",
+    "set": "Paldean Wonders (B2a)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,

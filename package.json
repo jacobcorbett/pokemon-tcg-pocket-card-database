@@ -1,11 +1,27 @@
 {
   "name": "pokemon-tcg-pocket-card-database",
-  "version": "0.0.14",
-  "description": "A card database for the pokemon TCG pocket mobile game.",
+  "version": "0.1.0",
+  "description": "An English-only JSON card database for Pokemon TCG Pocket.",
   "main": "index.js",
-  "repository": {
-    "url": "https://github.com/hugoburguete/pokemon-tcg-pocket-card-database"
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node scripts/validate.js"
   },
-  "author": "Hugo Burguete",
+  "files": [
+    "cards/en",
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "scripts/validate.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobcorbett/pokemon-tcg-pocket-card-database.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jacobcorbett/pokemon-tcg-pocket-card-database/issues"
+  },
+  "homepage": "https://github.com/jacobcorbett/pokemon-tcg-pocket-card-database#readme",
+  "author": "Hugo Burguete and contributors",
   "license": "ISC"
 }

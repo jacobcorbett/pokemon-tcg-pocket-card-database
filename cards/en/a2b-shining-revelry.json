@@ -5,17 +5,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Multiply",
-        "effect": "Put 1 random Weedle from your deck onto your Bench.",
         "damage": "",
         "cost": [
           "Grass"
-        ]
+        ],
+        "effect": "Put 1 random Weedle from your deck onto your Bench."
       }
     ],
     "retreatCost": 1,
@@ -30,17 +31,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "String Shot",
-        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
         "damage": "20",
         "cost": [
           "Grass"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "retreatCost": 2,
@@ -55,18 +57,19 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Crushing Spear",
-        "effect": "Discard a random Energy from your opponent's Active Pokémon.",
         "damage": "80",
         "cost": [
           "Grass",
           "Grass"
-        ]
+        ],
+        "effect": "Discard a random Energy from your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -81,19 +84,20 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Guillotine Rush",
-        "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
         "damage": "50+",
         "cost": [
           "Grass",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
       }
     ],
     "retreatCost": 2,
@@ -108,17 +112,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Cry for Help",
-        "effect": "Put 1 random Grass Pokémon from your deck into your hand.",
         "damage": "",
         "cost": [
           "Grass"
-        ]
+        ],
+        "effect": "Put 1 random Grass Pokémon from your deck into your hand."
       }
     ],
     "retreatCost": 1,
@@ -133,6 +138,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -158,18 +164,19 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Fighting Claws",
-        "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage.",
         "damage": "60+",
         "cost": [
           "Grass",
           "Grass"
-        ]
+        ],
+        "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage."
       }
     ],
     "retreatCost": 1,
@@ -184,6 +191,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -208,6 +216,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -233,17 +242,18 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Stoke",
-        "effect": "Take 3 Fire Energy from your Energy Zone and attach it to this Pokémon.",
         "damage": "",
         "cost": [
           "Fire"
-        ]
+        ],
+        "effect": "Take 3 Fire Energy from your Energy Zone and attach it to this Pokémon."
       },
       {
         "name": "Steam Artillery",
@@ -269,6 +279,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -293,19 +304,20 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Smoke Bomb",
-        "effect": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.",
         "damage": "70",
         "cost": [
           "Fire",
           "Fire",
           "Colorless"
-        ]
+        ],
+        "effect": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
       }
     ],
     "retreatCost": 3,
@@ -320,19 +332,20 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Blaze Tackle",
-        "effect": "This Pokémon also does 10 damage to itself.",
         "damage": "80",
         "cost": [
           "Fire",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
     "retreatCost": 2,
@@ -347,6 +360,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -371,6 +385,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -395,6 +410,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -419,17 +435,18 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Water Arrow",
-        "effect": "This attack does 30 damage to 1 of your opponent's Pokémon.",
         "damage": "",
         "cost": [
           "Water"
-        ]
+        ],
+        "effect": "This attack does 30 damage to 1 of your opponent's Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -444,17 +461,18 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Spring Out",
-        "effect": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it.",
         "damage": "",
         "cost": [
           "Water"
-        ]
+        ],
+        "effect": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it."
       }
     ],
     "retreatCost": 1,
@@ -469,19 +487,20 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Pop Out Throughout",
-        "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it.",
         "damage": "",
         "cost": [
           "Water",
           "Water",
           "Water"
-        ]
+        ],
+        "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it."
       }
     ],
     "retreatCost": 1,
@@ -496,20 +515,21 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Ocean Cyclone",
-        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
         "damage": "80",
         "cost": [
           "Water",
           "Water",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 3,
@@ -524,6 +544,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -553,19 +574,20 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Thunderbolt",
-        "effect": "Discard all Energy from this Pokémon.",
         "damage": "150",
         "cost": [
           "Lightning",
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "Discard all Energy from this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -580,6 +602,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -604,18 +627,19 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Tumbling Attack",
-        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
         "damage": "50+",
         "cost": [
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
     "retreatCost": 1,
@@ -630,17 +654,18 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Plasma",
-        "effect": "Take a [L] Energy from your Energy Zone and attach it to 1 of your Benched [L] Pokémon.",
         "damage": "10",
         "cost": [
           "Lightning"
-        ]
+        ],
+        "effect": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -655,6 +680,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -679,6 +705,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -704,6 +731,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -734,6 +762,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -758,6 +787,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -782,18 +812,19 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Psychic Suppression",
-        "effect": "This attack also does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached.",
         "damage": "80",
         "cost": [
           "Psychic",
           "Psychic"
-        ]
+        ],
+        "effect": "This attack also does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached."
       }
     ],
     "retreatCost": 1,
@@ -808,18 +839,19 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
-        "name": "Juggling 20x",
-        "effect": "Flip 4 coins. This attack does 20 damage for each heads.",
-        "damage": "",
+        "name": "Juggling",
+        "damage": "20x",
         "cost": [
           "Psychic",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip 4 coins. This attack does 20 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -834,6 +866,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -858,6 +891,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -882,20 +916,21 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Chaotic Impact",
-        "effect": "This Pokémon also does 20 damage to itself.",
         "damage": "130",
         "cost": [
           "Psychic",
           "Psychic",
           "Psychic",
           "Colorless"
-        ]
+        ],
+        "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
     "retreatCost": 2,
@@ -915,17 +950,18 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Chest-ouflage",
-        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
         "damage": "",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -940,6 +976,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -964,18 +1001,19 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Pummel",
-        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
         "damage": "30+",
         "cost": [
           "Fighting",
           "Fighting"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
     "retreatCost": 2,
@@ -990,18 +1028,19 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Power Press",
-        "effect": "If this Pokémon has at least 2 extra Fighting Energy attached, this attack does 50 more damage.",
         "damage": "70+",
         "cost": [
           "Fighting",
           "Fighting"
-        ]
+        ],
+        "effect": "If this Pokémon has at least 2 extra Fighting Energy attached, this attack does 50 more damage."
       }
     ],
     "retreatCost": 2,
@@ -1016,6 +1055,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1040,6 +1080,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1066,6 +1107,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1091,19 +1133,20 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Aura Sphere",
-        "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon.",
         "damage": "100",
         "cost": [
           "Fighting",
           "Fighting",
           "Fighting"
-        ]
+        ],
+        "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -1118,18 +1161,19 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Double Kick",
-        "effect": "Flip 2 coins. This attack does 50 damage for each heads.",
         "damage": "50x",
         "cost": [
           "Fighting",
           "Fighting"
-        ]
+        ],
+        "effect": "Flip 2 coins. This attack does 50 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -1144,6 +1188,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1169,19 +1214,20 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Venomous Fang",
-        "effect": "Your opponent's Active Pokémon is now Poisoned.",
         "damage": "70",
         "cost": [
           "Darkness",
           "Darkness",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "retreatCost": 2,
@@ -1196,17 +1242,18 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Poison Jab",
-        "effect": "Your opponent's Active Pokémon is now Poisoned.",
         "damage": "10",
         "cost": [
           "Darkness"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "retreatCost": 1,
@@ -1221,18 +1268,19 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Venoshock",
-        "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
         "damage": "60+",
         "cost": [
           "Darkness",
           "Darkness"
-        ]
+        ],
+        "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
       }
     ],
     "retreatCost": 3,
@@ -1247,17 +1295,18 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Confuse Ray",
-        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused.",
         "damage": "20",
         "cost": [
           "Darkness"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused."
       }
     ],
     "retreatCost": 1,
@@ -1272,6 +1321,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1296,6 +1346,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1326,6 +1377,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1350,18 +1402,19 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Tenacious Hammer",
-        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
         "damage": "30+",
         "cost": [
           "Metal",
           "Metal"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
     "retreatCost": 2,
@@ -1376,19 +1429,20 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Terrific Thumping",
-        "effect": "Flip a coin. If heads, this attack does 80 more damage.",
         "damage": "80+",
         "cost": [
           "Metal",
           "Metal",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 80 more damage."
       }
     ],
     "retreatCost": 2,
@@ -1403,6 +1457,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1427,19 +1482,20 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Spinning Drift",
-        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
         "damage": "70",
         "cost": [
           "Metal",
           "Metal",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -1454,19 +1510,20 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Scintillating Surfing",
-        "effect": "Flip a coin for each [M] Energy attached to this Pokémon. This attack does 50 damage for each heads.",
         "damage": "50x",
         "cost": [
           "Metal",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin for each Metal Energy attached to this Pokémon. This attack does 50 damage for each heads."
       }
     ],
     "retreatCost": 2,
@@ -1481,6 +1538,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1505,6 +1563,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1530,6 +1589,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1554,6 +1614,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1584,6 +1645,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1609,6 +1671,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1635,6 +1698,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1660,20 +1724,21 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Carefree Press",
-        "effect": "Heal 30 damage from this Pokémon.",
         "damage": "100",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Heal 30 damage from this Pokémon."
       }
     ],
     "retreatCost": 3,
@@ -1688,6 +1753,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1712,6 +1778,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1736,17 +1803,18 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Overacceleration",
-        "effect": "During your next turn, this Pokémon's Overacceleration attack does +20 damage.",
         "damage": "20",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "During your next turn, this Pokémon's Overacceleration attack does +20 damage."
       }
     ],
     "retreatCost": 1,
@@ -1761,6 +1829,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Each player shuffles the cards in their hand into their deck, then draws that many cards.",
     "health": null,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1777,6 +1846,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Heal 30 damage from 1 of your Pokémon, and it recovers from all Special Conditions.",
     "health": null,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1793,6 +1863,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon ex.",
     "health": null,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1809,6 +1880,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
     "health": null,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1825,18 +1897,19 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Fighting Claws",
-        "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage.",
         "damage": "60+",
         "cost": [
           "Grass",
           "Grass"
-        ]
+        ],
+        "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage."
       }
     ],
     "retreatCost": 1,
@@ -1851,6 +1924,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1875,6 +1949,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1904,6 +1979,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1934,19 +2010,20 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Scintillating Surfing",
-        "effect": "Flip a coin for each [M] Energy attached to this Pokémon. This attack does 50 damage for each heads.",
         "damage": "50x",
         "cost": [
           "Metal",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin for each Metal Energy attached to this Pokémon. This attack does 50 damage for each heads."
       }
     ],
     "retreatCost": 2,
@@ -1961,6 +2038,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -1991,18 +2069,19 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Crushing Spear",
-        "effect": "Discard a random Energy from your opponent's Active Pokémon.",
         "damage": "80",
         "cost": [
           "Grass",
           "Grass"
-        ]
+        ],
+        "effect": "Discard a random Energy from your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -2017,17 +2096,18 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Stoke",
-        "effect": "Take 3 Fire Energy from your Energy Zone and attach it to this Pokémon.",
         "damage": "",
         "cost": [
           "Fire"
-        ]
+        ],
+        "effect": "Take 3 Fire Energy from your Energy Zone and attach it to this Pokémon."
       },
       {
         "name": "Steam Artillery",
@@ -2053,19 +2133,20 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Pop Out Throughout",
-        "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it.",
         "damage": "",
         "cost": [
           "Water",
           "Water",
           "Water"
-        ]
+        ],
+        "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it."
       }
     ],
     "retreatCost": 1,
@@ -2080,19 +2161,20 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Thunderbolt",
-        "effect": "Discard all Energy from this Pokémon.",
         "damage": "150",
         "cost": [
           "Lightning",
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "Discard all Energy from this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -2107,20 +2189,21 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Chaotic Impact",
-        "effect": "This Pokémon also does 20 damage to itself.",
         "damage": "130",
         "cost": [
           "Psychic",
           "Psychic",
           "Psychic",
           "Colorless"
-        ]
+        ],
+        "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
     "retreatCost": 2,
@@ -2140,19 +2223,20 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Aura Sphere",
-        "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon.",
         "damage": "100",
         "cost": [
           "Fighting",
           "Fighting",
           "Fighting"
-        ]
+        ],
+        "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -2167,18 +2251,19 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Venoshock",
-        "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
         "damage": "60+",
         "cost": [
           "Darkness",
           "Darkness"
-        ]
+        ],
+        "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
       }
     ],
     "retreatCost": 3,
@@ -2193,19 +2278,20 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Terrific Thumping",
-        "effect": "Flip a coin. If heads, this attack does 80 more damage.",
         "damage": "80+",
         "cost": [
           "Metal",
           "Metal",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 80 more damage."
       }
     ],
     "retreatCost": 2,
@@ -2220,20 +2306,21 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Carefree Press",
-        "effect": "Heal 30 damage from this Pokémon.",
         "damage": "100",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Heal 30 damage from this Pokémon."
       }
     ],
     "retreatCost": 3,
@@ -2248,6 +2335,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Each player shuffles the cards in their hand into their deck, then draws that many cards.",
     "health": null,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -2264,6 +2352,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Heal 30 damage from 1 of your Pokémon, and it recovers from all Special Conditions.",
     "health": null,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -2280,6 +2369,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon ex.",
     "health": null,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -2296,6 +2386,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
     "health": null,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -2312,19 +2403,20 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Thunderbolt",
-        "effect": "Discard all Energy from this Pokémon.",
         "damage": "150",
         "cost": [
           "Lightning",
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "Discard all Energy from this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -2339,18 +2431,19 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Venoshock",
-        "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
         "damage": "60+",
         "cost": [
           "Darkness",
           "Darkness"
-        ]
+        ],
+        "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
       }
     ],
     "retreatCost": 3,
@@ -2365,19 +2458,20 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Terrific Thumping",
-        "effect": "Flip a coin. If heads, this attack does 80 more damage.",
         "damage": "80+",
         "cost": [
           "Metal",
           "Metal",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 80 more damage."
       }
     ],
     "retreatCost": 2,
@@ -2392,20 +2486,21 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Carefree Press",
-        "effect": "Heal 30 damage from this Pokémon.",
         "damage": "100",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Heal 30 damage from this Pokémon."
       }
     ],
     "retreatCost": 3,
@@ -2420,20 +2515,21 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Chaotic Impact",
-        "effect": "This Pokémon also does 20 damage to itself.",
         "damage": "130",
         "cost": [
           "Psychic",
           "Psychic",
           "Psychic",
           "Colorless"
-        ]
+        ],
+        "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
     "retreatCost": 2,
@@ -2453,24 +2549,25 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Multiply",
-        "effect": "Put 1 random Weedle from your deck onto your Bench.",
         "damage": "",
         "cost": [
           "Grass"
-        ]
+        ],
+        "effect": "Put 1 random Weedle from your deck onto your Bench."
       }
     ],
     "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a2b-098",
@@ -2478,24 +2575,25 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "String Shot",
-        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
         "damage": "20",
         "cost": [
           "Grass"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Weedle",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a2b-099",
@@ -2503,6 +2601,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -2519,7 +2618,7 @@
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a2b-100",
@@ -2527,6 +2626,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -2544,7 +2644,7 @@
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Charmander",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a2b-101",
@@ -2552,24 +2652,25 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Spring Out",
-        "effect": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it.",
         "damage": "",
         "cost": [
           "Water"
-        ]
+        ],
+        "effect": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it."
       }
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a2b-102",
@@ -2577,27 +2678,28 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Ocean Cyclone",
-        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
         "damage": "80",
         "cost": [
           "Water",
           "Water",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a2b-103",
@@ -2605,24 +2707,25 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Plasma",
-        "effect": "Take a [L] Energy from your Energy Zone and attach it to 1 of your Benched [L] Pokémon.",
         "damage": "10",
         "cost": [
           "Lightning"
-        ]
+        ],
+        "effect": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokémon."
       }
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a2b-104",
@@ -2630,6 +2733,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -2647,7 +2751,7 @@
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a2b-105",
@@ -2655,6 +2759,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Shining Revelry (A2b)",
     "pack": null,
@@ -2671,7 +2776,7 @@
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a2b-106",
@@ -2679,26 +2784,27 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Spinning Drift",
-        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
         "damage": "70",
         "cost": [
           "Metal",
           "Metal",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
     "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Varoom",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a2b-107",
@@ -2706,25 +2812,26 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Crushing Spear",
-        "effect": "Discard a random Energy from your opponent's Active Pokémon.",
         "damage": "80",
         "cost": [
           "Grass",
           "Grass"
-        ]
+        ],
+        "effect": "Discard a random Energy from your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Kakuna",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a2b-108",
@@ -2732,17 +2839,18 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Stoke",
-        "effect": "Take 3 Fire Energy from your Energy Zone and attach it to this Pokémon.",
         "damage": "",
         "cost": [
           "Fire"
-        ]
+        ],
+        "effect": "Take 3 Fire Energy from your Energy Zone and attach it to this Pokémon."
       },
       {
         "name": "Steam Artillery",
@@ -2760,7 +2868,7 @@
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a2b-109",
@@ -2768,26 +2876,27 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Pop Out Throughout",
-        "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it.",
         "damage": "",
         "cost": [
           "Water",
           "Water",
           "Water"
-        ]
+        ],
+        "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it."
       }
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wiglett",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a2b-110",
@@ -2795,26 +2904,27 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
     "set": "Shining Revelry (A2b)",
     "pack": null,
     "attacks": [
       {
         "name": "Aura Sphere",
-        "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon.",
         "damage": "100",
         "cost": [
           "Fighting",
           "Fighting",
           "Fighting"
-        ]
+        ],
+        "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Riolu",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a2b-111",
@@ -2822,6 +2932,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Put 1 random Basic Pokémon from your deck into your hand.",
     "health": null,
     "set": "Shining Revelry (A2b)",
     "pack": null,

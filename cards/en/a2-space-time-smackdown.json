@@ -5,17 +5,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Blot",
-        "effect": "Heal 10 damage from this Pokémon.",
         "damage": "10",
         "cost": [
           "Grass"
-        ]
+        ],
+        "effect": "Heal 10 damage from this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -30,6 +31,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -54,6 +56,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -79,6 +82,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -104,20 +108,21 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Mega Drain",
-        "effect": "Heal 30 damage from this Pokémon.",
         "damage": "90",
         "cost": [
           "Grass",
           "Grass",
           "Grass",
           "Colorless"
-        ]
+        ],
+        "effect": "Heal 30 damage from this Pokémon."
       }
     ],
     "retreatCost": 3,
@@ -132,6 +137,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -156,19 +162,20 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Air Slash",
-        "effect": "Discard a random Energy from this Pokémon.",
         "damage": "120",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard a random Energy from this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -183,6 +190,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -207,18 +215,19 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Poisonous Whip",
-        "effect": "Your opponent's Active Pokémon is now Poisoned.",
         "damage": "50",
         "cost": [
           "Grass",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "retreatCost": 2,
@@ -233,6 +242,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -258,6 +268,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -284,20 +295,21 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Frenzy Plant",
-        "effect": "During your next turn, this Pokémon can't use Frenzy Plant.",
         "damage": "150",
         "cost": [
           "Grass",
           "Grass",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "During your next turn, this Pokémon can't use Frenzy Plant."
       }
     ],
     "retreatCost": 4,
@@ -312,6 +324,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -336,18 +349,19 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Entrancing Melody",
-        "effect": "Your opponent's Active Pokémon is now Confused.",
         "damage": "50",
         "cost": [
           "Grass",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
     "retreatCost": 1,
@@ -362,6 +376,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -386,19 +401,20 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Leaf Cutter",
-        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
         "damage": "60+",
         "cost": [
           "Grass",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
     "retreatCost": 2,
@@ -413,17 +429,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Call for Family",
-        "effect": "Put 1 random Basic Pokémon from your deck onto your Bench.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Put 1 random Basic Pokémon from your deck onto your Bench."
       }
     ],
     "retreatCost": 1,
@@ -438,6 +455,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -463,19 +481,20 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Flog",
-        "effect": "Flip a coin. If heads, this attack does 50 more damage.",
         "damage": "40+",
         "cost": [
           "Grass",
           "Grass",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 50 more damage."
       }
     ],
     "retreatCost": 1,
@@ -490,18 +509,19 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Leafy Cyclone",
-        "effect": "During your next turn, this Pokémon can't attack.",
         "damage": "90",
         "cost": [
           "Grass",
           "Colorless"
-        ]
+        ],
+        "effect": "During your next turn, this Pokémon can't attack."
       }
     ],
     "retreatCost": 1,
@@ -516,18 +536,19 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Energy Cutoff",
-        "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
         "damage": "30",
         "cost": [
           "Grass",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -542,6 +563,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -572,17 +594,18 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Stoke",
-        "effect": "Take a Fire Energy from your Energy Zone and attach it to this Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Fire"
-        ]
+        ],
+        "effect": "Take a Fire Energy from your Energy Zone and attach it to this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -597,20 +620,21 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Bursting Inferno",
-        "effect": "Your opponent's Active Pokémon is now Burned.",
         "damage": "100",
         "cost": [
           "Fire",
           "Fire",
           "Fire",
           "Fire"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Burned."
       }
     ],
     "retreatCost": 3,
@@ -625,6 +649,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -649,18 +674,19 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Searing Flame",
-        "effect": "Your opponent's Active Pokémon is now Burned.",
         "damage": "30",
         "cost": [
           "Fire",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Burned."
       }
     ],
     "retreatCost": 3,
@@ -675,6 +701,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -699,6 +726,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -723,18 +751,19 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Flare Blitz",
-        "effect": "Discard all Fire Energy from this Pokémon.",
         "damage": "140",
         "cost": [
           "Fire",
           "Fire"
-        ]
+        ],
+        "effect": "Discard all Fire Energy from this Pokémon."
       }
     ],
     "retreatCost": 0,
@@ -749,18 +778,19 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Heat Breath",
-        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
         "damage": "30+",
         "cost": [
           "Fire",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
     "retreatCost": 1,
@@ -775,6 +805,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -800,6 +831,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -831,6 +863,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -863,6 +896,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -893,17 +927,18 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Nap",
-        "effect": "Heal 20 damage from this Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Heal 20 damage from this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -918,6 +953,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -943,19 +979,20 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Aqua Jet",
-        "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon.",
         "damage": "80",
         "cost": [
           "Water",
           "Water",
           "Colorless"
-        ]
+        ],
+        "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -970,6 +1007,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -994,17 +1032,18 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Jet Screw",
-        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
         "damage": "30+",
         "cost": [
           "Water"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
     "retreatCost": 1,
@@ -1019,6 +1058,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -1044,19 +1084,20 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Muddy Water",
-        "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
         "damage": "60",
         "cost": [
           "Water",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 3,
@@ -1071,17 +1112,18 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Elegant Swim",
-        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
         "damage": "10",
         "cost": [
           "Water"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -1096,6 +1138,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -1120,17 +1163,18 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Ice Shard",
-        "effect": "If your opponent's Active Pokémon is a Fighting Pokémon, this attack does 30 more damage.",
         "damage": "10+",
         "cost": [
           "Water"
-        ]
+        ],
+        "effect": "If your opponent's Active Pokémon is a Fighting Pokémon, this attack does 30 more damage."
       }
     ],
     "retreatCost": 2,
@@ -1145,6 +1189,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -1172,18 +1217,19 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Ice Beam",
-        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
         "damage": "60",
         "cost": [
           "Water",
           "Water"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "retreatCost": 1,
@@ -1198,6 +1244,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -1222,18 +1269,19 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Blizzard",
-        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
         "damage": "30",
         "cost": [
           "Water",
           "Water"
-        ]
+        ],
+        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -1248,6 +1296,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -1261,14 +1310,14 @@
       },
       {
         "name": "Dimensional Storm",
-        "effect": "Discard 3 Water Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon.",
         "damage": "150",
         "cost": [
           "Water",
           "Water",
           "Water",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard 3 Water Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -1283,17 +1332,18 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Oceanic Gift",
-        "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a Water Energy from your Energy Zone and attach it to that Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Water"
-        ]
+        ],
+        "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a Water Energy from your Energy Zone and attach it to that Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -1308,6 +1358,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -1332,6 +1383,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -1357,19 +1409,20 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Thunder Blast",
-        "effect": "Discard a Lightning Energy from this Pokémon.",
         "damage": "110",
         "cost": [
           "Lightning",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard a Lightning Energy from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -1384,17 +1437,18 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Big Explosion",
-        "effect": "This Pokémon also does 10 damage to itself.",
         "damage": "30",
         "cost": [
           "Lightning"
-        ]
+        ],
+        "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
     "retreatCost": 1,
@@ -1409,6 +1463,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -1433,17 +1488,18 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Charge",
-        "effect": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Lightning"
-        ]
+        ],
+        "effect": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -1458,18 +1514,19 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Exciting Voltage",
-        "effect": "If this Pokémon has at least 2 extra Lightning Energy attached, this attack does 80 more damage.",
         "damage": "40+",
         "cost": [
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "If this Pokémon has at least 2 extra Lightning Energy attached, this attack does 80 more damage."
       }
     ],
     "retreatCost": 3,
@@ -1484,17 +1541,18 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Hide",
-        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Lightning"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -1509,6 +1567,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -1534,19 +1593,20 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Volt Bolt",
-        "effect": "Discard all Lightning Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Lightning",
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "Discard all Lightning Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon."
       }
     ],
     "retreatCost": 0,
@@ -1561,18 +1621,19 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Sparking Gadget",
-        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage.",
         "damage": "40+",
         "cost": [
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage."
       }
     ],
     "retreatCost": 1,
@@ -1587,17 +1648,18 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Assault Laser",
-        "effect": "If your opponent's Active Pokémon has a Pokémon Tool attached, this attack does 30 more damage.",
         "damage": "20+",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "If your opponent's Active Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
       }
     ],
     "retreatCost": 1,
@@ -1612,6 +1674,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -1636,6 +1699,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -1660,18 +1724,19 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Overdrive Smash",
-        "effect": "During your next turn, this Pokémon's Overdrive Smash attack does +60 damage.",
         "damage": "60",
         "cost": [
           "Psychic",
           "Psychic"
-        ]
+        ],
+        "effect": "During your next turn, this Pokémon's Overdrive Smash attack does +60 damage."
       }
     ],
     "retreatCost": 1,
@@ -1686,6 +1751,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -1710,18 +1776,19 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Magical Delusion",
-        "effect": "Your opponent's Active Pokémon is now Confused.",
         "damage": "70",
         "cost": [
           "Psychic",
           "Psychic"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
     "retreatCost": 1,
@@ -1736,17 +1803,18 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Teleport",
-        "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -1761,6 +1829,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -1785,6 +1854,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -1809,6 +1879,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -1835,6 +1906,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -1866,17 +1938,18 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Expand",
-        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
         "damage": "10",
         "cost": [
           "Psychic"
-        ]
+        ],
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
       }
     ],
     "retreatCost": 1,
@@ -1891,6 +1964,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -1916,17 +1990,18 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Mind Boost",
-        "effect": "Take a Psychic Energy from your Energy Zone and attach it to Mesprit or Azelf.",
         "damage": "20",
         "cost": [
           "Psychic"
-        ]
+        ],
+        "effect": "Take a Psychic Energy from your Energy Zone and attach it to Mesprit or Azelf."
       }
     ],
     "retreatCost": 1,
@@ -1941,19 +2016,20 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Supreme Blast",
-        "effect": "You can use this attack only if you have Uxie and Azelf on your Bench. Discard all Energy from this Pokémon.",
         "damage": "160",
         "cost": [
           "Psychic",
           "Psychic",
           "Psychic"
-        ]
+        ],
+        "effect": "You can use this attack only if you have Uxie and Azelf on your Bench. Discard all Energy from this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -1968,17 +2044,18 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Psychic Arrow",
-        "effect": "This attack does 20 damage to 1 of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Psychic"
-        ]
+        ],
+        "effect": "This attack does 20 damage to 1 of your opponent's Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -1993,6 +2070,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -2024,18 +2102,19 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Moonlight Gain",
-        "effect": "Heal 20 damage from this Pokémon.",
         "damage": "50",
         "cost": [
           "Psychic",
           "Psychic"
-        ]
+        ],
+        "effect": "Heal 20 damage from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -2050,6 +2129,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -2075,6 +2155,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -2101,20 +2182,21 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Mountain Swing",
-        "effect": "Discard the top 3 cards of your deck.",
         "damage": "150",
         "cost": [
           "Fighting",
           "Fighting",
           "Fighting",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard the top 3 cards of your deck."
       }
     ],
     "retreatCost": 4,
@@ -2129,6 +2211,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -2153,17 +2236,18 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Acrobatics",
-        "effect": "Flip 2 coins. This attack does 20 more damage for each heads.",
         "damage": "20+",
         "cost": [
           "Fighting"
-        ]
+        ],
+        "effect": "Flip 2 coins. This attack does 20 more damage for each heads."
       }
     ],
     "retreatCost": 2,
@@ -2178,6 +2262,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -2203,6 +2288,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -2228,6 +2314,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -2260,6 +2347,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -2284,17 +2372,18 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Head Smash",
-        "effect": "If your opponent's Pokémon is Knocked Out by damage from this attack, this Pokémon also does 50 damage to itself.",
         "damage": "130",
         "cost": [
           "Fighting"
-        ]
+        ],
+        "effect": "If your opponent's Pokémon is Knocked Out by damage from this attack, this Pokémon also does 50 damage to itself."
       }
     ],
     "retreatCost": 2,
@@ -2309,6 +2398,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -2335,6 +2425,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -2359,6 +2450,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -2389,6 +2481,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -2415,6 +2508,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -2442,18 +2536,19 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Energized Blade",
-        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
         "damage": "70+",
         "cost": [
           "Fighting",
           "Fighting"
-        ]
+        ],
+        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -2468,6 +2563,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -2492,18 +2588,19 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Skill Dive",
-        "effect": "This attack does 50 damage to 1 of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness",
           "Darkness"
-        ]
+        ],
+        "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -2518,17 +2615,18 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Double Scratch",
-        "effect": "Flip 2 coins. This attack does 20 damage for each heads.",
         "damage": "20x",
         "cost": [
           "Darkness"
-        ]
+        ],
+        "effect": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -2543,17 +2641,18 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Scratching Nails",
-        "effect": "If your opponent's Active Pokémon has damage on it, this attack does 40 more damage.",
         "damage": "30+",
         "cost": [
           "Darkness"
-        ]
+        ],
+        "effect": "If your opponent's Active Pokémon has damage on it, this attack does 40 more damage."
       }
     ],
     "retreatCost": 1,
@@ -2568,6 +2667,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -2592,6 +2692,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -2617,6 +2718,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -2641,18 +2743,19 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Poison Gas",
-        "effect": "Your opponent's Active Pokémon is now Poisoned.",
         "damage": "50",
         "cost": [
           "Darkness",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "retreatCost": 2,
@@ -2667,17 +2770,18 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Swirling Disaster",
-        "effect": "This attack does 10 damage to each of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "This attack does 10 damage to each of your opponent's Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -2692,6 +2796,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -2717,19 +2822,20 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Cross Poison",
-        "effect": "Flip 4 coins. This attack does 40 damage for each heads. If at least 2 of them are heads, your opponent's Active Pokémon is now Poisoned.",
         "damage": "40x",
         "cost": [
           "Darkness",
           "Darkness",
           "Darkness"
-        ]
+        ],
+        "effect": "Flip 4 coins. This attack does 40 damage for each heads. If at least 2 of them are heads, your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "retreatCost": 3,
@@ -2744,18 +2850,19 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Group Beatdown",
-        "effect": "Flip a coin for each Pokémon you have in play. This attack does 20 damage for each heads.",
         "damage": "20x",
         "cost": [
           "Darkness",
           "Darkness"
-        ]
+        ],
+        "effect": "Flip a coin for each Pokémon you have in play. This attack does 20 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -2770,18 +2877,19 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Group Beatdown",
-        "effect": "Flip a coin for each Pokémon you have in play. This attack does 40 damage for each heads.",
         "damage": "40x",
         "cost": [
           "Darkness",
           "Darkness"
-        ]
+        ],
+        "effect": "Flip a coin for each Pokémon you have in play. This attack does 40 damage for each heads."
       }
     ],
     "retreatCost": 2,
@@ -2796,19 +2904,20 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Dark Void",
-        "effect": "Your opponent's Active Pokémon is now Asleep.",
         "damage": "60",
         "cost": [
           "Darkness",
           "Darkness",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
     "retreatCost": 2,
@@ -2823,6 +2932,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -2854,17 +2964,18 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Metal Arms",
-        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage.",
         "damage": "20+",
         "cost": [
           "Metal"
-        ]
+        ],
+        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
       }
     ],
     "retreatCost": 1,
@@ -2879,6 +2990,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -2905,6 +3017,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -2930,6 +3043,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -2961,18 +3075,19 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Iron Head",
-        "effect": "Flip a coin until you get tails. This attack does 30 more damage for each heads.",
         "damage": "50+",
         "cost": [
           "Metal",
           "Metal"
-        ]
+        ],
+        "effect": "Flip a coin until you get tails. This attack does 30 more damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -2987,6 +3102,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -3012,19 +3128,20 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Guard Press",
-        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
         "damage": "60",
         "cost": [
           "Metal",
           "Metal",
           "Colorless"
-        ]
+        ],
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
       }
     ],
     "retreatCost": 3,
@@ -3039,20 +3156,21 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Triple Nose",
-        "effect": "Flip 3 coins. This attack does 50 more damage for each heads.",
         "damage": "30+",
         "cost": [
           "Metal",
           "Metal",
           "Metal",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip 3 coins. This attack does 50 more damage for each heads."
       }
     ],
     "retreatCost": 4,
@@ -3067,18 +3185,19 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Metallic Turbo",
-        "effect": "Take 2 Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
         "damage": "30",
         "cost": [
           "Metal",
           "Metal"
-        ]
+        ],
+        "effect": "Take 2 Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
       },
       {
         "name": "Heavy Impact",
@@ -3103,19 +3222,20 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Steel Tackle",
-        "effect": "This Pokémon also does 20 damage to itself.",
         "damage": "110",
         "cost": [
           "Metal",
           "Metal",
           "Metal"
-        ]
+        ],
+        "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
     "retreatCost": 3,
@@ -3130,6 +3250,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -3154,6 +3275,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -3179,6 +3301,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -3209,6 +3332,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -3235,20 +3359,21 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Licking Fury",
-        "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
         "damage": "100+",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
       }
     ],
     "retreatCost": 4,
@@ -3263,17 +3388,18 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Quick Attack",
-        "effect": "Flip a coin. If heads, this attack does 20 more damage.",
         "damage": "10+",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 20 more damage."
       }
     ],
     "retreatCost": 1,
@@ -3288,6 +3414,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -3312,6 +3439,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -3336,19 +3464,20 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Buggy Beam",
-        "effect": "Change the type of the next Energy that will be generated for your opponent to 1 of the following at random: Grass,Fire,Water,Lightning,Psychic,Fighting,Darkness, or Metal.",
         "damage": "80",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Change the type of the next Energy that will be generated for your opponent to 1 of the following at random: Grass,Fire,Water,Lightning,Psychic,Fighting,Darkness, or Metal."
       }
     ],
     "retreatCost": 2,
@@ -3363,6 +3492,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -3387,17 +3517,18 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Double Hit",
-        "effect": "Flip 2 coins. This attack does 40 damage for each heads.",
         "damage": "40x",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Flip 2 coins. This attack does 40 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -3412,17 +3543,18 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Pluck",
-        "effect": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.",
         "damage": "20",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -3437,6 +3569,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -3462,19 +3595,20 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Clutch",
-        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat.",
         "damage": "80",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
     "retreatCost": 1,
@@ -3489,18 +3623,19 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Super Fang",
-        "effect": "Halve your opponent's Active Pokémon's remaining HP, rounded down.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Halve your opponent's Active Pokémon's remaining HP, rounded down."
       }
     ],
     "retreatCost": 2,
@@ -3515,6 +3650,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -3540,6 +3676,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -3564,17 +3701,18 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Jump Kick",
-        "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
         "damage": "20",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -3589,17 +3727,18 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Pose",
-        "effect": "Flip a coin. If tails, this attack does nothing.",
         "damage": "40",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
     "retreatCost": 1,
@@ -3614,19 +3753,20 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Interrupt",
-        "effect": "Your opponent reveals their hand. Choose a card you find there and shuffle it into your opponent's deck.",
         "damage": "60",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent reveals their hand. Choose a card you find there and shuffle it into your opponent's deck."
       }
     ],
     "retreatCost": 3,
@@ -3641,17 +3781,18 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Fury Attack",
-        "effect": "Flip 3 coins. This attack does 20 damage for each heads.",
         "damage": "20x",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Flip 3 coins. This attack does 20 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -3666,18 +3807,19 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Spin Storm",
-        "effect": "Flip a coin. If heads, put your opponent's Active Pokémon into their hand.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, put your opponent's Active Pokémon into their hand."
       }
     ],
     "retreatCost": 1,
@@ -3692,20 +3834,21 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Raging Hammer",
-        "effect": "This attack does more damage equal to the damage this Pokémon has on it.",
         "damage": "50+",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "This attack does more damage equal to the damage this Pokémon has on it."
       }
     ],
     "retreatCost": 4,
@@ -3720,6 +3863,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Play this card as if it were a 40-HP Basic Colorless Pokémon. At any time during your turn, you may discard this card from play. This card can't retreat.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -3736,6 +3880,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Play this card as if it were a 40-HP Basic Colorless Pokémon. At any time during your turn, you may discard this card from play. This card can't retreat.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -3752,6 +3897,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Choose a Pokémon in your hand and switch it with a random Pokémon in your deck.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -3768,6 +3914,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "The Pokémon this card is attached to gets +20 HP.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -3784,6 +3931,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -3800,6 +3948,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "At the end of each turn, if the Pokémon this card is attached to is affected by any Special Conditions, it recovers from all of them, and discard this card.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -3816,6 +3965,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Switch in 1 of your opponent's Benched Pokémon that has damage on it to the Active Spot.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -3832,6 +3982,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Put 1 random Glameow, Stunky, or Croagunk from your deck into your hand.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -3848,6 +3999,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Garchomp or Togekiss do +50 damage to your opponent's Active Pokémon.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -3864,6 +4016,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Choose 1 of your Electivire or Luxray. Attach 2 Lightning Energy from your discard pile to that Pokémon.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -3880,6 +4033,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Move an Energy from 1 of your Benched Pokémon to your Active Pokémon.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -3896,6 +4050,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Your opponent shuffles their hand into their deck and draws a card for each of their remaining points needed to win.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -3912,20 +4067,21 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Mega Drain",
-        "effect": "Heal 30 damage from this Pokémon.",
         "damage": "90",
         "cost": [
           "Grass",
           "Grass",
           "Grass",
           "Colorless"
-        ]
+        ],
+        "effect": "Heal 30 damage from this Pokémon."
       }
     ],
     "retreatCost": 3,
@@ -3940,17 +4096,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Call for Family",
-        "effect": "Put 1 random Basic Pokémon from your deck onto your Bench.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Put 1 random Basic Pokémon from your deck onto your Bench."
       }
     ],
     "retreatCost": 1,
@@ -3965,19 +4122,20 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Flog",
-        "effect": "Flip a coin. If heads, this attack does 50 more damage.",
         "damage": "40+",
         "cost": [
           "Grass",
           "Grass",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 50 more damage."
       }
     ],
     "retreatCost": 1,
@@ -3992,6 +4150,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -4022,6 +4181,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -4054,19 +4214,20 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Muddy Water",
-        "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
         "damage": "60",
         "cost": [
           "Water",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 3,
@@ -4081,17 +4242,18 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Oceanic Gift",
-        "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a Water Energy from your Energy Zone and attach it to that Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Water"
-        ]
+        ],
+        "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a Water Energy from your Energy Zone and attach it to that Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -4106,17 +4268,18 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Hide",
-        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Lightning"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -4131,17 +4294,18 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Assault Laser",
-        "effect": "If your opponent's Active Pokémon has a Pokémon Tool attached, this attack does 30 more damage.",
         "damage": "20+",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "If your opponent's Active Pokémon has a Pokémon Tool attached, this attack does 30 more damage."
       }
     ],
     "retreatCost": 1,
@@ -4156,17 +4320,18 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Expand",
-        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
         "damage": "10",
         "cost": [
           "Psychic"
-        ]
+        ],
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
       }
     ],
     "retreatCost": 1,
@@ -4181,19 +4346,20 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Supreme Blast",
-        "effect": "You can use this attack only if you have Uxie and Azelf on your Bench. Discard all Energy from this Pokémon.",
         "damage": "160",
         "cost": [
           "Psychic",
           "Psychic",
           "Psychic"
-        ]
+        ],
+        "effect": "You can use this attack only if you have Uxie and Azelf on your Bench. Discard all Energy from this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -4208,6 +4374,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -4239,18 +4406,19 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Moonlight Gain",
-        "effect": "Heal 20 damage from this Pokémon.",
         "damage": "50",
         "cost": [
           "Psychic",
           "Psychic"
-        ]
+        ],
+        "effect": "Heal 20 damage from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -4265,20 +4433,21 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Mountain Swing",
-        "effect": "Discard the top 3 cards of your deck.",
         "damage": "150",
         "cost": [
           "Fighting",
           "Fighting",
           "Fighting",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard the top 3 cards of your deck."
       }
     ],
     "retreatCost": 4,
@@ -4293,6 +4462,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -4323,6 +4493,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -4349,17 +4520,18 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Swirling Disaster",
-        "effect": "This attack does 10 damage to each of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "This attack does 10 damage to each of your opponent's Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -4374,18 +4546,19 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Group Beatdown",
-        "effect": "Flip a coin for each Pokémon you have in play. This attack does 20 damage for each heads.",
         "damage": "20x",
         "cost": [
           "Darkness",
           "Darkness"
-        ]
+        ],
+        "effect": "Flip a coin for each Pokémon you have in play. This attack does 20 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -4400,19 +4573,20 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Steel Tackle",
-        "effect": "This Pokémon also does 20 damage to itself.",
         "damage": "110",
         "cost": [
           "Metal",
           "Metal",
           "Metal"
-        ]
+        ],
+        "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
     "retreatCost": 3,
@@ -4427,6 +4601,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -4457,19 +4632,20 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Clutch",
-        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat.",
         "damage": "80",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
     "retreatCost": 1,
@@ -4484,18 +4660,19 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Super Fang",
-        "effect": "Halve your opponent's Active Pokémon's remaining HP, rounded down.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Halve your opponent's Active Pokémon's remaining HP, rounded down."
       }
     ],
     "retreatCost": 2,
@@ -4510,17 +4687,18 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Pose",
-        "effect": "Flip a coin. If tails, this attack does nothing.",
         "damage": "40",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
     "retreatCost": 1,
@@ -4535,20 +4713,21 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Raging Hammer",
-        "effect": "This attack does more damage equal to the damage this Pokémon has on it.",
         "damage": "50+",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "This attack does more damage equal to the damage this Pokémon has on it."
       }
     ],
     "retreatCost": 4,
@@ -4563,19 +4742,20 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Air Slash",
-        "effect": "Discard a random Energy from this Pokémon.",
         "damage": "120",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard a random Energy from this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -4590,18 +4770,19 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Flare Blitz",
-        "effect": "Discard all Fire Energy from this Pokémon.",
         "damage": "140",
         "cost": [
           "Fire",
           "Fire"
-        ]
+        ],
+        "effect": "Discard all Fire Energy from this Pokémon."
       }
     ],
     "retreatCost": 0,
@@ -4616,6 +4797,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -4629,14 +4811,14 @@
       },
       {
         "name": "Dimensional Storm",
-        "effect": "Discard 3 Water Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon.",
         "damage": "150",
         "cost": [
           "Water",
           "Water",
           "Water",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard 3 Water Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -4651,18 +4833,19 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Sparking Gadget",
-        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage.",
         "damage": "40+",
         "cost": [
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage."
       }
     ],
     "retreatCost": 1,
@@ -4677,18 +4860,19 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Magical Delusion",
-        "effect": "Your opponent's Active Pokémon is now Confused.",
         "damage": "70",
         "cost": [
           "Psychic",
           "Psychic"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
     "retreatCost": 1,
@@ -4703,18 +4887,19 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Energized Blade",
-        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
         "damage": "70+",
         "cost": [
           "Fighting",
           "Fighting"
-        ]
+        ],
+        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -4729,17 +4914,18 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Scratching Nails",
-        "effect": "If your opponent's Active Pokémon has damage on it, this attack does 40 more damage.",
         "damage": "30+",
         "cost": [
           "Darkness"
-        ]
+        ],
+        "effect": "If your opponent's Active Pokémon has damage on it, this attack does 40 more damage."
       }
     ],
     "retreatCost": 1,
@@ -4754,6 +4940,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -4785,18 +4972,19 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Metallic Turbo",
-        "effect": "Take 2 Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
         "damage": "30",
         "cost": [
           "Metal",
           "Metal"
-        ]
+        ],
+        "effect": "Take 2 Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
       },
       {
         "name": "Heavy Impact",
@@ -4821,20 +5009,21 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Licking Fury",
-        "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
         "damage": "100+",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
       }
     ],
     "retreatCost": 4,
@@ -4849,6 +5038,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Switch in 1 of your opponent's Benched Pokémon that has damage on it to the Active Spot.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -4865,6 +5055,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Put 1 random Glameow, Stunky, or Croagunk from your deck into your hand.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -4881,6 +5072,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Garchomp or Togekiss do +50 damage to your opponent's Active Pokémon.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -4897,6 +5089,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Choose 1 of your Electivire or Luxray. Attach 2 Lightning Energy from your discard pile to that Pokémon.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -4913,6 +5106,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Move an Energy from 1 of your Benched Pokémon to your Active Pokémon.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -4929,6 +5123,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Your opponent shuffles their hand into their deck and draws a card for each of their remaining points needed to win.",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -4945,19 +5140,20 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Air Slash",
-        "effect": "Discard a random Energy from this Pokémon.",
         "damage": "120",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard a random Energy from this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -4972,18 +5168,19 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Flare Blitz",
-        "effect": "Discard all Fire Energy from this Pokémon.",
         "damage": "140",
         "cost": [
           "Fire",
           "Fire"
-        ]
+        ],
+        "effect": "Discard all Fire Energy from this Pokémon."
       }
     ],
     "retreatCost": 0,
@@ -4998,18 +5195,19 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Sparking Gadget",
-        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage.",
         "damage": "40+",
         "cost": [
           "Lightning",
           "Lightning"
-        ]
+        ],
+        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage."
       }
     ],
     "retreatCost": 1,
@@ -5024,18 +5222,19 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Magical Delusion",
-        "effect": "Your opponent's Active Pokémon is now Confused.",
         "damage": "70",
         "cost": [
           "Psychic",
           "Psychic"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
     "retreatCost": 1,
@@ -5050,18 +5249,19 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Energized Blade",
-        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
         "damage": "70+",
         "cost": [
           "Fighting",
           "Fighting"
-        ]
+        ],
+        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -5076,17 +5276,18 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Scratching Nails",
-        "effect": "If your opponent's Active Pokémon has damage on it, this attack does 40 more damage.",
         "damage": "30+",
         "cost": [
           "Darkness"
-        ]
+        ],
+        "effect": "If your opponent's Active Pokémon has damage on it, this attack does 40 more damage."
       }
     ],
     "retreatCost": 1,
@@ -5101,6 +5302,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
@@ -5132,20 +5334,21 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
       {
         "name": "Licking Fury",
-        "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
         "damage": "100+",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
       }
     ],
     "retreatCost": 4,
@@ -5160,6 +5363,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
@@ -5173,14 +5377,14 @@
       },
       {
         "name": "Dimensional Storm",
-        "effect": "Discard 3 Water Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon.",
         "damage": "150",
         "cost": [
           "Water",
           "Water",
           "Water",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard 3 Water Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -5195,18 +5399,19 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Dialga",
     "attacks": [
       {
         "name": "Metallic Turbo",
-        "effect": "Take 2 Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
         "damage": "30",
         "cost": [
           "Metal",
           "Metal"
-        ]
+        ],
+        "effect": "Take 2 Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
       },
       {
         "name": "Heavy Impact",
@@ -5231,6 +5436,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
@@ -5244,14 +5450,14 @@
       },
       {
         "name": "Dimensional Storm",
-        "effect": "Discard 3 Water Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon.",
         "damage": "150",
         "cost": [
           "Water",
           "Water",
           "Water",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard 3 Water Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -5266,18 +5472,19 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
     "pack": null,
     "attacks": [
       {
         "name": "Metallic Turbo",
-        "effect": "Take 2 Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
         "damage": "30",
         "cost": [
           "Metal",
           "Metal"
-        ]
+        ],
+        "effect": "Take 2 Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
       },
       {
         "name": "Heavy Impact",

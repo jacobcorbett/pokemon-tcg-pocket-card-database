@@ -5,8 +5,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -18,7 +19,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -30,8 +31,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -43,7 +45,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -55,8 +57,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -69,7 +72,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Bulbasaur",
@@ -81,8 +84,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -95,7 +99,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Bulbasaur",
@@ -107,8 +111,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 190,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -132,7 +137,7 @@
         "effect": "Heal 30 damage from this Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Ivysaur",
@@ -144,8 +149,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -157,7 +163,7 @@
         "effect": "Put 1 random Weedle from your deck onto your Bench."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -169,8 +175,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -182,7 +189,7 @@
         "effect": "Put 1 random Weedle from your deck onto your Bench."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -194,8 +201,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -207,7 +215,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Weedle",
@@ -219,8 +227,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -232,7 +241,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Weedle",
@@ -244,8 +253,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -258,7 +268,7 @@
         "effect": "Discard a random Energy from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Kakuna",
@@ -270,8 +280,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -282,7 +293,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -294,8 +305,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -306,7 +318,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -318,8 +330,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -331,7 +344,7 @@
         "effect": "Flip a coin. If heads, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Exeggcute",
@@ -343,8 +356,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -355,7 +369,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -367,8 +381,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -379,7 +394,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -391,8 +406,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -403,7 +419,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Hoppip",
@@ -415,8 +431,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -427,7 +444,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Hoppip",
@@ -439,8 +456,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -451,7 +469,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -468,8 +486,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -480,7 +499,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -497,8 +516,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -509,7 +529,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -521,8 +541,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -533,7 +554,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -545,8 +566,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -560,7 +582,7 @@
         "effect": "Discard a random Energy from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Yanma",
@@ -572,8 +594,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -585,7 +608,7 @@
         "effect": "Flip 3 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -602,8 +625,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -616,7 +640,7 @@
         "effect": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -628,8 +652,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -641,7 +666,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -658,8 +683,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -671,7 +697,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -688,8 +714,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -700,7 +727,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Cherubi",
@@ -712,8 +739,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -724,7 +752,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Cherubi",
@@ -736,8 +764,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -750,7 +779,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -767,8 +796,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -780,7 +810,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -797,8 +827,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -810,7 +841,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -827,8 +858,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -840,7 +872,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -852,8 +884,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -865,7 +898,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -877,8 +910,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -890,7 +924,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Snivy",
@@ -902,8 +936,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -915,7 +950,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Snivy",
@@ -927,8 +962,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 110,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -942,7 +978,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [
       {
@@ -959,8 +995,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 110,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -974,7 +1011,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [
       {
@@ -991,8 +1028,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1004,7 +1042,7 @@
         "effect": "This attack does 10 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1016,8 +1054,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1029,7 +1068,7 @@
         "effect": "This attack does 10 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1041,8 +1080,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1053,7 +1093,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Rowlet",
@@ -1065,8 +1105,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1077,7 +1118,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Rowlet",
@@ -1089,8 +1130,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1111,7 +1153,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Dartrix",
@@ -1123,8 +1165,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1138,7 +1181,7 @@
         "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1150,8 +1193,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1173,7 +1217,7 @@
         "effect": "During your next turn, this Pokémon can't use Big Beat."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1185,8 +1229,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1198,7 +1243,7 @@
         "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1210,8 +1255,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1223,7 +1269,7 @@
         "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1235,8 +1281,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1247,7 +1294,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1259,8 +1306,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1271,7 +1319,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1283,8 +1331,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1296,7 +1345,7 @@
         "effect": "Put 1 random Grass Pokémon from your deck into your hand."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1308,8 +1357,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1321,7 +1371,7 @@
         "effect": "Put 1 random Grass Pokémon from your deck into your hand."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1333,8 +1383,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1346,7 +1397,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Sprigatito",
@@ -1358,8 +1409,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1371,7 +1423,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Sprigatito",
@@ -1383,8 +1435,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1397,7 +1450,7 @@
         "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Floragato",
@@ -1409,8 +1462,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1423,7 +1477,7 @@
         "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Floragato",
@@ -1435,8 +1489,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1448,7 +1503,7 @@
         "effect": "Discard a Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -1460,8 +1515,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1473,7 +1529,7 @@
         "effect": "Discard a Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -1485,8 +1541,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1499,7 +1556,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Charmander",
@@ -1511,8 +1568,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1525,7 +1583,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Charmander",
@@ -1537,8 +1595,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1562,7 +1621,7 @@
         "effect": "Discard 2 Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
@@ -1574,8 +1633,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1598,7 +1658,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
@@ -1610,8 +1670,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1623,7 +1684,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -1635,8 +1696,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1648,7 +1710,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -1660,8 +1722,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1675,7 +1738,7 @@
         "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Growlithe",
@@ -1687,8 +1750,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1701,7 +1765,7 @@
         "effect": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -1713,8 +1777,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1727,7 +1792,7 @@
         "effect": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -1739,8 +1804,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1754,7 +1820,7 @@
         "effect": "Discard 2 Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [
       {
@@ -1771,8 +1837,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1793,7 +1860,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1805,8 +1872,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1820,7 +1888,7 @@
         "effect": "Take a Fire, Water, and Lightning Energy from your Energy Zone and attach them to your Benched Basic Pokémon in any way you like."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1832,8 +1900,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1846,7 +1915,7 @@
         "effect": "Discard a Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -1858,8 +1927,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1872,7 +1942,7 @@
         "effect": "Discard a Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -1884,8 +1954,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1896,7 +1967,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -1908,8 +1979,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1920,7 +1992,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -1932,8 +2004,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1944,7 +2017,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Chimchar",
@@ -1956,8 +2029,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1968,7 +2042,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Chimchar",
@@ -1980,8 +2054,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -1994,7 +2069,7 @@
         "effect": "Discard all Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Monferno",
@@ -2006,8 +2081,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2020,7 +2096,7 @@
         "effect": "If this Pokémon has damage on it, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Water",
     "abilities": [
       {
@@ -2037,8 +2113,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2051,7 +2128,7 @@
         "effect": "If this Pokémon has damage on it, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Water",
     "abilities": [
       {
@@ -2068,8 +2145,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2081,7 +2159,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -2093,8 +2171,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2106,7 +2185,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -2118,8 +2197,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2131,7 +2211,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Litten",
@@ -2143,8 +2223,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2156,7 +2237,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Litten",
@@ -2168,8 +2249,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2191,7 +2273,7 @@
         "effect": "If this Pokémon has damage on it, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Torracat",
@@ -2203,8 +2285,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2215,7 +2298,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2227,8 +2310,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2239,7 +2323,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2251,8 +2335,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2264,7 +2349,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Squirtle",
@@ -2276,8 +2361,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2289,7 +2375,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Squirtle",
@@ -2301,8 +2387,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2324,7 +2411,7 @@
         "effect": "If this Pokémon has at least 2 extra Water Energy attached, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wartortle",
@@ -2336,8 +2423,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2348,7 +2436,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2360,8 +2448,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2372,7 +2461,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2384,8 +2473,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2397,7 +2487,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Horsea",
@@ -2409,8 +2499,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2422,7 +2513,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Horsea",
@@ -2434,8 +2525,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2448,7 +2540,7 @@
         "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Seadra",
@@ -2460,8 +2552,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2472,7 +2565,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2484,8 +2577,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2496,7 +2590,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2508,8 +2602,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2521,7 +2616,7 @@
         ]
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Staryu",
@@ -2533,8 +2628,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2546,7 +2642,7 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2558,8 +2654,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2571,7 +2668,7 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2583,8 +2680,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 180,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2599,7 +2697,7 @@
         "effect": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Magikarp",
@@ -2611,8 +2709,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2625,7 +2724,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -2642,8 +2741,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2656,7 +2756,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -2673,8 +2773,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2696,7 +2797,7 @@
         "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2708,8 +2809,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2721,7 +2823,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2733,8 +2835,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2746,7 +2849,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2758,8 +2861,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2772,7 +2876,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -2789,8 +2893,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2803,7 +2908,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -2820,8 +2925,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2834,7 +2940,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [
       {
@@ -2851,8 +2957,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2874,7 +2981,7 @@
         "effect": "Discard 3 Water Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2886,8 +2993,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2899,7 +3007,7 @@
         "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a Water Energy from your Energy Zone and attach it to that Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2911,8 +3019,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2924,7 +3033,7 @@
         "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a Water Energy from your Energy Zone and attach it to that Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2936,8 +3045,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2948,7 +3058,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2960,8 +3070,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2972,7 +3083,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2984,8 +3095,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -2996,7 +3108,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Froakie",
@@ -3008,8 +3120,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3020,7 +3133,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Froakie",
@@ -3032,8 +3145,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3045,7 +3159,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -3062,8 +3176,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3075,7 +3190,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -3092,8 +3207,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3105,7 +3221,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -3117,8 +3233,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3130,7 +3247,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -3142,8 +3259,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3155,7 +3273,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Popplio",
@@ -3167,8 +3285,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3180,7 +3299,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Popplio",
@@ -3192,8 +3311,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3215,7 +3335,7 @@
         "effect": "Heal 20 damage from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Brionne",
@@ -3227,8 +3347,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3240,7 +3361,7 @@
         "effect": "During your next turn, this Pokémon's Insatiable Striking attack does +40 damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Crabrawler",
@@ -3252,8 +3373,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3265,7 +3387,7 @@
         "effect": "Put 1 random Wishiwashi or Wishiwashi ex from your deck onto your Bench."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -3277,8 +3399,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3290,7 +3413,7 @@
         "effect": "Put 1 random Wishiwashi or Wishiwashi ex from your deck onto your Bench."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -3302,8 +3425,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 170,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3317,7 +3441,7 @@
         "effect": "This attack does 40 more damage for each of your Benched Wishiwashi or Wishiwashi ex."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -3329,8 +3453,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3342,7 +3467,7 @@
         "effect": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -3354,8 +3479,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3367,7 +3493,7 @@
         "effect": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -3379,8 +3505,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3394,7 +3521,7 @@
         "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wiglett",
@@ -3406,8 +3533,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3418,7 +3546,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3430,8 +3558,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3442,7 +3571,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3454,8 +3583,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3469,7 +3599,7 @@
         "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Pikachu",
@@ -3481,8 +3611,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3495,7 +3626,7 @@
         "effect": "This attack does 30 damage for each of your Benched Lightning Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3507,8 +3638,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3522,7 +3654,7 @@
         "effect": "Discard all Energy from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3534,8 +3666,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3546,7 +3679,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3558,8 +3691,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3570,7 +3704,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3582,8 +3716,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3597,7 +3732,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -3614,8 +3749,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3629,7 +3765,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -3646,8 +3782,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3661,7 +3798,7 @@
         "effect": "Discard a Lightning Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Magneton",
@@ -3673,8 +3810,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3688,7 +3826,7 @@
         "effect": "Discard a Lightning Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Magneton",
@@ -3700,8 +3838,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3722,7 +3861,7 @@
         "effect": "Flip 4 coins. This attack does 50 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -3734,8 +3873,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3746,7 +3886,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3758,8 +3898,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3770,7 +3911,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3782,8 +3923,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3797,7 +3939,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed. If tails, your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Chinchou",
@@ -3809,8 +3951,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3822,7 +3965,7 @@
         "effect": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3834,8 +3977,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3847,7 +3991,7 @@
         "effect": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3859,8 +4003,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3873,7 +4018,7 @@
         "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3885,8 +4030,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3898,7 +4044,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -3915,8 +4061,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3928,7 +4075,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -3945,8 +4092,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3967,7 +4115,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3979,8 +4127,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -3992,7 +4141,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -4009,8 +4158,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4022,7 +4172,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -4039,8 +4189,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4051,7 +4202,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4063,8 +4214,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4075,7 +4227,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4087,8 +4239,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4099,7 +4252,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Gastly",
@@ -4111,8 +4264,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4123,7 +4277,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Gastly",
@@ -4135,8 +4289,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4149,7 +4304,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -4166,8 +4321,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4180,7 +4336,7 @@
         "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4192,8 +4348,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4206,7 +4363,7 @@
         "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4218,8 +4375,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4242,7 +4400,7 @@
         "effect": "Discard 2 Psychic Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4254,8 +4412,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4276,7 +4435,7 @@
         "effect": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4288,8 +4447,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4301,7 +4461,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -4318,8 +4478,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4330,7 +4491,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4342,8 +4503,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4354,7 +4516,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4366,8 +4528,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4380,7 +4543,7 @@
         "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Misdreavus",
@@ -4392,8 +4555,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4405,7 +4569,7 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4417,8 +4581,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4430,7 +4595,7 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4442,8 +4607,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4454,7 +4620,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Ralts",
@@ -4466,8 +4632,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4478,7 +4645,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Ralts",
@@ -4490,8 +4657,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 110,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4504,7 +4672,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -4521,8 +4689,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 110,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4535,7 +4704,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -4552,8 +4721,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4566,7 +4736,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -4583,8 +4753,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4597,7 +4768,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -4614,8 +4785,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4630,7 +4802,7 @@
         "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -4647,8 +4819,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4660,7 +4833,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -4672,8 +4845,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4685,7 +4859,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -4697,8 +4871,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4711,7 +4886,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Swirlix",
@@ -4723,8 +4898,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4737,7 +4913,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Swirlix",
@@ -4749,8 +4925,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4762,7 +4939,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [
       {
@@ -4779,8 +4956,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4792,7 +4970,7 @@
         "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4804,8 +4982,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4817,7 +4996,7 @@
         "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4829,8 +5008,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4842,7 +5022,7 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4854,8 +5034,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4867,7 +5048,7 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4879,8 +5060,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4893,7 +5075,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes −50 damage from attacks."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Cosmog",
@@ -4905,8 +5087,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4919,7 +5102,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes −50 damage from attacks."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Cosmog",
@@ -4931,8 +5114,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4945,7 +5129,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -4962,8 +5146,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -4975,7 +5160,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -4987,8 +5172,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5000,7 +5186,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -5012,8 +5198,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5025,7 +5212,7 @@
         "effect": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Milcery",
@@ -5037,8 +5224,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5050,7 +5238,7 @@
         "effect": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Milcery",
@@ -5062,8 +5250,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5074,7 +5263,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -5086,8 +5275,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5098,7 +5288,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -5110,8 +5300,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5123,7 +5314,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Machop",
@@ -5135,8 +5326,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5148,7 +5340,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Machop",
@@ -5160,8 +5352,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5174,7 +5367,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Machoke",
@@ -5186,8 +5379,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5199,7 +5393,7 @@
         "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -5211,8 +5405,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5224,7 +5419,7 @@
         "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -5236,8 +5431,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5250,7 +5446,7 @@
         "effect": "Flip 2 coins. This attack does 80 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Cubone",
@@ -5262,8 +5458,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5275,7 +5472,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -5292,8 +5489,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5305,7 +5503,7 @@
         "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -5317,8 +5515,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5330,7 +5529,7 @@
         "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -5342,8 +5541,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5355,7 +5555,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -5367,8 +5567,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5380,7 +5581,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -5392,8 +5593,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5405,7 +5607,7 @@
         "effect": "If this Pokémon has at least 2 extra Fighting Energy attached, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Phanpy",
@@ -5417,8 +5619,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5429,7 +5632,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -5441,8 +5644,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5453,7 +5657,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -5465,8 +5669,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5477,7 +5682,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -5489,8 +5694,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5501,7 +5707,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -5513,8 +5719,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5525,7 +5732,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Gible",
@@ -5537,8 +5744,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5549,7 +5757,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Gible",
@@ -5561,8 +5769,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5583,7 +5792,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Gabite",
@@ -5595,8 +5804,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5608,7 +5818,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -5620,8 +5830,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5633,7 +5844,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -5645,8 +5856,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5658,7 +5870,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [
       {
@@ -5675,8 +5887,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5688,7 +5901,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [
       {
@@ -5705,8 +5918,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5720,7 +5934,7 @@
         "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Riolu",
@@ -5732,8 +5946,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5746,7 +5961,7 @@
         "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Kirlia",
@@ -5758,8 +5973,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5770,7 +5986,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -5782,8 +5998,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5794,7 +6011,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -5806,8 +6023,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5818,7 +6036,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -5830,8 +6048,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5842,7 +6061,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -5854,8 +6073,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5867,7 +6087,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -5879,8 +6099,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5892,7 +6113,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -5904,8 +6125,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5919,7 +6141,7 @@
         "effect": "Discard a Fighting Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Rockruff",
@@ -5931,8 +6153,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5944,7 +6167,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [
       {
@@ -5961,8 +6184,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -5975,7 +6199,7 @@
         "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -5987,8 +6211,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6001,7 +6226,7 @@
         "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -6013,8 +6238,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6025,7 +6251,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -6037,8 +6263,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6049,7 +6276,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -6061,8 +6288,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6073,7 +6301,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Zubat",
@@ -6085,8 +6313,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6097,7 +6326,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Zubat",
@@ -6109,8 +6338,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 110,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6121,7 +6351,7 @@
         ]
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -6138,8 +6368,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 110,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6150,7 +6381,7 @@
         ]
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -6167,8 +6398,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6180,7 +6412,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Golbat",
@@ -6192,8 +6424,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6205,7 +6438,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -6217,8 +6450,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6230,7 +6464,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -6242,8 +6476,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6257,7 +6492,7 @@
         "effect": "1 Special Condition from among Asleep, Burned, Confused, Paralyzed, and Poisoned is chosen at random, and your opponent's Active Pokémon is now affected by that Special Condition. Any Special Conditions already affecting that Pokémon will not be chosen."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Alolan Grimer",
@@ -6269,8 +6504,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6282,7 +6518,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -6294,8 +6530,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6307,7 +6544,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -6319,8 +6556,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6333,7 +6571,7 @@
         "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Paldean Wooper",
@@ -6345,8 +6583,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6358,7 +6597,7 @@
         "effect": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -6370,8 +6609,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6383,7 +6623,7 @@
         "effect": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -6395,8 +6635,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6408,7 +6649,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [
       {
@@ -6425,8 +6666,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6438,7 +6680,7 @@
         "effect": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -6450,8 +6692,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6463,7 +6706,7 @@
         "effect": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -6475,8 +6718,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6488,7 +6732,7 @@
         "effect": "If your opponent's Active Pokémon has damage on it, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Sneasel",
@@ -6500,8 +6744,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6514,7 +6759,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [
       {
@@ -6531,8 +6776,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6545,7 +6791,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -6562,8 +6808,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6576,7 +6823,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -6593,8 +6840,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 170,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6617,7 +6865,7 @@
         ]
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -6629,8 +6877,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6642,7 +6891,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -6654,8 +6903,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6667,7 +6917,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -6679,8 +6929,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6693,7 +6944,7 @@
         "effect": "Flip 3 coins. This attack does 60 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Alolan Diglett",
@@ -6705,8 +6956,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6719,7 +6971,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -6731,8 +6983,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6746,7 +6999,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Nosepass",
@@ -6758,8 +7011,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6782,7 +7036,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -6794,8 +7048,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6806,7 +7061,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Drilbur",
@@ -6818,8 +7073,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6830,7 +7086,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Drilbur",
@@ -6842,8 +7098,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6855,7 +7112,7 @@
         "effect": "Draw a card."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -6867,8 +7124,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6880,7 +7138,7 @@
         "effect": "Draw a card."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -6892,8 +7150,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6906,7 +7165,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [
       {
@@ -6923,8 +7182,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6937,7 +7197,7 @@
         "effect": "If your opponent's Active Pokémon has an Ability, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -6949,8 +7209,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6963,7 +7224,7 @@
         "effect": "If your opponent's Active Pokémon has an Ability, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -6975,8 +7236,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -6987,7 +7249,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -6999,8 +7261,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7011,7 +7274,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -7023,8 +7286,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7037,7 +7301,7 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Tinkatink",
@@ -7049,8 +7313,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7063,7 +7328,7 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Tinkatink",
@@ -7075,8 +7340,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7090,7 +7356,7 @@
         "effect": "Flip a coin. If heads, this attack does 80 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Tinkatuff",
@@ -7102,8 +7368,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7114,7 +7381,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -7126,8 +7393,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7138,7 +7406,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -7150,8 +7418,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7163,7 +7432,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dratini",
@@ -7175,8 +7444,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7188,7 +7458,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dratini",
@@ -7200,8 +7470,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7215,7 +7486,7 @@
         "effect": "During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dragonair",
@@ -7227,8 +7498,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7239,7 +7511,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -7251,8 +7523,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7263,7 +7536,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -7275,8 +7548,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7289,7 +7563,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Pidgey",
@@ -7301,8 +7575,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7315,7 +7590,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Pidgey",
@@ -7327,8 +7602,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7342,7 +7618,7 @@
         "effect": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Pidgeotto",
@@ -7354,8 +7630,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7367,7 +7644,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -7379,8 +7656,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7392,7 +7670,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -7404,8 +7682,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7419,7 +7698,7 @@
         "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Jigglypuff",
@@ -7431,8 +7710,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7443,7 +7723,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -7455,8 +7735,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7467,7 +7748,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -7479,8 +7760,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7493,7 +7775,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -7505,8 +7787,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7519,7 +7802,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -7531,8 +7814,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7547,7 +7831,7 @@
         "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Lickitung",
@@ -7559,8 +7843,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7572,7 +7857,7 @@
         "effect": "Draw a card."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -7584,8 +7869,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7597,7 +7883,7 @@
         "effect": "Draw a card."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -7609,8 +7895,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7621,7 +7908,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -7638,8 +7925,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 160,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7654,7 +7942,7 @@
         "effect": "This Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -7671,8 +7959,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7686,7 +7975,7 @@
         "effect": "Discard a Fire, Water, and Lightning Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -7698,8 +7987,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7710,7 +8000,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -7722,8 +8012,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7734,7 +8025,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -7746,8 +8037,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7759,7 +8051,7 @@
         "effect": "Take a Colorless Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Skitty",
@@ -7771,8 +8063,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7784,7 +8077,7 @@
         "effect": "Take a Colorless Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Skitty",
@@ -7796,8 +8089,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7809,7 +8103,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -7821,8 +8115,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7834,7 +8129,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -7846,8 +8141,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7862,7 +8158,7 @@
         "effect": "Heal 30 damage from this Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Bidoof",
@@ -7874,8 +8170,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7887,12 +8184,12 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [
       {
         "name": "Sky Support",
-        "effect": "As long as this Pokémon is on your Bench, your Active Basic Pokemon's Retreat Cost is 1 less."
+        "effect": "As long as this Pokémon is on your Bench, your Active Basic Pokémon's Retreat Cost is 1 less."
       }
     ],
     "evolvesFrom": null,
@@ -7904,8 +8201,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7917,12 +8215,12 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [
       {
         "name": "Sky Support",
-        "effect": "As long as this Pokémon is on your Bench, your Active Basic Pokemon's Retreat Cost is 1 less."
+        "effect": "As long as this Pokémon is on your Bench, your Active Basic Pokémon's Retreat Cost is 1 less."
       }
     ],
     "evolvesFrom": null,
@@ -7934,8 +8232,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7949,7 +8248,7 @@
         "effect": "This attack does 20 more damage for each of your Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -7966,8 +8265,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -7979,7 +8279,7 @@
         "effect": "Flip a coin. If heads, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -7991,8 +8291,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -8004,7 +8305,7 @@
         "effect": "Flip a coin. If heads, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -8016,8 +8317,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -8030,7 +8332,7 @@
         "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Type: Null",
@@ -8042,8 +8344,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -8056,7 +8359,7 @@
         "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Type: Null",
@@ -8068,8 +8371,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -8083,7 +8387,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -8100,8 +8404,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -8115,7 +8420,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -8132,8 +8437,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -8145,7 +8451,7 @@
         "effect": "During your next turn, this Pokémon's Overacceleration attack does +20 damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -8157,8 +8463,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -8170,7 +8477,7 @@
         "effect": "During your next turn, this Pokémon's Overacceleration attack does +20 damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -8182,8 +8489,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Choose 1:① During this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon. ② Heal 20 damage from each of your Pokémon that evolves from Eevee.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8198,8 +8506,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Choose 1:① During this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon. ② Heal 20 damage from each of your Pokémon that evolves from Eevee.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8214,8 +8523,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Move a Fire, Water, or Lightning Energy from 1 of your Benched Pokémon to your Active Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8230,8 +8540,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Move a Fire, Water, or Lightning Energy from 1 of your Benched Pokémon to your Active Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8246,8 +8557,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Play this card as if it were a 40-HP Basic Colorless Pokémon. At any time during your turn, you may discard this card from play. This card can't retreat.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8262,8 +8574,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Play this card as if it were a 40-HP Basic Colorless Pokémon. At any time during your turn, you may discard this card from play. This card can't retreat.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8278,8 +8591,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8294,8 +8608,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8310,8 +8625,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Choose a Pokémon in your hand and switch it with a random Pokémon in your deck.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8326,8 +8642,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Choose a Pokémon in your hand and switch it with a random Pokémon in your deck.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8342,8 +8659,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "If the Lightning Pokémon this card is attached to is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move 2 Lightning Energy from that Pokémon and attach 1 Energy each to 2 of your Benched Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8358,8 +8676,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "If the Lightning Pokémon this card is attached to is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move 2 Lightning Energy from that Pokémon and attach 1 Energy each to 2 of your Benched Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8374,8 +8693,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "The Pokémon this card is attached to gets +20 HP.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8390,8 +8710,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "The Pokémon this card is attached to gets +20 HP.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8406,8 +8727,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8422,8 +8744,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8438,8 +8761,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "The Grass Pokémon this card is attached to gets +30 HP.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8454,8 +8778,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "The Grass Pokémon this card is attached to gets +30 HP.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8470,8 +8795,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Switch in 1 of your opponent's Benched Pokémon that has damage on it to the Active Spot.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8486,8 +8812,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Switch in 1 of your opponent's Benched Pokémon that has damage on it to the Active Spot.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8502,8 +8829,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Heal 50 damage from 1 of your Grass Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8518,8 +8846,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Heal 50 damage from 1 of your Grass Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8534,8 +8863,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Heal 40 damage from each of your Pokémon that has any Water Energy attached.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8550,8 +8880,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Heal 40 damage from each of your Pokémon that has any Water Energy attached.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8566,8 +8897,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Switch your Active Pokémon that has damage on it with 1 of your Benched Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8582,8 +8914,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Switch your Active Pokémon that has damage on it with 1 of your Benched Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8598,8 +8931,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Pokémon do +10 damage to your opponent's Active Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8614,8 +8948,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Pokémon do +10 damage to your opponent's Active Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8630,8 +8965,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Your opponent reveals their hand. Choose a Supporter card you find there and shuffle it into your opponent's deck.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8646,8 +8982,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Your opponent reveals their hand. Choose a Supporter card you find there and shuffle it into your opponent's deck.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8662,8 +8999,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8678,8 +9016,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8694,8 +9033,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Each player shuffles the cards in their hand into their deck, then draws that many cards.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8710,8 +9050,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Each player shuffles the cards in their hand into their deck, then draws that many cards.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8726,8 +9067,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Move an Energy from 1 of your Benched Pokémon to your Active Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8742,8 +9084,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Move an Energy from 1 of your Benched Pokémon to your Active Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8758,8 +9101,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Your opponent shuffles their hand into their deck and draws a card for each of their remaining points needed to win.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8774,8 +9118,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Your opponent shuffles their hand into their deck and draws a card for each of their remaining points needed to win.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8790,8 +9135,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, the Retreat Cost of your Active Pokémon is 2 less.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8806,8 +9152,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, the Retreat Cost of your Active Pokémon is 2 less.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8822,8 +9169,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Heal 60 damage from 1 of your Stage 2 Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8838,8 +9186,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Heal 60 damage from 1 of your Stage 2 Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8854,8 +9203,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "You can use this card only if your opponent has gotten at least 1 point. Choose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8870,8 +9220,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "You can use this card only if your opponent has gotten at least 1 point. Choose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8886,8 +9237,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon ex.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8902,8 +9254,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon ex.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -8918,8 +9271,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -8931,7 +9285,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Sprigatito",
@@ -8943,8 +9297,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -8957,7 +9312,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -8974,8 +9329,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -8987,7 +9343,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -9004,8 +9360,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 110,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9018,7 +9375,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -9035,8 +9392,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9049,7 +9407,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Swirlix",
@@ -9061,8 +9419,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9073,7 +9432,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -9085,8 +9444,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9108,7 +9468,7 @@
         "effect": "During your next turn, this Pokémon can't use Big Beat."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -9120,8 +9480,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9145,7 +9506,7 @@
         "effect": "Discard 2 Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
@@ -9157,8 +9518,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9172,7 +9534,7 @@
         "effect": "Take a Fire, Water, and Lightning Energy from your Energy Zone and attach them to your Benched Basic Pokémon in any way you like."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -9184,8 +9546,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9207,7 +9570,7 @@
         "effect": "Discard 3 Water Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -9219,8 +9582,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9233,7 +9597,7 @@
         "effect": "This attack does 30 damage for each of your Benched Lightning Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -9245,8 +9609,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9269,7 +9634,7 @@
         "effect": "Discard 2 Psychic Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -9281,8 +9646,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9303,7 +9669,7 @@
         "effect": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -9315,8 +9681,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9329,7 +9696,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -9346,8 +9713,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9370,7 +9738,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -9382,8 +9750,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9396,7 +9765,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [
       {
@@ -9413,8 +9782,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9425,7 +9795,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -9442,8 +9812,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9457,7 +9828,7 @@
         "effect": "Discard a Fire, Water, and Lightning Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -9469,8 +9840,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9484,7 +9856,7 @@
         "effect": "This attack does 20 more damage for each of your Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -9501,8 +9873,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Draw 2 cards.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -9517,8 +9890,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Heal 60 damage from 1 of your Stage 2 Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -9533,8 +9907,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "You can use this card only if your opponent has gotten at least 1 point. Choose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pokémon.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -9549,8 +9924,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9563,7 +9939,7 @@
         "effect": "This attack does 30 damage for each of your Benched Lightning Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -9575,8 +9951,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9591,7 +9968,7 @@
         "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -9600,7 +9977,7 @@
       }
     ],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a4b-378",
@@ -9608,8 +9985,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [
       {
@@ -9622,7 +10000,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [
       {
@@ -9631,7 +10009,7 @@
       }
     ],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a4b-379",
@@ -9639,8 +10017,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.",
     "health": null,
-    "set": "Deluxe Pack: ex (A4b)",
+    "set": "Deluxe Pack ex (A4b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,

@@ -5,8 +5,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -17,7 +18,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -29,8 +30,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -42,7 +44,7 @@
         "effect": "This attack's damage isn't affected by Weakness or by any effects on your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Ledyba",
@@ -54,8 +56,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -68,7 +71,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -80,8 +83,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -93,7 +97,7 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -105,8 +109,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -119,7 +124,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned. During your opponent's next turn, that Pokémon can't retreat."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Roselia",
@@ -131,8 +136,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -144,7 +150,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -156,8 +162,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -171,7 +178,7 @@
         "effect": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Cacnea",
@@ -183,8 +190,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -196,7 +204,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -208,8 +216,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -222,7 +231,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Chespin",
@@ -234,8 +243,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -250,7 +260,7 @@
         "effect": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 80 damage to the Attacking Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Quilladin",
@@ -262,8 +272,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -274,7 +285,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -286,8 +297,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -299,7 +311,7 @@
         "effect": "Put a random card that evolves from Spewpa from your deck into your hand."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Scatterbug",
@@ -311,8 +323,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -325,7 +338,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned and Asleep."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Spewpa",
@@ -337,8 +350,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -348,10 +362,10 @@
           "Grass",
           "Grass"
         ],
-        "effect": "If your opponent has gotten exactly 1 point, this attack does 40 more damage."
+        "effect": "If your opponent has gotten exactly 1 points, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -363,8 +377,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -375,7 +390,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -387,8 +402,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -400,7 +416,7 @@
         "effect": "You may shuffle this Pokémon and all attached cards into your deck."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Gossifleur",
@@ -412,8 +428,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -426,7 +443,7 @@
         "effect": "If the amount of Energy attached to both Active Pokémon is 5 or more, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -443,8 +460,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -457,7 +475,7 @@
         "effect": "Your opponent's Active Pokémon is now Burned."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Cubone",
@@ -469,8 +487,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -484,7 +503,7 @@
         "effect": "Discard 2 Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -496,8 +515,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -508,7 +528,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -520,8 +540,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -533,7 +554,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Litleo",
@@ -545,8 +566,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -558,7 +580,7 @@
         "effect": "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -570,8 +592,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -593,7 +616,7 @@
         "effect": "Discard 3 Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -605,8 +628,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -617,7 +641,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -629,8 +653,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -641,7 +666,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Scorbunny",
@@ -653,8 +678,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -667,7 +693,7 @@
         "effect": "During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Raboot",
@@ -679,8 +705,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -693,7 +720,7 @@
         "effect": "Flip a coin. If heads, take 2 Fire Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -705,8 +732,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -717,7 +745,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -729,8 +757,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -743,7 +772,7 @@
         "effect": "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Alolan Vulpix",
@@ -755,8 +784,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -767,7 +797,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -779,8 +809,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -794,7 +825,7 @@
         "effect": "Flip 3 coins. This attack does 60 damage for each heads."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Galarian Mr. Mime",
@@ -806,8 +837,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -820,7 +852,7 @@
         "effect": "Flip a coin. If heads, this attack does 70 damage to your opponent's Active Pokémon. If tails, heal 30 damage from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -832,8 +864,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -844,7 +877,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -856,8 +889,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -869,7 +903,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Mudkip",
@@ -881,8 +915,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -896,7 +931,7 @@
         "effect": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Marshtomp",
@@ -908,8 +943,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 230,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -923,7 +959,7 @@
         "effect": "Discard 2 random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Marshtomp",
@@ -935,8 +971,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -947,7 +984,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -959,8 +996,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -971,7 +1009,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Vanillite",
@@ -983,8 +1021,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -997,7 +1036,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Vanillish",
@@ -1009,8 +1048,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1022,7 +1062,7 @@
         "effect": "During your opponent's next turn, they can't play any Item cards from their hand."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -1034,8 +1074,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1047,7 +1088,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Sail Fossil",
@@ -1059,8 +1100,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1071,10 +1113,10 @@
           "Water",
           "Colorless"
         ],
-        "effect": "Discard 2 Water Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+        "effect": "Discard Water2 Water Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Amaura",
@@ -1086,8 +1128,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1100,7 +1143,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1112,8 +1155,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1127,7 +1171,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Chewtle",
@@ -1139,8 +1183,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1152,7 +1197,7 @@
         "effect": "This attack does 30 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1164,8 +1209,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1176,7 +1222,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1188,8 +1234,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1200,7 +1247,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Arrokuda",
@@ -1212,8 +1259,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1226,7 +1274,7 @@
         "effect": "Flip a coin. If heads, this attack also does 40 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1238,8 +1286,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1251,7 +1300,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1263,8 +1312,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1277,7 +1327,7 @@
         "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -1294,8 +1344,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1309,7 +1360,7 @@
         "effect": "1 other Pokémon (either yours or your opponent's) is chosen at random 1 time. Do 100 damage to the chosen Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1321,8 +1372,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1334,7 +1386,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1346,8 +1398,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1359,7 +1412,7 @@
         "effect": "If Plusle is on your Bench, this attack also does 10 damage to each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1371,8 +1424,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1384,7 +1438,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1396,8 +1450,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1411,7 +1466,7 @@
         "effect": "This attack also does 30 damage to each of your opponent's Benched Pokémon that has damage on it."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Toxel",
@@ -1423,8 +1478,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1436,7 +1492,7 @@
         "effect": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1448,8 +1504,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1462,7 +1519,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Tadbulb",
@@ -1474,8 +1531,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1486,7 +1544,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1498,8 +1556,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1511,7 +1570,7 @@
         "effect": "If you have 5 or more Psychic Energy in play, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Galarian Ponyta",
@@ -1523,8 +1582,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1538,7 +1598,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1550,8 +1610,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1563,7 +1624,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -1575,8 +1636,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1589,7 +1651,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Snubbull",
@@ -1601,8 +1663,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1614,7 +1677,7 @@
         "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1626,8 +1689,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1639,7 +1703,7 @@
         "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Ralts",
@@ -1651,8 +1715,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1665,7 +1730,7 @@
         "effect": "Take 2 Psychic Energy from your Energy Zone and attach it to 1 of your Benched Psychic Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Kirlia",
@@ -1677,8 +1742,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 210,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1691,7 +1757,7 @@
         "effect": "Take 3 Psychic Energy from your Energy Zone and attach it to your Psychic Pokémon in any way you like."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Kirlia",
@@ -1703,8 +1769,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1715,7 +1782,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1727,8 +1794,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1739,7 +1807,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Litwick",
@@ -1751,8 +1819,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1765,7 +1834,7 @@
         "effect": "This attack does 20 more damage for each Supporter card in your discard pile."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Lampent",
@@ -1777,8 +1846,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1790,7 +1860,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -1807,8 +1877,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1819,7 +1890,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1831,8 +1902,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1844,7 +1916,7 @@
         "effect": "Discard a card from your hand. If you can't, this attack does nothing."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Pumpkaboo",
@@ -1856,8 +1928,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1869,7 +1942,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -1886,8 +1959,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1899,7 +1973,7 @@
         "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1911,8 +1985,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1923,7 +1998,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -1940,8 +2015,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1955,7 +2031,7 @@
         "effect": "This attack does 70 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -1967,8 +2043,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -1980,7 +2057,7 @@
         "effect": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -1992,8 +2069,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2005,7 +2083,7 @@
         "effect": "Flip 3 coins. This attack does 30 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Sandshrew",
@@ -2017,8 +2095,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2030,7 +2109,7 @@
         "effect": "Discard a Stadium in play."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -2042,8 +2121,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2054,7 +2134,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Machop",
@@ -2066,8 +2146,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2080,7 +2161,7 @@
         "effect": "Discard the top card of your opponent's deck."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Machoke",
@@ -2092,8 +2173,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2104,7 +2186,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2116,8 +2198,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2128,7 +2211,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -2140,8 +2223,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2154,7 +2238,7 @@
         "effect": "If this Pokémon has any Psychic Energy attached, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Meditite",
@@ -2166,8 +2250,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2179,7 +2264,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2191,8 +2276,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2205,7 +2291,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Roggenrola",
@@ -2217,8 +2303,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 190,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2233,7 +2320,7 @@
         "effect": "This attack does 140 damage to 1 of your opponent's Pokémon. During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Boldore",
@@ -2245,8 +2332,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2258,7 +2346,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2270,8 +2358,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2283,7 +2372,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Jaw Fossil",
@@ -2295,8 +2384,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2310,7 +2400,7 @@
         "effect": "If you have fewer Pokémon in play than your opponent, this attack does 80 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Tyrunt",
@@ -2322,8 +2412,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2335,7 +2426,7 @@
         "effect": "This attack does 30 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -2347,8 +2438,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2359,7 +2451,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [
       {
@@ -2376,8 +2468,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2390,7 +2483,7 @@
         "effect": "Flip a coin. If heads, during your opponent's next turn, this Pokémon takes −100 damage from attacks."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2402,8 +2495,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2415,7 +2509,7 @@
         "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2427,8 +2521,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2439,7 +2534,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Alolan Meowth",
@@ -2451,8 +2546,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2464,7 +2560,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2476,8 +2572,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2490,12 +2587,12 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [
       {
         "name": "Power of Alchemy",
-        "effect": "Basic Pokémon in play (both yours and your opponent's) have no Abilities."
+        "effect": "Basic Pokémon in play (both yours and your opponent's) have no Abilities."
       }
     ],
     "evolvesFrom": "Alolan Grimer",
@@ -2507,8 +2604,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2519,7 +2617,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2531,8 +2629,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2543,7 +2642,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Galarian Zigzagoon",
@@ -2555,8 +2654,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2569,7 +2669,7 @@
         "effect": "If your opponent's Active Pokémon has damage on it, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Galarian Linoone",
@@ -2581,8 +2681,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2594,7 +2695,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2606,8 +2707,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2621,7 +2723,7 @@
         "effect": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Stunky",
@@ -2633,8 +2735,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2646,7 +2749,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [
       {
@@ -2663,8 +2766,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2676,7 +2780,7 @@
         "effect": "Flip a coin. If heads, look at a random card from your opponent's hand and shuffle it into their deck."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2688,8 +2792,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2701,7 +2806,7 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Purrloin",
@@ -2713,8 +2818,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2725,7 +2831,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2737,8 +2843,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2751,7 +2858,7 @@
         "effect": "If this Pokémon has more Energy attached than your opponent's Active Pokémon, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Scraggy",
@@ -2763,8 +2870,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2778,7 +2886,7 @@
         "effect": "Discard a random Energy from both Active Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2790,8 +2898,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2806,7 +2915,7 @@
         "effect": "Flip a coin. If heads, discard your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -2818,8 +2927,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2830,7 +2940,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -2842,8 +2952,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2855,7 +2966,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [
       {
@@ -2872,8 +2983,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2885,7 +2997,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -2897,8 +3009,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 170,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2911,7 +3024,7 @@
         "effect": "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch attack does +30 damage. This effect stacks."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -2923,8 +3036,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2937,7 +3051,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Drilbur",
@@ -2949,8 +3063,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2961,7 +3076,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -2973,8 +3088,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -2987,7 +3103,7 @@
         "effect": "Flip a coin. If heads, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Ferroseed",
@@ -2999,8 +3115,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3013,7 +3130,7 @@
         "effect": "During your opponent's next turn, if this Pokémon is in the Active Spot when your opponent's Active Pokémon retreats, this attack does 40 damage to the new Active Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -3025,8 +3142,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3037,7 +3155,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -3049,8 +3167,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3063,7 +3182,7 @@
         "effect": "Flip 2 coins. This attack does 40 damage for each heads."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Honedge",
@@ -3075,8 +3194,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3090,7 +3210,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes −80 damage from attacks from your opponent's Pokémon ex."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Doublade",
@@ -3102,8 +3222,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3114,7 +3235,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -3126,8 +3247,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3139,7 +3261,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Bagon",
@@ -3151,8 +3273,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3166,7 +3289,7 @@
         "effect": "Flip a coin. If tails, this Pokémon also does 50 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Shelgon",
@@ -3178,8 +3301,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3191,7 +3315,7 @@
         "effect": "Draw a card."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -3208,8 +3332,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3221,7 +3346,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Meowth",
@@ -3233,8 +3358,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3248,7 +3374,7 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3260,8 +3386,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 180,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3272,10 +3399,10 @@
           "Colorless",
           "Colorless"
         ],
-        "effect": "This attack is used twice in a row. The second attack does 40 damage.(If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)"
+        "effect": "This attack is used twice in a row. The second attack does 40 damage. (If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)"
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3287,8 +3414,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3300,7 +3428,7 @@
         "effect": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3312,8 +3440,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3324,7 +3453,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Sentret",
@@ -3336,8 +3465,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3349,7 +3479,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -3366,8 +3496,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3382,7 +3513,7 @@
         "effect": "Flip 2 coins. This attack does 40 more damage for each heads."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -3394,8 +3525,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3406,7 +3538,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -3418,8 +3550,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3431,12 +3564,12 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [
       {
         "name": "Repelling Wind",
-        "effect": "Once during your turn, you may switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+        "effect": "Once during your turn, you may switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
       }
     ],
     "evolvesFrom": "Taillow",
@@ -3448,8 +3581,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3461,7 +3595,7 @@
         "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3473,8 +3607,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3487,7 +3622,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Slakoth",
@@ -3499,8 +3634,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3514,7 +3650,7 @@
         "effect": "Discard a random Energy from this Pokémon."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -3531,8 +3667,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3544,7 +3681,7 @@
         "effect": "This Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3556,8 +3693,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3570,7 +3708,7 @@
         "effect": "If a Stadium is in play, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -3582,8 +3720,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3594,7 +3733,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3606,8 +3745,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3620,7 +3760,7 @@
         "effect": "This attack also does 10 damage to each of your Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Bunnelby",
@@ -3632,8 +3772,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3646,7 +3787,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -3663,8 +3804,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 40,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3676,7 +3818,7 @@
         "effect": "Put 3 random cards from among Tandemaus and Maushold from your deck onto your Bench."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3688,8 +3830,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3701,7 +3844,7 @@
         "effect": "Flip a coin for each Tandemaus and Maushold you have in play. This attack does 60 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Tandemaus",
@@ -3713,8 +3856,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Play this card as if it were a 40-HP Basic Colorless Pokémon. At any time during your turn, you may discard this card from play. This card can't retreat.",
     "health": null,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -3729,8 +3873,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Heal 20 damage from your Active Pokémon. If you healed any damage in this way, flip a coin. If heads, put this Lucky Ice Pop into your hand instead of the discard pile.",
     "health": null,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -3745,8 +3890,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Play this card as if it were a 40-HP Basic Colorless Pokémon. At any time during your turn, you may discard this card from play. This card can't retreat.",
     "health": null,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -3761,8 +3907,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "As long as the Pokémon this card is attached to is on your Bench, prevent all damage done to that Pokémon by your opponent's attacks and Abilities.",
     "health": null,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -3777,8 +3924,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "If this card is attached to 1 of your Pokémon, discard it at the end of your opponent's turn. The Metal Pokémon this card is attached to takes −50 damage from attacks from your opponent's Pokémon.",
     "health": null,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -3793,8 +3941,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Heal 90 damage from 1 of your Psychic Pokémon that has 2 or more Psychic Energy attached. If you healed any damage in this way, discard 2 Psychic Energy from that Pokémon.",
     "health": null,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -3809,8 +3958,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Look at the top 4 cards of your deck. Put all Stage 1 Pokémon you find there into your hand. Shuffle the other cards back into your deck.",
     "health": null,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -3825,8 +3975,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "You can use this card only if your Pokémon in play have 3 or more different types of Energy attached. Move all Energy from each of your Benched Pokémon to your Active Pokémon.",
     "health": null,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -3841,8 +3992,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "You can use this card only if you have Galarian Obstagoon in play. Discard 2 random Energy from your opponent's Active Pokémon.",
     "health": null,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -3857,8 +4009,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Stadium",
+    "effect": "Attacks used by Stage 1 Pokémon in play (both yours and your opponent's) do +10 damage to the opponent's Active Pokémon.",
     "health": null,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -3873,8 +4026,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Stadium",
+    "effect": "Each Basic Pokémon in play (both yours and your opponent's) gets +20 HP.",
     "health": null,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -3889,8 +4043,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Stadium",
+    "effect": "The Retreat Cost of each Psychic Pokémon in play (both yours and your opponent's) is 2 less.",
     "health": null,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -3905,8 +4060,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3918,7 +4074,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -3930,8 +4086,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3944,7 +4101,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned. During your opponent's next turn, that Pokémon can't retreat."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Roselia",
@@ -3956,8 +4113,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3970,7 +4128,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned and Asleep."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Spewpa",
@@ -3982,8 +4140,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -3993,10 +4152,10 @@
           "Grass",
           "Grass"
         ],
-        "effect": "If your opponent has gotten exactly 1 point, this attack does 40 more damage."
+        "effect": "If your opponent has gotten exactly 1 points, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -4008,8 +4167,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4023,7 +4183,7 @@
         "effect": "Discard 2 Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -4035,8 +4195,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4048,7 +4209,7 @@
         "effect": "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -4060,8 +4221,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4072,7 +4234,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -4084,8 +4246,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4096,10 +4259,10 @@
           "Water",
           "Colorless"
         ],
-        "effect": "Discard 2 Water Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+        "effect": "Discard Water2 Water Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Amaura",
@@ -4111,8 +4274,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4124,7 +4288,7 @@
         "effect": "This attack does 30 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -4136,8 +4300,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4149,7 +4314,7 @@
         "effect": "If Plusle is on your Bench, this attack also does 10 damage to each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4161,8 +4326,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4174,7 +4340,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4186,8 +4352,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4198,7 +4365,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4210,8 +4377,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4223,7 +4391,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -4235,8 +4403,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4250,7 +4419,7 @@
         "effect": "This attack does 70 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -4262,8 +4431,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4275,7 +4445,7 @@
         "effect": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -4287,8 +4457,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4302,7 +4473,7 @@
         "effect": "If you have fewer Pokémon in play than your opponent, this attack does 80 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Tyrunt",
@@ -4314,8 +4485,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4326,7 +4498,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [
       {
@@ -4343,8 +4515,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4357,12 +4530,12 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [
       {
         "name": "Power of Alchemy",
-        "effect": "Basic Pokémon in play (both yours and your opponent's) have no Abilities."
+        "effect": "Basic Pokémon in play (both yours and your opponent's) have no Abilities."
       }
     ],
     "evolvesFrom": "Alolan Grimer",
@@ -4374,8 +4547,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4387,7 +4561,7 @@
         "effect": "Flip a coin. If heads, look at a random card from your opponent's hand and shuffle it into their deck."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -4399,8 +4573,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4414,7 +4589,7 @@
         "effect": "Discard a random Energy from both Active Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -4426,8 +4601,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4440,7 +4616,7 @@
         "effect": "If your opponent's Active Pokémon has damage on it, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Galarian Linoone",
@@ -4452,8 +4628,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4465,7 +4642,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [
       {
@@ -4482,8 +4659,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4497,7 +4675,7 @@
         "effect": "Flip a coin. If tails, this Pokémon also does 50 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Shelgon",
@@ -4509,8 +4687,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4522,7 +4701,7 @@
         "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4534,8 +4713,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4548,7 +4728,7 @@
         "effect": "If the amount of Energy attached to both Active Pokémon is 5 or more, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -4565,8 +4745,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4588,7 +4769,7 @@
         "effect": "Discard 3 Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -4600,8 +4781,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4614,7 +4796,7 @@
         "effect": "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Alolan Vulpix",
@@ -4626,8 +4808,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 230,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4641,7 +4824,7 @@
         "effect": "Discard 2 random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Marshtomp",
@@ -4653,8 +4836,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4668,7 +4852,7 @@
         "effect": "This attack also does 30 damage to each of your opponent's Benched Pokémon that has damage on it."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Toxel",
@@ -4680,8 +4864,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 210,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4694,7 +4879,7 @@
         "effect": "Take 3 Psychic Energy from your Energy Zone and attach it to your Psychic Pokémon in any way you like."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Kirlia",
@@ -4706,8 +4891,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4719,7 +4905,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -4736,8 +4922,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 190,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4752,7 +4939,7 @@
         "effect": "This attack does 140 damage to 1 of your opponent's Pokémon. During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Boldore",
@@ -4764,8 +4951,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 170,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4778,7 +4966,7 @@
         "effect": "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch attack does +30 damage. This effect stacks."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -4790,8 +4978,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 180,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4802,10 +4991,10 @@
           "Colorless",
           "Colorless"
         ],
-        "effect": "This attack is used twice in a row. The second attack does 40 damage.(If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)"
+        "effect": "This attack is used twice in a row. The second attack does 40 damage. (If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)"
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4817,8 +5006,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Heal 90 damage from 1 of your Psychic Pokémon that has 2 or more Psychic Energy attached. If you healed any damage in this way, discard 2 Psychic Energy from that Pokémon.",
     "health": null,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -4833,8 +5023,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Look at the top 4 cards of your deck. Put all Stage 1 Pokémon you find there into your hand. Shuffle the other cards back into your deck.",
     "health": null,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -4849,8 +5040,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "You can use this card only if your Pokémon in play have 3 or more different types of Energy attached. Move all Energy from each of your Benched Pokémon to your Active Pokémon.",
     "health": null,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -4865,8 +5057,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "You can use this card only if you have Galarian Obstagoon in play. Discard 2 random Energy from your opponent's Active Pokémon.",
     "health": null,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -4881,8 +5074,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4895,7 +5089,7 @@
         "effect": "If the amount of Energy attached to both Active Pokémon is 5 or more, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -4912,8 +5106,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4935,7 +5130,7 @@
         "effect": "Discard 3 Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -4947,8 +5142,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4961,7 +5157,7 @@
         "effect": "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Alolan Vulpix",
@@ -4973,8 +5169,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 230,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -4988,7 +5185,7 @@
         "effect": "Discard 2 random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Marshtomp",
@@ -5000,8 +5197,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5015,7 +5213,7 @@
         "effect": "This attack also does 30 damage to each of your opponent's Benched Pokémon that has damage on it."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Toxel",
@@ -5027,8 +5225,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5040,7 +5239,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -5057,8 +5256,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 190,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5073,7 +5273,7 @@
         "effect": "This attack does 140 damage to 1 of your opponent's Pokémon. During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Boldore",
@@ -5085,8 +5285,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 170,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5099,7 +5300,7 @@
         "effect": "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch attack does +30 damage. This effect stacks."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -5111,8 +5312,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 180,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5123,10 +5325,10 @@
           "Colorless",
           "Colorless"
         ],
-        "effect": "This attack is used twice in a row. The second attack does 40 damage.(If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)"
+        "effect": "This attack is used twice in a row. The second attack does 40 damage. (If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)"
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -5138,8 +5340,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 210,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5152,7 +5355,7 @@
         "effect": "Take 3 Psychic Energy from your Energy Zone and attach it to your Psychic Pokémon in any way you like."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Kirlia",
@@ -5164,8 +5367,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5177,7 +5381,7 @@
         "effect": "Draw a card."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -5194,8 +5398,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5208,11 +5413,11 @@
         "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-206",
@@ -5220,24 +5425,23 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
         "name": "Toasty Toss",
         "damage": "",
-        "cost": [
-          null
-        ],
+        "cost": [],
         "effect": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-207",
@@ -5245,8 +5449,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5258,11 +5463,11 @@
         "effect": "Take a Fire Energy from your Energy Zone and attach it to this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-208",
@@ -5270,8 +5475,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5282,11 +5488,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-209",
@@ -5294,8 +5500,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5307,11 +5514,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Horsea",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-210",
@@ -5319,24 +5526,23 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
         "name": "Splashy Toss",
         "damage": "",
-        "cost": [
-          null
-        ],
+        "cost": [],
         "effect": "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-211",
@@ -5344,8 +5550,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5356,11 +5563,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Helix Fossil",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-212",
@@ -5368,8 +5575,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5383,11 +5591,11 @@
         "effect": "During your opponent's next turn, the Defending Pokémon can't attack."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Omanyte",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-213",
@@ -5395,24 +5603,23 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
         "name": "Crackly Toss",
         "damage": "",
-        "cost": [
-          null
-        ],
+        "cost": [],
         "effect": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-214",
@@ -5420,8 +5627,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5432,11 +5640,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-215",
@@ -5444,8 +5652,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5456,11 +5665,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Clefairy",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-216",
@@ -5468,8 +5677,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5481,11 +5691,11 @@
         "effect": "If Latios is on your Bench, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-217",
@@ -5493,8 +5703,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5508,7 +5719,7 @@
         "effect": "Discard all Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -5517,7 +5728,7 @@
       }
     ],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-218",
@@ -5525,8 +5736,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5538,11 +5750,11 @@
         "effect": "This attack does 30 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-219",
@@ -5550,8 +5762,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5562,11 +5775,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-220",
@@ -5574,8 +5787,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5586,11 +5800,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Dome Fossil",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-221",
@@ -5598,8 +5812,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5611,11 +5826,11 @@
         "effect": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Kabuto",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-222",
@@ -5623,8 +5838,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5636,11 +5852,11 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-223",
@@ -5648,23 +5864,22 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
         "name": "Slappy Knuckle",
         "damage": "20",
-        "cost": [
-          null
-        ]
+        "cost": []
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-224",
@@ -5672,8 +5887,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5684,14 +5900,14 @@
           "Colorless",
           "Colorless"
         ],
-        "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 80  more damage."
+        "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 80 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2-225",
@@ -5699,8 +5915,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5714,7 +5931,7 @@
         "effect": "Discard 2 Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [
       {
@@ -5723,7 +5940,7 @@
       }
     ],
     "evolvesFrom": "Eevee",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b2-226",
@@ -5731,8 +5948,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5746,11 +5964,11 @@
         "effect": "Take a Fire, Water, and Lightning Energy from your Energy Zone and attach them to your Benched Basic Pokémon in any way you like."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b2-227",
@@ -5758,8 +5976,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5772,11 +5991,11 @@
         "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Seadra",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b2-228",
@@ -5784,8 +6003,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5797,7 +6017,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -5806,7 +6026,7 @@
       }
     ],
     "evolvesFrom": "Eevee",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b2-229",
@@ -5814,8 +6034,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5827,7 +6048,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [
       {
@@ -5836,7 +6057,7 @@
       }
     ],
     "evolvesFrom": "Eevee",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b2-230",
@@ -5844,8 +6065,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5857,11 +6079,11 @@
         "effect": "If this Pokémon has at least 2 extra Fighting Energy attached, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Phanpy",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b2-231",
@@ -5869,8 +6091,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5882,7 +6105,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [
       {
@@ -5891,7 +6114,7 @@
       }
     ],
     "evolvesFrom": "Eevee",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b2-232",
@@ -5899,8 +6122,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5914,11 +6138,11 @@
         "effect": "Discard a Fire, Water, and Lightning Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b2-233",
@@ -5926,8 +6150,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [
       {
@@ -5939,7 +6164,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -5956,8 +6181,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "As long as the Pokémon this card is attached to is on your Bench, prevent all damage done to that Pokémon by your opponent's attacks and Abilities.",
     "health": null,
-    "set": "Fantastical Parade  (B2)",
+    "set": "Fantastical Parade (B2)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,

@@ -5,6 +5,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -18,7 +19,7 @@
         "effect": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -30,6 +31,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Promo-B",
     "pack": null,
@@ -43,7 +45,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -55,6 +57,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -69,7 +72,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -81,6 +84,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
     "set": "Promo-B",
     "pack": null,
@@ -95,7 +99,7 @@
         "effect": "This attack also does 20 damage to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Luxio",
@@ -107,6 +111,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -120,7 +125,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -132,6 +137,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 210,
     "set": "Promo-B",
     "pack": null,
@@ -147,7 +153,7 @@
         "effect": "Flip 3 coins. For each heads, discard a random Energy from your opponent's Active Pokémon. If all of them are tails, this attack does nothing."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Pidgeotto",
@@ -159,6 +165,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -171,7 +178,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -183,6 +190,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -195,7 +203,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -207,6 +215,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 170,
     "set": "Promo-B",
     "pack": null,
@@ -221,7 +230,7 @@
         "effect": "Your opponent reveals their hand. Choose a Supporter card you find there and discard it."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -233,6 +242,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Promo-B",
     "pack": null,
@@ -247,7 +257,7 @@
         "effect": "This attack does 20 more damage for each Energy attached to this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Drifloon",
@@ -259,6 +269,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Promo-B",
     "pack": null,
@@ -271,7 +282,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -288,6 +299,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -301,7 +313,7 @@
         "effect": "Choose 1 of your Benched Pokémon's attacks, except any Pokémon ex, and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -313,6 +325,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Promo-B",
     "pack": null,
@@ -327,7 +340,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Growlithe",
@@ -339,6 +352,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
     "set": "Promo-B",
     "pack": null,
@@ -352,7 +366,7 @@
         "effect": "Flip 2 coins. If both of them are heads, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -364,6 +378,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Promo-B",
     "pack": null,
@@ -376,7 +391,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -388,6 +403,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
     "set": "Promo-B",
     "pack": null,
@@ -403,7 +419,7 @@
         "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Krokorok",
@@ -415,6 +431,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Promo-B",
     "pack": null,
@@ -428,7 +445,7 @@
         "effect": "Put a random Pokémon from your deck into your hand."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -440,6 +457,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Promo-B",
     "pack": null,
@@ -454,7 +472,7 @@
         "effect": "Discard all Energy from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Helioptile",
@@ -466,6 +484,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -479,7 +498,7 @@
         "effect": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -491,6 +510,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Promo-B",
     "pack": null,
@@ -505,7 +525,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [
       {
@@ -522,6 +542,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Promo-B",
     "pack": null,
@@ -537,7 +558,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -549,6 +570,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Promo-B",
     "pack": null,
@@ -563,7 +585,7 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -575,6 +597,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
     "set": "Promo-B",
     "pack": null,
@@ -590,7 +613,7 @@
         "effect": "This attack does 20 more damage for each Metal Energy attached to this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -602,6 +625,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 180,
     "set": "Promo-B",
     "pack": null,
@@ -617,7 +641,7 @@
         "effect": "Discard all Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -629,6 +653,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Promo-B",
     "pack": null,
@@ -642,7 +667,7 @@
         "effect": "This attack does 30 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -654,6 +679,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -667,7 +693,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -679,6 +705,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Promo-B",
     "pack": null,
@@ -692,7 +719,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -704,6 +731,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -717,7 +745,7 @@
         "effect": "Heal 10 damage from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -729,6 +757,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 180,
     "set": "Promo-B",
     "pack": null,
@@ -744,7 +773,7 @@
         "effect": "If this Pokémon has any Psychic Energy attached, this attack does 40 more damage. This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Meditite",
@@ -756,6 +785,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Promo-B",
     "pack": null,
@@ -770,7 +800,7 @@
         "effect": "If a Stadium is in play, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -782,6 +812,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
     "set": "Promo-B",
     "pack": null,
@@ -796,7 +827,7 @@
         "effect": "During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Raboot",
@@ -808,6 +839,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -820,7 +852,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -832,6 +864,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -845,7 +878,7 @@
         "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -857,6 +890,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -870,7 +904,7 @@
         "effect": "Heal 20 damage from 1 of your Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -882,6 +916,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -894,7 +929,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -906,6 +941,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Promo-B",
     "pack": null,
@@ -919,7 +955,7 @@
         "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -931,6 +967,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -944,7 +981,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -956,6 +993,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Promo-B",
     "pack": null,
@@ -971,7 +1009,7 @@
         "effect": "During your next turn, this Pokémon can't use Gigaton Hammer."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Tinkatuff",
@@ -983,6 +1021,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -996,7 +1035,7 @@
         "effect": "This attack does 10 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1008,6 +1047,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Promo-B",
     "pack": null,
@@ -1023,7 +1063,7 @@
         "effect": "Discard the top card of your opponent's deck."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Paldean Wooper",
@@ -1035,6 +1075,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
     "set": "Promo-B",
     "pack": null,
@@ -1057,7 +1098,7 @@
         "effect": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -1069,6 +1110,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Promo-B",
     "pack": null,
@@ -1082,7 +1124,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1094,6 +1136,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -1107,7 +1150,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1119,6 +1162,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -1132,7 +1176,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1144,6 +1188,7 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
     "set": "Promo-B",
     "pack": null,
@@ -1159,7 +1204,7 @@
         "effect": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Fraxure",
@@ -1171,6 +1216,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Promo-B",
     "pack": null,
@@ -1184,7 +1230,7 @@
         "effect": "Draw a card."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1196,6 +1242,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Promo-B",
     "pack": null,
@@ -1208,7 +1255,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1220,6 +1267,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Promo-B",
     "pack": null,
@@ -1234,10 +1282,1053 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Jigglypuff",
+    "rarity": null
+  },
+  {
+    "id": "p-b-049",
+    "name": "Victini",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "V-Flame",
+        "damage": "40",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Victory Star",
+        "effect": "Once during your turn, after you flip any coins for an attack of 1 of your Fire Pokémon, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Victory Star Ability each turn."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-050",
+    "name": "Meloetta",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psyshot",
+        "damage": "50",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Strange Singing",
+        "effect": "At the beginning of your turn, if this Pokémon is in the Active Spot, put a random Psychic Pokémon from your deck into your hand."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-051",
+    "name": "Zygarde",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 80,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "30",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-052",
+    "name": "Zygarde",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 120,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cell Storm",
+        "damage": "60",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "effect": "Heal 20 damage from this Pokémon."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-053",
+    "name": "Zygarde ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 170,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Land Laser",
+        "damage": "100x",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "Flip 2 coins. This attack does 100 damage for each heads."
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-054",
+    "name": "Eevee",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 50,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Stampede",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Boosted Evolution",
+        "effect": "As long as this Pokémon is in the Active Spot, it can evolve during your first turn or the turn you play it."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-055",
+    "name": "Zygarde ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 170,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Land Laser",
+        "damage": "100x",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "Flip 2 coins. This attack does 100 damage for each heads."
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-056",
+    "name": "Mega Heracross ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 180,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dynamic Horn",
+        "damage": "170",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If tails, this Pokémon also does 60 damage to itself."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-057",
+    "name": "Castform Sunny Form",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sunny Scorching",
+        "damage": "30",
+        "cost": [
+          "Fire"
+        ],
+        "effect": "If a Stadium is in play, your opponent's Active Pokémon is now Burned."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-058",
+    "name": "Tepig",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Firebreathing",
+        "damage": "10+",
+        "cost": [
+          "Fire"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-059",
+    "name": "Dwebble",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Stampede",
+        "damage": "10",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Grass",
+    "abilities": [
+      {
+        "name": "Shell Armor",
+        "effect": "This Pokémon takes −10 damage from attacks."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-060",
+    "name": "Zarude",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 90,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dark Vengeance",
+        "damage": "40+",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "effect": "If any of your Darkness Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 80 more damage."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-061",
+    "name": "Treecko",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pound",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-062",
+    "name": "Gallade",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 150,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Earthen Sword",
+        "damage": "70+",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If a Stadium is in play, this attack does 70 more damage."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Kirlia",
+    "rarity": null
+  },
+  {
+    "id": "p-b-063",
+    "name": "Meowscarada ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 160,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flower Trick",
+        "damage": "",
+        "cost": [
+          "Grass"
+        ],
+        "effect": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose."
+      },
+      {
+        "name": "Solar Beam",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Floragato",
+    "rarity": null
+  },
+  {
+    "id": "p-b-064",
+    "name": "Charcadet",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Protect",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-065",
+    "name": "Vaporeon",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 120,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Impound",
+        "damage": "60",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": null
+  },
+  {
+    "id": "p-b-066",
+    "name": "Ceruledge ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 150,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Shimmering Slash",
+        "damage": "80",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Charcadet",
+    "rarity": null
+  },
+  {
+    "id": "p-b-067",
+    "name": "Pawniard",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Call for Family",
+        "damage": "",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "Put 1 random Basic Pokémon from your deck onto your Bench."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-068",
+    "name": "Dudunsparce",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 100,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sudden Drilling",
+        "damage": "60",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If this Pokémon evolved from Dunsparce during this turn, discard 2 random Energy from your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Dunsparce",
+    "rarity": null
+  },
+  {
+    "id": "p-b-069",
+    "name": "Floragato",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 90,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Leaf Step",
+        "damage": "30",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Sprigatito",
+    "rarity": null
+  },
+  {
+    "id": "p-b-070",
+    "name": "Sableye",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Jeweled Gift",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Take a random Energy from among Grass, Fire, Water, Lightning, Psychic, Fighting, Darkness, and Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-071",
+    "name": "Psyduck",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Confusion Wave",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Both Active Pokémon are now Confused."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-072",
+    "name": "Feebas",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 30,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hide",
+        "damage": "",
+        "cost": [
+          "Water"
+        ],
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-073",
+    "name": "Froslass",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 100,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Soul Shot",
+        "damage": "70",
+        "cost": [
+          "Water"
+        ],
+        "effect": "Discard a card from your hand. If you can't, this attack does nothing."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Snorunt",
+    "rarity": null
+  },
+  {
+    "id": "p-b-074",
+    "name": "Raichu",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 110,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Mach Bolt",
+        "damage": "70",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Pikachu",
+    "rarity": null
+  },
+  {
+    "id": "p-b-075",
+    "name": "Quagsire",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 120,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Energy Press",
+        "damage": "40+",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Wooper",
+    "rarity": null
+  },
+  {
+    "id": "p-b-076",
+    "name": "Hisuian Zorua",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Run Around",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-077",
+    "name": "Growlithe",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 80,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Puppy Pile",
+        "damage": "20x",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-078",
+    "name": "Emolga",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Windup Thunder",
+        "damage": "30x",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "This attack does 30 damage for each Pokémon Tool attached to all of your Pokémon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-079",
+    "name": "Celebi",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Smack",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Time Recall",
+        "effect": "Each of your evolved Pokémon can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)"
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-080",
+    "name": "Mega Houndoom ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 190,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Grimhound Flare",
+        "damage": "80x",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "Flip 3 coins. This attack does 80 damage for each heads."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Houndour",
+    "rarity": null
+  },
+  {
+    "id": "p-b-081",
+    "name": "Carvanha",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 50,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Aqua Jet",
+        "damage": "10",
+        "cost": [
+          "Water"
+        ],
+        "effect": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-082",
+    "name": "Pikachu",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Growl",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-083",
+    "name": "Noivern",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 100,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Draco Meteor",
+        "damage": "",
+        "cost": [
+          "Psychic",
+          "Darkness",
+          "Darkness"
+        ],
+        "effect": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 60 damage to it."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Noibat",
+    "rarity": null
+  },
+  {
+    "id": "p-b-084",
+    "name": "Skitty",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Whimsy Tackle",
+        "damage": "40",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-085",
+    "name": "Pachirisu",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Crackling Snap",
+        "damage": "30+",
+        "cost": [
+          "Lightning"
+        ],
+        "effect": "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-086",
+    "name": "Beldum",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": "10",
+        "cost": [
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Conductive Body",
+        "effect": "If you have another Beldum in play, this Pokémon's Retreat Cost is 2 less."
+      }
+    ],
+    "evolvesFrom": null,
     "rarity": null
   }
 ]

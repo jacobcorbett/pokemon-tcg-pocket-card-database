@@ -5,8 +5,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -18,7 +19,7 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -30,8 +31,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -42,7 +44,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -54,8 +56,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -67,7 +70,7 @@
         "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -79,8 +82,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -92,7 +96,7 @@
         "effect": "If your opponent's Active Pokémon is Confused, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -104,8 +108,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -116,7 +121,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -128,8 +133,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -142,7 +148,7 @@
         "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Phantump",
@@ -154,8 +160,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -167,7 +174,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -179,8 +186,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -192,7 +200,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [
       {
@@ -209,8 +217,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 220,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -224,7 +233,7 @@
         "effect": "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
@@ -236,8 +245,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -249,7 +259,7 @@
         "effect": "Your opponent's Active Pokémon is now Burned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -261,8 +271,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -274,7 +285,7 @@
         "effect": "During your next turn, this Pokémon's Overdrive Smash attack does +30 damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Ponyta",
@@ -286,8 +297,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -299,7 +311,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -311,8 +323,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -326,7 +339,7 @@
         "effect": "If Electivire is on your Bench, this attack also does 20 damage to each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Magmar",
@@ -338,8 +351,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -352,7 +366,7 @@
         "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -364,8 +378,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -377,7 +392,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -389,8 +404,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 200,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -404,7 +420,7 @@
         "effect": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Slowpoke",
@@ -416,8 +432,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -431,7 +448,7 @@
         "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -443,8 +460,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -455,7 +473,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -467,8 +485,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -481,7 +500,7 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Piplup",
@@ -493,8 +512,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -508,7 +528,7 @@
         "effect": "If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Prinplup",
@@ -520,8 +540,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -533,7 +554,7 @@
         "effect": "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Water Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -545,8 +566,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -557,7 +579,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -569,8 +591,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -583,7 +606,7 @@
         "effect": "This Pokémon also does 30 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Pikachu",
@@ -595,8 +618,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -607,7 +631,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -619,8 +643,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -633,7 +658,7 @@
         "effect": "If Magmortar is on your Bench, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Electabuzz",
@@ -645,8 +670,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -658,7 +684,7 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -670,8 +696,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 180,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -684,7 +711,7 @@
         "effect": "This attack does 30 more damage for each point you have gotten."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Electrike",
@@ -696,8 +723,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -709,7 +737,7 @@
         "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -721,8 +749,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -736,7 +765,7 @@
         "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Drowzee",
@@ -748,8 +777,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -762,7 +792,7 @@
         "effect": "1 attack from among the Pokémon in your opponent's hand and deck is chosen at random, and you use the chosen attack as this attack."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -774,8 +804,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -786,7 +817,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -798,8 +829,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -811,7 +843,7 @@
         "effect": "If your opponent has exactly 2, 4, or 6 cards in their hand, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Spoink",
@@ -823,8 +855,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -836,7 +869,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -848,8 +881,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -861,7 +895,7 @@
         ]
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Diglett",
@@ -873,8 +907,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -889,7 +924,7 @@
         "effect": "Discard 2 random Energy from among the Energy attached to all of your Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -901,8 +936,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -915,7 +951,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -927,8 +963,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -939,7 +976,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -951,8 +988,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -965,7 +1003,7 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Gastly",
@@ -977,8 +1015,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 210,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -993,7 +1032,7 @@
         "effect": "During your opponent's next turn, they can't play any Trainer cards from their hand."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Haunter",
@@ -1005,8 +1044,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1020,7 +1060,7 @@
         "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [
       {
@@ -1037,8 +1077,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1050,7 +1091,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1062,8 +1103,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1075,7 +1117,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Trubbish",
@@ -1087,8 +1129,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1100,7 +1143,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -1112,8 +1155,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1125,7 +1169,7 @@
         "effect": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Zorua",
@@ -1137,8 +1181,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1151,7 +1196,7 @@
         "effect": "Move 2 Darkness Energy from this Pokémon to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -1163,8 +1208,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1178,7 +1224,7 @@
         "effect": "This Pokémon also does 100 damage to itself and 50 damage to all Benched Pokémon (both yours and your opponent's)."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Pineco",
@@ -1190,8 +1236,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 200,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1205,7 +1252,7 @@
         "effect": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Scyther",
@@ -1217,8 +1264,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1229,7 +1277,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1241,8 +1289,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1254,7 +1303,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1266,8 +1315,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1279,7 +1329,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [
       {
@@ -1296,8 +1346,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1309,7 +1360,7 @@
         "effect": "Flip a coin. If heads, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -1321,8 +1372,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1334,7 +1386,7 @@
         "effect": "Take a Water and a Lightning Energy from your Energy Zone and attach them to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dratini",
@@ -1346,8 +1398,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1361,7 +1414,7 @@
         "effect": "Discard a Water and a Lightning Energy from this Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dragonair",
@@ -1373,8 +1426,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1386,7 +1440,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -1398,8 +1452,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1411,7 +1466,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Axew",
@@ -1423,8 +1478,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1438,7 +1494,7 @@
         "effect": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Fraxure",
@@ -1450,8 +1506,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1464,7 +1521,7 @@
         "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -1476,8 +1533,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1489,7 +1547,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1501,8 +1559,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1515,7 +1574,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Jigglypuff",
@@ -1527,8 +1586,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1541,7 +1601,7 @@
         "effect": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1553,8 +1613,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1566,7 +1627,7 @@
         "effect": "Draw a card."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1578,8 +1639,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1591,7 +1653,7 @@
         "effect": "Flip a coin. If heads, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1603,8 +1665,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1616,7 +1679,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Minccino",
@@ -1628,8 +1691,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1642,7 +1706,7 @@
         "effect": "Flip a coin. If heads, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -1659,8 +1723,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Your opponent discards cards from their hand until they have 4 cards in their hand.",
     "health": null,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -1675,8 +1740,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Shuffle 2 cards from your hand into your deck. Draw a card. If you can't shuffle in 2 cards, you can't use this card.",
     "health": null,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -1691,8 +1757,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, if your opponent's Active Pokémon is Knocked Out by damage from an attack used by your Haxorus, you get 1 more point.",
     "health": null,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -1707,8 +1774,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Draw a card for each Mega Evolution Pokémon ex in play (both yours and your opponent's).",
     "health": null,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -1723,8 +1791,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Stadium",
+    "effect": "At the end of each player's turn, that player draws cards until they have 3 cards in their hand.",
     "health": null,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -1739,8 +1808,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1754,7 +1824,7 @@
         "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1766,8 +1836,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1781,7 +1852,7 @@
         "effect": "If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Prinplup",
@@ -1793,8 +1864,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1809,7 +1881,7 @@
         "effect": "Discard 2 random Energy from among the Energy attached to all of your Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -1821,8 +1893,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1835,7 +1908,7 @@
         "effect": "Move 2 Darkness Energy from this Pokémon to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -1847,8 +1920,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1860,7 +1934,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [
       {
@@ -1877,8 +1951,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1891,7 +1966,7 @@
         "effect": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1903,8 +1978,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 220,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1918,7 +1994,7 @@
         "effect": "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
@@ -1930,8 +2006,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 200,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1945,7 +2022,7 @@
         "effect": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Slowpoke",
@@ -1957,8 +2034,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 180,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1971,7 +2049,7 @@
         "effect": "This attack does 30 more damage for each point you have gotten."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Electrike",
@@ -1983,8 +2061,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 210,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -1999,7 +2078,7 @@
         "effect": "During your opponent's next turn, they can't play any Trainer cards from their hand."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Haunter",
@@ -2011,8 +2090,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 200,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2026,7 +2106,7 @@
         "effect": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Scyther",
@@ -2038,8 +2118,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, if your opponent's Active Pokémon is Knocked Out by damage from an attack used by your Haxorus, you get 1 more point.",
     "health": null,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2054,8 +2135,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Draw a card for each Mega Evolution Pokémon ex in play (both yours and your opponent's).",
     "health": null,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2070,8 +2152,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 200,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2085,7 +2168,7 @@
         "effect": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Slowpoke",
@@ -2097,8 +2180,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 180,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2111,7 +2195,7 @@
         "effect": "This attack does 30 more damage for each point you have gotten."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Electrike",
@@ -2123,8 +2207,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2137,7 +2222,7 @@
         "effect": "1 attack from among the Pokémon in your opponent's hand and deck is chosen at random, and you use the chosen attack as this attack."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2149,8 +2234,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2163,7 +2249,7 @@
         "effect": "1 attack from among the Pokémon in your opponent's hand and deck is chosen at random, and you use the chosen attack as this attack."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2175,8 +2261,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2188,11 +2275,11 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-088",
@@ -2200,8 +2287,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2212,11 +2300,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-089",
@@ -2224,8 +2312,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2236,11 +2325,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-090",
@@ -2248,8 +2337,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2262,11 +2352,11 @@
         "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Phantump",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-091",
@@ -2274,8 +2364,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2287,11 +2378,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-092",
@@ -2299,8 +2390,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2312,7 +2404,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [
       {
@@ -2321,7 +2413,7 @@
       }
     ],
     "evolvesFrom": "Charmander",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-093",
@@ -2329,8 +2421,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2342,11 +2435,11 @@
         "effect": "Your opponent's Active Pokémon is now Burned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-094",
@@ -2354,8 +2447,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2367,11 +2461,11 @@
         "effect": "During your next turn, this Pokémon's Overdrive Smash attack does +30 damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Ponyta",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-095",
@@ -2379,8 +2473,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2392,11 +2487,11 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-096",
@@ -2404,8 +2499,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2416,11 +2512,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-097",
@@ -2428,8 +2524,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2442,11 +2539,11 @@
         "effect": "This Pokémon also does 30 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Pikachu",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-098",
@@ -2454,8 +2551,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2467,11 +2565,11 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-099",
@@ -2479,8 +2577,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2493,11 +2592,11 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-100",
@@ -2505,8 +2604,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2517,11 +2617,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-101",
@@ -2529,8 +2629,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2543,11 +2644,11 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Gastly",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-102",
@@ -2555,8 +2656,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2568,11 +2670,11 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-103",
@@ -2580,8 +2682,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2593,11 +2696,11 @@
         "effect": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Zorua",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-104",
@@ -2605,8 +2708,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2620,11 +2724,11 @@
         "effect": "This Pokémon also does 100 damage to itself and 50 damage to all Benched Pokémon (both yours and your opponent's)."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Pineco",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-105",
@@ -2632,8 +2736,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2645,11 +2750,11 @@
         "effect": "Flip a coin. If heads, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-106",
@@ -2657,8 +2762,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2670,11 +2776,11 @@
         "effect": "Take a Water and a Lightning Energy from your Energy Zone and attach them to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dratini",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-107",
@@ -2682,8 +2788,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2697,11 +2804,11 @@
         "effect": "Discard a Water and a Lightning Energy from this Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dragonair",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-108",
@@ -2709,8 +2816,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2722,11 +2830,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-109",
@@ -2734,8 +2842,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2747,11 +2856,11 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Axew",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-110",
@@ -2759,8 +2868,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2774,11 +2884,11 @@
         "effect": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Fraxure",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b2b-111",
@@ -2786,8 +2896,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 220,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2801,11 +2912,11 @@
         "effect": "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b2b-112",
@@ -2813,8 +2924,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 200,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2828,11 +2940,11 @@
         "effect": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Slowpoke",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b2b-113",
@@ -2840,8 +2952,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 180,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2854,11 +2967,11 @@
         "effect": "This attack does 30 more damage for each point you have gotten."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Electrike",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b2b-114",
@@ -2866,8 +2979,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 210,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2882,11 +2996,11 @@
         "effect": "During your opponent's next turn, they can't play any Trainer cards from their hand."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Haunter",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b2b-115",
@@ -2894,8 +3008,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 200,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2909,11 +3024,11 @@
         "effect": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Scyther",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b2b-116",
@@ -2921,8 +3036,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [
       {
@@ -2934,7 +3050,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [
       {
@@ -2951,8 +3067,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "If this card is attached to 1 of your Pokémon, discard it at the end of your opponent's turn. The Metal Pokémon this card is attached to takes −50 damage from attacks from your opponent's Pokémon.",
     "health": null,
-    "set": "Mega Shine  (B2b)",
+    "set": "Mega Shine (B2b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,

@@ -5,8 +5,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -20,7 +21,7 @@
         "effect": "Flip a coin. If heads, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -32,8 +33,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 170,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -47,7 +49,7 @@
         "effect": "Flip a coin. If heads, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -59,8 +61,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -71,7 +74,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -83,8 +86,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -96,7 +100,7 @@
         "effect": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Wurmple",
@@ -108,8 +112,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -121,7 +126,7 @@
         "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Silcoon",
@@ -133,8 +138,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -146,7 +152,7 @@
         "effect": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Wurmple",
@@ -158,8 +164,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -171,7 +178,7 @@
         "effect": "Choose either Poisoned or Confused. Your opponent's Active Pokémon is now affected by that Special Condition."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Cascoon",
@@ -183,8 +190,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -195,7 +203,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -207,8 +215,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -220,7 +229,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Seedot",
@@ -232,8 +241,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -246,7 +256,7 @@
         "effect": "Discard a random card from your opponent's hand."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Nuzleaf",
@@ -258,8 +268,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -270,7 +281,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -282,8 +293,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -294,7 +306,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Shroomish",
@@ -306,8 +318,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -318,7 +331,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -330,8 +343,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -344,7 +358,7 @@
         "effect": "Flip 3 coins. This attack does 40 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Pansage",
@@ -356,8 +370,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -368,7 +383,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -380,8 +395,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -394,7 +410,7 @@
         "effect": "This attack does 30 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Cottonee",
@@ -406,8 +422,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -418,7 +435,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -430,8 +447,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -443,7 +461,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -460,8 +478,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -474,7 +493,7 @@
         "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -486,8 +505,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -501,7 +521,7 @@
         "effect": "During your next turn, this Pokémon can't use Sacred Sword."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -513,8 +533,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -526,7 +547,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -538,8 +559,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -553,7 +575,7 @@
         "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Skiddo",
@@ -565,8 +587,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -578,7 +601,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -590,8 +613,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -604,7 +628,7 @@
         "effect": "Heal 20 damage from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Phantump",
@@ -616,8 +640,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -628,7 +653,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -640,8 +665,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -653,7 +679,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Grookey",
@@ -665,8 +691,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -680,7 +707,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [
       {
@@ -697,8 +724,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -709,7 +737,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -721,8 +749,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -735,7 +764,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Growlithe",
@@ -747,8 +776,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -760,7 +790,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -772,8 +802,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -787,7 +818,7 @@
         "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Ponyta",
@@ -799,8 +830,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -815,7 +847,7 @@
         "effect": "Heal 30 damage from each of your Benched Basic Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -827,8 +859,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -839,7 +872,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -851,8 +884,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -864,7 +898,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Torchic",
@@ -876,8 +910,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -890,7 +925,7 @@
         "effect": "Discard a Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Combusken",
@@ -902,8 +937,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 210,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -916,7 +952,7 @@
         "effect": "Discard a Fire Energy from this Pokémon. Your opponent's Active Pokémon is now Burned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Combusken",
@@ -928,8 +964,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -940,7 +977,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -952,8 +989,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -966,7 +1004,7 @@
         "effect": "Flip 3 coins. This attack does 40 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Pansear",
@@ -978,8 +1016,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -992,7 +1031,7 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -1004,8 +1043,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1020,7 +1060,7 @@
         "effect": "Flip 2 coins. This attack does 30 more damage for each heads."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Darumaka",
@@ -1032,8 +1072,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -1044,7 +1085,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -1056,8 +1097,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -1069,7 +1111,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Litwick",
@@ -1081,8 +1123,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -1094,7 +1137,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [
       {
@@ -1111,8 +1154,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -1124,7 +1168,7 @@
         "effect": "This attack does 30 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -1136,8 +1180,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -1148,7 +1193,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -1160,8 +1205,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -1175,7 +1221,7 @@
         "effect": "Discard 2 Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Litleo",
@@ -1187,8 +1233,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1201,7 +1248,7 @@
         "effect": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 20 damage to the Attacking Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -1213,8 +1260,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -1225,7 +1273,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1237,8 +1285,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -1249,7 +1298,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Psyduck",
@@ -1261,8 +1310,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1276,7 +1326,7 @@
         "effect": "Put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1288,8 +1338,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1304,7 +1355,7 @@
         "effect": "Discard the top card of your opponent's deck."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Magikarp",
@@ -1316,8 +1367,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 210,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1332,7 +1384,7 @@
         "effect": "Discard the top 3 cards of your opponent's deck."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Magikarp",
@@ -1344,8 +1396,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -1356,7 +1409,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1368,8 +1421,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -1381,7 +1435,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Lotad",
@@ -1393,8 +1447,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -1407,7 +1462,7 @@
         "effect": "If you have exactly 1, 3, or 5 cards in your hand, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Lombre",
@@ -1419,8 +1474,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1433,7 +1489,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1445,8 +1501,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 200,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1461,7 +1518,7 @@
         "effect": "This attack does 10 more damage for each Water Energy attached to this Pokémon."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wailmer",
@@ -1473,8 +1530,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -1485,7 +1543,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1497,8 +1555,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -1511,7 +1570,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Corphish",
@@ -1523,8 +1582,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -1537,7 +1597,7 @@
         "effect": "If you have exactly 2, 4, or 6 cards in your hand, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1549,8 +1609,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -1561,7 +1622,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1573,8 +1634,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -1587,7 +1649,7 @@
         "effect": "Flip 3 coins. This attack does 40 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Panpour",
@@ -1599,8 +1661,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -1612,7 +1675,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1624,8 +1687,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -1638,7 +1702,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Tympole",
@@ -1650,8 +1714,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -1665,7 +1730,7 @@
         "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Palpitoad",
@@ -1677,8 +1742,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1690,7 +1756,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Cover Fossil",
@@ -1702,8 +1768,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1717,7 +1784,7 @@
         "effect": "Prevent all damage done to this Pokémon by attacks from Basic Pokémon during your opponent's next turn."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Tirtouga",
@@ -1729,8 +1796,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1741,7 +1809,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1753,8 +1821,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1766,7 +1835,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -1783,8 +1852,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -1798,7 +1868,7 @@
         "effect": "During your next turn, this Pokémon can't use Sacred Sword."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1810,8 +1880,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1822,7 +1893,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1834,8 +1905,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1848,7 +1920,7 @@
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Froakie",
@@ -1860,8 +1932,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1873,7 +1946,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -1890,8 +1963,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1903,7 +1977,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -1915,8 +1989,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1930,7 +2005,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Bergmite",
@@ -1942,8 +2017,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1955,7 +2031,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1967,8 +2043,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -1982,7 +2059,7 @@
         "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Chewtle",
@@ -1994,8 +2071,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -2006,7 +2084,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -2018,8 +2096,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -2032,7 +2111,7 @@
         "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Arrokuda",
@@ -2044,8 +2123,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -2057,7 +2137,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [
       {
@@ -2074,8 +2154,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -2087,7 +2168,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -2104,8 +2185,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -2116,7 +2198,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2128,8 +2210,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -2141,7 +2224,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Mareep",
@@ -2153,8 +2236,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -2168,7 +2252,7 @@
         "effect": "1 of your opponent's Benched Pokémon is chosen at random. This attack also does 20 damage to it."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Flaaffy",
@@ -2180,8 +2264,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 210,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -2195,7 +2280,7 @@
         "effect": "1 of your opponent's Benched Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, also do 20 damage to it."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Flaaffy",
@@ -2207,8 +2292,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -2219,7 +2305,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2231,8 +2317,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -2243,7 +2330,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Shinx",
@@ -2255,8 +2342,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -2269,7 +2357,7 @@
         "effect": "This attack also does 20 damage to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Luxio",
@@ -2281,8 +2369,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -2295,7 +2384,7 @@
         "effect": "If your opponent's Active Pokémon has damage on it, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2307,8 +2396,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -2319,7 +2409,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2331,8 +2421,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -2345,7 +2436,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Blitzle",
@@ -2357,8 +2448,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -2369,7 +2461,7 @@
         ]
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2381,8 +2473,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -2393,7 +2486,7 @@
         ]
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Joltik",
@@ -2405,8 +2498,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -2418,7 +2512,7 @@
         "effect": "Discard a Lightning Energy from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2430,8 +2524,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -2443,7 +2538,7 @@
         "effect": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -2455,8 +2550,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -2468,7 +2564,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Yamper",
@@ -2480,8 +2576,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -2492,7 +2589,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2504,8 +2601,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -2518,7 +2616,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Natu",
@@ -2530,8 +2628,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -2543,7 +2642,7 @@
         "effect": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2555,8 +2654,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -2568,7 +2668,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Misdreavus",
@@ -2580,8 +2680,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -2594,7 +2695,7 @@
         "effect": "Discard a card from your hand. If you can't, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2606,8 +2707,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 190,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -2620,7 +2722,7 @@
         "effect": "This attack does 30 more damage for each of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Swablu",
@@ -2632,8 +2734,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -2645,7 +2748,7 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2657,8 +2760,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -2669,7 +2773,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Duskull",
@@ -2681,8 +2785,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -2694,7 +2799,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -2711,8 +2816,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -2724,7 +2830,7 @@
         "effect": "This attack does 30 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2736,8 +2842,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -2749,7 +2856,7 @@
         "effect": "This attack does 20 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2761,8 +2868,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -2775,7 +2883,7 @@
         "effect": "This attack does 20 more damage for each Energy attached to this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Drifloon",
@@ -2787,20 +2895,19 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
         "name": "Jingly Noise",
         "damage": "10",
-        "cost": [
-          null
-        ],
+        "cost": [],
         "effect": "During your opponent's next turn, they can't play any Item cards from their hand."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -2812,8 +2919,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -2824,7 +2932,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2836,8 +2944,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -2850,7 +2959,7 @@
         "effect": "Discard 2 cards from your hand. If you can't discard 2 cards, this attack does nothing."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Yamask",
@@ -2862,8 +2971,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -2874,7 +2984,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -2886,8 +2996,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -2898,7 +3009,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Gothita",
@@ -2910,8 +3021,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -2924,7 +3036,7 @@
         "effect": "During your opponent's next turn, if they attach Energy from their Energy Zone to the Defending Pokémon, that Pokémon will be Asleep."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Gothorita",
@@ -2936,8 +3048,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -2948,7 +3061,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -2960,8 +3073,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -2973,7 +3087,7 @@
         "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Spritzee",
@@ -2985,8 +3099,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -2998,7 +3113,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -3010,8 +3125,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -3024,7 +3140,7 @@
         "effect": "Heal 30 damage from this Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Swirlix",
@@ -3036,8 +3152,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -3049,7 +3166,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes −30 damage from attacks."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -3061,8 +3178,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3073,7 +3191,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [
       {
@@ -3090,8 +3208,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -3104,7 +3223,7 @@
         "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -3121,8 +3240,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -3133,7 +3253,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -3145,8 +3265,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -3157,7 +3278,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Sandshrew",
@@ -3169,8 +3290,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -3182,7 +3304,7 @@
         "effect": "This attack's damage isn't affected by Weakness."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -3194,8 +3316,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -3208,7 +3331,7 @@
         "effect": "If this Pokémon has damage on it, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -3220,8 +3343,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -3234,7 +3358,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -3246,8 +3370,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -3262,7 +3387,7 @@
         "effect": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Makuhita",
@@ -3274,8 +3399,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3287,7 +3413,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -3299,8 +3425,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3314,7 +3441,7 @@
         "effect": "Flip a coin. If tails, during your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Hippopotas",
@@ -3326,8 +3453,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3338,7 +3466,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -3350,8 +3478,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3363,7 +3492,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Sandile",
@@ -3375,8 +3504,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3390,7 +3520,7 @@
         "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Krokorok",
@@ -3402,8 +3532,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -3414,7 +3545,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Plume Fossil",
@@ -3426,8 +3557,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -3439,7 +3571,7 @@
         "effect": "This attack does 20 damage to each of your opponent's Pokémon. During your next turn, this Pokémon's Wild Spin attack does +20 damage to each of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Archen",
@@ -3451,8 +3583,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -3463,7 +3596,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -3475,8 +3608,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -3489,7 +3623,7 @@
         "effect": "Reveal the top 3 cards of your deck. This attack does 60 damage for each Pokémon with a Retreat Cost of 3 or more you find there. Shuffle the revealed cards back into your deck."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Golett",
@@ -3501,8 +3635,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3516,7 +3651,7 @@
         "effect": "During your next turn, this Pokémon can't use Sacred Sword."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -3528,8 +3663,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3540,7 +3676,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -3552,8 +3688,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -3564,7 +3701,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -3576,8 +3713,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -3589,7 +3727,7 @@
         "effect": "If this Pokémon's remaining HP is 30 or less, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Crabrawler",
@@ -3601,8 +3739,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -3614,7 +3753,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -3626,8 +3765,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -3640,7 +3780,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Stufful",
@@ -3652,8 +3792,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -3666,7 +3807,7 @@
         "effect": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -3678,8 +3819,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -3693,7 +3835,7 @@
         "effect": "Heal 20 damage from this Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Sandygast",
@@ -3705,8 +3847,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3717,7 +3860,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -3729,8 +3872,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3742,7 +3886,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Rolycoly",
@@ -3754,8 +3898,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3769,7 +3914,7 @@
         "effect": "If your opponent's Active Pokémon is a Grass Pokémon, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Carkol",
@@ -3781,8 +3926,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3794,7 +3940,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -3806,8 +3952,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3820,7 +3967,7 @@
         "effect": "This attack does 40 more damage for each of your opponent's Pokémon in play that has an Ability."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Murkrow",
@@ -3832,8 +3979,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3846,7 +3994,7 @@
         "effect": "Flip a coin. If heads, your opponent reveals their hand. Choose a Supporter card you find there and discard it."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -3858,8 +4006,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 170,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3872,7 +4021,7 @@
         "effect": "Your opponent reveals their hand. Choose a Supporter card you find there and discard it."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -3884,8 +4033,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3896,7 +4046,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -3908,8 +4058,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3923,7 +4074,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned and Paralyzed."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Skorupi",
@@ -3935,8 +4086,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -3950,7 +4102,7 @@
         "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -3962,8 +4114,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3974,7 +4127,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -3986,8 +4139,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -3999,7 +4153,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Deino",
@@ -4011,8 +4165,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -4026,7 +4181,7 @@
         "effect": "Discard all Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [
       {
@@ -4043,8 +4198,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -4056,7 +4212,7 @@
         "effect": "During your next turn, this Pokémon's Overdrive Smash attack does +30 damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Pancham",
@@ -4068,8 +4224,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -4081,7 +4238,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4093,8 +4250,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -4106,7 +4264,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -4123,8 +4281,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -4136,7 +4295,7 @@
         "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4148,8 +4307,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -4162,7 +4322,7 @@
         "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Mareanie",
@@ -4174,8 +4334,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -4186,7 +4347,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -4198,8 +4359,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -4212,7 +4374,7 @@
         "effect": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Impidimp",
@@ -4224,8 +4386,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -4238,7 +4401,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Morgrem",
@@ -4250,8 +4413,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -4262,7 +4426,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -4274,8 +4438,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -4288,7 +4453,7 @@
         "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Ferroseed",
@@ -4300,8 +4465,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -4314,7 +4480,7 @@
         "effect": "If Durant is on your Bench, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -4326,8 +4492,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -4341,7 +4508,7 @@
         "effect": "During your next turn, this Pokémon can't use Sacred Sword."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -4353,8 +4520,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -4365,7 +4533,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -4377,8 +4545,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -4390,7 +4559,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Honedge",
@@ -4402,8 +4571,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -4416,7 +4586,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [
       {
@@ -4433,8 +4603,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -4445,7 +4616,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -4457,8 +4628,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 170,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -4482,7 +4654,7 @@
         "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Meltan",
@@ -4494,8 +4666,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -4509,7 +4682,7 @@
         "effect": "Discard 2 Metal Energy from this Pokémon. During your opponent's next turn, this Pokémon takes −50 damage from attacks."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Corvisquire",
@@ -4521,8 +4694,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -4537,7 +4711,7 @@
         "effect": "Flip 2 coins. If both of them are tails, this attack does nothing."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -4549,8 +4723,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 40,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -4562,7 +4737,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [
       {
@@ -4579,8 +4754,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -4592,7 +4768,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Goomy",
@@ -4604,8 +4780,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -4619,7 +4796,7 @@
         "effect": "Heal 40 damage from this Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Sliggoo",
@@ -4631,8 +4808,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -4644,7 +4822,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -4656,8 +4834,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -4669,7 +4848,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Pidgey",
@@ -4681,8 +4860,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -4695,7 +4875,7 @@
         "effect": "Flip 2 coins. For each heads, discard a random Energy from your opponent's Active Pokémon. If both of them are tails, this attack does nothing."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Pidgeotto",
@@ -4707,8 +4887,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -4721,7 +4902,7 @@
         "effect": "Flip a coin. If tails, this Pokémon also does 30 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4733,8 +4914,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -4745,7 +4927,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -4762,8 +4944,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -4775,7 +4958,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4787,8 +4970,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -4800,7 +4984,7 @@
         "effect": "Flip 2 coins. This attack does 30 damage for each heads. If this Pokémon has Lucky Mittens attached, flip 4 coins instead."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Aipom",
@@ -4812,8 +4996,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -4826,7 +5011,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4838,8 +5023,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -4850,7 +5036,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4862,8 +5048,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -4874,7 +5061,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Zigzagoon",
@@ -4886,8 +5073,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -4898,7 +5086,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4910,8 +5098,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -4923,7 +5112,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Whismur",
@@ -4935,8 +5124,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -4950,7 +5140,7 @@
         "effect": "During your opponent's next turn, they can't play any Item cards from their hand."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Loudred",
@@ -4962,8 +5152,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -4975,7 +5166,7 @@
         "effect": "Flip a coin. If heads, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -4987,8 +5178,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -5000,7 +5192,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -5017,8 +5209,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -5030,7 +5223,7 @@
         "effect": "Both Active Pokémon are now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -5042,8 +5235,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -5055,7 +5249,7 @@
         "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -5067,8 +5261,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -5081,7 +5276,7 @@
         "effect": "This attack does 20 more damage for each of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Swablu",
@@ -5093,8 +5288,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -5107,7 +5303,7 @@
         "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -5119,8 +5315,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -5131,7 +5328,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -5143,8 +5340,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -5157,7 +5355,7 @@
         "effect": "Flip a coin. If heads, this attack does 40 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Patrat",
@@ -5169,8 +5367,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -5182,7 +5381,7 @@
         "effect": "Draw a card."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -5194,8 +5393,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -5207,7 +5407,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Lillipup",
@@ -5219,8 +5419,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -5234,7 +5435,7 @@
         "effect": "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Herdier",
@@ -5246,8 +5447,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -5259,7 +5461,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -5271,8 +5473,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -5285,7 +5488,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Rufflet",
@@ -5297,8 +5500,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -5310,7 +5514,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -5327,8 +5531,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -5340,7 +5545,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -5357,8 +5562,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -5370,7 +5576,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -5387,8 +5593,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -5399,7 +5606,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -5411,8 +5618,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -5424,7 +5632,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Rookidee",
@@ -5436,8 +5644,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -5450,7 +5659,7 @@
         "effect": "Flip a coin until you get tails. This attack does 40 damage for each heads."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -5462,8 +5671,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -5477,7 +5687,7 @@
         "effect": "During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Wooloo",
@@ -5489,8 +5699,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "A card from among both player's hands is chosen at random, revealed to the other player, and shuffled into its owner's deck.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [],
     "retreatCost": null,
@@ -5505,8 +5716,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Play this card as if it were a 40-HP Basic Colorless Pokémon. At any time during your turn, you may discard this card from play. This card can't retreat.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [],
     "retreatCost": null,
@@ -5521,8 +5733,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Flip 2 coins. If both of them are heads, discard a random Energy from your opponent's Active Pokémon.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [],
     "retreatCost": null,
@@ -5537,8 +5750,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Play this card as if it were a 40-HP Basic Colorless Pokémon. At any time during your turn, you may discard this card from play. This card can't retreat.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [],
     "retreatCost": null,
@@ -5553,8 +5767,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Attach a Fire Energy from your discard pile to your Active Fire Pokémon.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [],
     "retreatCost": null,
@@ -5569,8 +5784,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "At the end of each turn, if the Pokémon this card is attached to has half of its maximum HP or less remaining, heal 30 damage from it. If you do, discard this card.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [],
     "retreatCost": null,
@@ -5585,8 +5801,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "If the Pokémon this card is attached to has a Retreat Cost of 3 or more, it takes −20 damage from attacks from your opponent's Pokémon.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [],
     "retreatCost": null,
@@ -5601,8 +5818,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "Whenever your opponent's Pokémon is Knocked Out by damage from an attack used by the Pokémon this card is attached to, draw a card.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [],
     "retreatCost": null,
@@ -5617,8 +5835,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Heal 70 damage from 1 of your Carracosta or Jellicent.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [],
     "retreatCost": null,
@@ -5633,8 +5852,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During your opponent's next turn, if your Hariyama or Crabominable would be Knocked Out by damage from an attack, it is not Knocked Out and its remaining HP becomes 10.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [],
     "retreatCost": null,
@@ -5649,8 +5869,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Put 2 random Pokémon from your deck into your hand. For each Pokémon you put into your hand in this way, choose a Pokémon to shuffle from your hand into your deck.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [],
     "retreatCost": null,
@@ -5665,8 +5886,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Take a Psychic Energy from your Energy Zone and attach it to each of your Drifblim and Mismagius.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [],
     "retreatCost": null,
@@ -5681,8 +5903,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [],
     "retreatCost": null,
@@ -5697,8 +5920,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Put 2 random Basic Pokémon with 50 HP or less from your deck into your hand.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [],
     "retreatCost": null,
@@ -5713,8 +5937,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -5726,7 +5951,7 @@
         "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Silcoon",
@@ -5738,8 +5963,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -5751,7 +5977,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -5763,8 +5989,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -5778,7 +6005,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [
       {
@@ -5795,8 +6022,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -5807,7 +6035,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -5819,8 +6047,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -5832,7 +6061,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [
       {
@@ -5849,8 +6078,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 30,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -5864,7 +6094,7 @@
         "effect": "Put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -5876,8 +6106,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -5890,7 +6121,7 @@
         "effect": "If you have exactly 1, 3, or 5 cards in your hand, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Lombre",
@@ -5902,8 +6133,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -5915,7 +6147,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -5932,8 +6164,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -5947,7 +6180,7 @@
         "effect": "During your next turn, this Pokémon can't use Sacred Sword."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -5959,8 +6192,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -5972,7 +6206,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [
       {
@@ -5989,8 +6223,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -6003,7 +6238,7 @@
         "effect": "This attack also does 20 damage to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Luxio",
@@ -6015,8 +6250,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -6029,7 +6265,7 @@
         "effect": "Discard 2 cards from your hand. If you can't discard 2 cards, this attack does nothing."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Yamask",
@@ -6041,8 +6277,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -6053,7 +6290,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -6065,8 +6302,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -6079,7 +6317,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -6091,8 +6329,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -6106,7 +6345,7 @@
         "effect": "Flip a coin. If tails, during your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Hippopotas",
@@ -6118,8 +6357,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -6131,7 +6371,7 @@
         "effect": "This attack does 20 damage to each of your opponent's Pokémon. During your next turn, this Pokémon's Wild Spin attack does +20 damage to each of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Archen",
@@ -6143,8 +6383,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -6155,7 +6396,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -6167,8 +6408,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -6181,7 +6423,7 @@
         "effect": "This attack does 40 more damage for each of your opponent's Pokémon in play that has an Ability."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Murkrow",
@@ -6193,8 +6435,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -6208,7 +6451,7 @@
         "effect": "Discard all Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [
       {
@@ -6225,8 +6468,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -6240,7 +6484,7 @@
         "effect": "Discard 2 Metal Energy from this Pokémon. During your opponent's next turn, this Pokémon takes −50 damage from attacks."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Corvisquire",
@@ -6252,8 +6496,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 40,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -6265,7 +6510,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [
       {
@@ -6282,8 +6527,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -6295,7 +6541,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -6312,8 +6558,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -6327,7 +6574,7 @@
         "effect": "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Herdier",
@@ -6339,8 +6586,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -6352,7 +6600,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -6364,8 +6612,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 170,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -6379,7 +6628,7 @@
         "effect": "Flip a coin. If heads, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -6391,8 +6640,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -6405,7 +6655,7 @@
         "effect": "This attack does 30 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Cottonee",
@@ -6417,8 +6667,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -6432,7 +6683,7 @@
         "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Ponyta",
@@ -6444,8 +6695,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 210,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -6458,7 +6710,7 @@
         "effect": "Discard a Fire Energy from this Pokémon. Your opponent's Active Pokémon is now Burned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Combusken",
@@ -6470,8 +6722,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 210,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -6486,7 +6739,7 @@
         "effect": "Discard the top 3 cards of your opponent's deck."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Magikarp",
@@ -6498,8 +6751,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -6511,7 +6765,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -6528,8 +6782,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -6541,7 +6796,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -6558,8 +6813,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 210,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -6573,7 +6829,7 @@
         "effect": "1 of your opponent's Benched Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, also do 20 damage to it."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Flaaffy",
@@ -6585,8 +6841,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 190,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -6599,7 +6856,7 @@
         "effect": "This attack does 30 more damage for each of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Swablu",
@@ -6611,8 +6868,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -6625,7 +6883,7 @@
         "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -6642,8 +6900,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -6655,7 +6914,7 @@
         "effect": "This attack's damage isn't affected by Weakness."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -6667,8 +6926,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 170,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -6681,7 +6941,7 @@
         "effect": "Your opponent reveals their hand. Choose a Supporter card you find there and discard it."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -6693,8 +6953,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -6706,7 +6967,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -6723,8 +6984,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 170,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -6748,7 +7010,7 @@
         "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Meltan",
@@ -6760,8 +7022,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -6774,7 +7037,7 @@
         "effect": "Flip a coin. If tails, this Pokémon also does 30 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -6786,8 +7049,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Heal 70 damage from 1 of your Carracosta or Jellicent.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [],
     "retreatCost": null,
@@ -6802,8 +7066,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During your opponent's next turn, if your Hariyama or Crabominable would be Knocked Out by damage from an attack, it is not Knocked Out and its remaining HP becomes 10.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [],
     "retreatCost": null,
@@ -6818,8 +7083,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Put 2 random Pokémon from your deck into your hand. For each Pokémon you put into your hand in this way, choose a Pokémon to shuffle from your hand into your deck.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [],
     "retreatCost": null,
@@ -6834,8 +7100,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Take a Psychic Energy from your Energy Zone and attach it to each of your Drifblim and Mismagius.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [],
     "retreatCost": null,
@@ -6850,8 +7117,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [],
     "retreatCost": null,
@@ -6866,8 +7134,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Put 2 random Basic Pokémon with 50 HP or less from your deck into your hand.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [],
     "retreatCost": null,
@@ -6882,8 +7151,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 170,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -6897,7 +7167,7 @@
         "effect": "Flip a coin. If heads, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -6909,8 +7179,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -6923,7 +7194,7 @@
         "effect": "This attack does 30 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Cottonee",
@@ -6935,8 +7206,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -6950,7 +7222,7 @@
         "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Ponyta",
@@ -6962,8 +7234,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -6975,7 +7248,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -6992,8 +7265,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -7005,7 +7279,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -7022,8 +7296,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 210,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -7037,7 +7312,7 @@
         "effect": "1 of your opponent's Benched Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, also do 20 damage to it."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Flaaffy",
@@ -7049,8 +7324,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -7063,7 +7339,7 @@
         "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -7080,8 +7356,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -7093,7 +7370,7 @@
         "effect": "This attack's damage isn't affected by Weakness."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -7105,8 +7382,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 170,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -7119,7 +7397,7 @@
         "effect": "Your opponent reveals their hand. Choose a Supporter card you find there and discard it."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -7131,8 +7409,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -7144,7 +7423,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -7161,8 +7440,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 170,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -7186,7 +7466,7 @@
         "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Meltan",
@@ -7198,8 +7478,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -7212,7 +7493,7 @@
         "effect": "Flip a coin. If tails, this Pokémon also does 30 damage to itself."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -7224,8 +7505,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 210,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -7238,7 +7520,7 @@
         "effect": "Discard a Fire Energy from this Pokémon. Your opponent's Active Pokémon is now Burned."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Combusken",
@@ -7250,8 +7532,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 210,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -7266,7 +7549,7 @@
         "effect": "Discard the top 3 cards of your opponent's deck."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Magikarp",
@@ -7278,8 +7561,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 190,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -7292,7 +7576,7 @@
         "effect": "This attack does 30 more damage for each of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Swablu",
@@ -7304,8 +7588,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -7316,11 +7601,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-288",
@@ -7328,8 +7613,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -7341,11 +7627,11 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Bellsprout",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-289",
@@ -7353,8 +7639,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -7366,7 +7653,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [
       {
@@ -7375,7 +7662,7 @@
       }
     ],
     "evolvesFrom": "Weepinbell",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-290",
@@ -7383,8 +7670,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -7396,11 +7684,11 @@
         "effect": "This attack does 10 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-291",
@@ -7408,8 +7696,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -7421,11 +7710,11 @@
         "effect": "This attack does 20 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Rowlet",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-292",
@@ -7433,8 +7722,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -7448,11 +7738,11 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-293",
@@ -7460,8 +7750,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -7473,11 +7764,11 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-294",
@@ -7485,8 +7776,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -7498,11 +7790,11 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Litten",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-295",
@@ -7510,8 +7802,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -7523,11 +7816,11 @@
         "effect": "Put 1 random Poliwag from your deck onto your Bench."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-296",
@@ -7535,8 +7828,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -7548,11 +7842,11 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Poliwag",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-297",
@@ -7560,8 +7854,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -7574,7 +7869,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [
       {
@@ -7583,7 +7878,7 @@
       }
     ],
     "evolvesFrom": "Poliwhirl",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-298",
@@ -7591,8 +7886,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -7606,11 +7902,11 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-299",
@@ -7618,8 +7914,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -7631,11 +7928,11 @@
         "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a Water Energy from your Energy Zone and attach it to that Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-300",
@@ -7643,8 +7940,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -7656,11 +7954,11 @@
         "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-301",
@@ -7668,8 +7966,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -7681,11 +7980,11 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Popplio",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-302",
@@ -7693,8 +7992,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -7708,11 +8008,11 @@
         "effect": "This attack also does 30 damage to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-303",
@@ -7720,8 +8020,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -7733,7 +8034,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -7742,7 +8043,7 @@
       }
     ],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-304",
@@ -7750,8 +8051,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -7763,7 +8065,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -7772,7 +8074,7 @@
       }
     ],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-305",
@@ -7780,8 +8082,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -7793,11 +8096,11 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-306",
@@ -7805,8 +8108,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -7819,7 +8123,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -7828,7 +8132,7 @@
       }
     ],
     "evolvesFrom": "Drowzee",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-307",
@@ -7836,8 +8140,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -7848,11 +8153,11 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-308",
@@ -7860,8 +8165,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -7873,11 +8179,11 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Geodude",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-309",
@@ -7885,8 +8191,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -7901,11 +8208,11 @@
         "effect": "During your opponent's next turn, this Pokémon takes −30 damage from attacks."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Graveler",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-310",
@@ -7913,8 +8220,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -7926,11 +8234,11 @@
         "effect": "Put a random card that evolves from Rockruff from your deck into your hand."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-311",
@@ -7938,8 +8246,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -7950,11 +8259,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-312",
@@ -7962,8 +8271,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -7975,11 +8285,11 @@
         "effect": "Draw 1 card."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-313",
@@ -7987,8 +8297,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -8001,11 +8312,11 @@
         "effect": "Flip a coin. If heads, discard a random card from your opponent's hand."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Meowth",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-314",
@@ -8013,8 +8324,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -8025,11 +8337,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-315",
@@ -8037,8 +8349,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -8049,11 +8362,11 @@
         ]
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Doduo",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-316",
@@ -8061,8 +8374,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -8075,11 +8389,11 @@
         "effect": "Halve your opponent's Active Pokémon's remaining HP, rounded down."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "b1-317",
@@ -8087,8 +8401,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -8109,11 +8424,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Dartrix",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b1-318",
@@ -8121,8 +8436,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -8144,11 +8460,11 @@
         "effect": "If this Pokémon has damage on it, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Torracat",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b1-319",
@@ -8156,8 +8472,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -8179,11 +8496,11 @@
         "effect": "Discard 3 Water Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b1-320",
@@ -8191,8 +8508,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -8214,11 +8532,11 @@
         "effect": "Heal 20 damage from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Brionne",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b1-321",
@@ -8226,8 +8544,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -8241,11 +8560,11 @@
         "effect": "Discard all Energy from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b1-322",
@@ -8253,8 +8572,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -8275,11 +8595,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b1-323",
@@ -8287,8 +8607,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -8302,11 +8623,11 @@
         "effect": "Discard a Fighting Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Rockruff",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b1-324",
@@ -8314,8 +8635,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -8327,7 +8649,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psychic",
     "abilities": [
       {
@@ -8336,7 +8658,7 @@
       }
     ],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b1-325",
@@ -8344,8 +8666,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Blaziken",
     "attacks": [
       {
@@ -8358,11 +8681,11 @@
         "effect": "Flip 3 coins. This attack does 60 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Alolan Diglett",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b1-326",
@@ -8370,8 +8693,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 150,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -8394,11 +8718,11 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b1-327",
@@ -8406,8 +8730,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 160,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Altaria",
     "attacks": [
       {
@@ -8422,11 +8747,11 @@
         "effect": "Heal 30 damage from this Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Bidoof",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b1-328",
@@ -8434,8 +8759,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": "Mega Gyarados",
     "attacks": [
       {
@@ -8449,7 +8775,7 @@
         "effect": "This attack does 20 more damage for each of your Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -8458,7 +8784,7 @@
       }
     ],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "b1-329",
@@ -8466,8 +8792,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -8479,7 +8806,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [
       {
@@ -8496,8 +8823,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [
       {
@@ -8508,7 +8836,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [
       {
@@ -8525,8 +8853,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Attach a Fire Energy from your discard pile to your Active Fire Pokémon.",
     "health": null,
-    "set": "Mega Rising  (B1)",
+    "set": "Mega Rising (B1)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,

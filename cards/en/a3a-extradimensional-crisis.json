@@ -5,6 +5,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -29,6 +30,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -54,17 +56,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Fury Attack",
-        "effect": "Flip 3 coins. This attack does 10 damage for each heads.",
         "damage": "10x",
         "cost": [
           "Grass"
-        ]
+        ],
+        "effect": "Flip 3 coins. This attack does 10 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -79,17 +82,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Skill Dive",
-        "effect": "This attack does 20 damage to 1 of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Grass"
-        ]
+        ],
+        "effect": "This attack does 20 damage to 1 of your opponent's Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -104,18 +108,19 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Sniping Arrow",
-        "effect": "This attack does 70 damage to 1 of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Grass",
           "Grass"
-        ]
+        ],
+        "effect": "This attack does 70 damage to 1 of your opponent's Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -130,6 +135,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -144,13 +150,13 @@
       },
       {
         "name": "Big Beat",
-        "effect": "During your next turn, this Pokémon can't use Big Beat.",
         "damage": "120",
         "cost": [
           "Grass",
           "Grass",
           "Colorless"
-        ]
+        ],
+        "effect": "During your next turn, this Pokémon can't use Big Beat."
       }
     ],
     "retreatCost": 2,
@@ -165,17 +171,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Jump Blues",
-        "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
         "damage": "20",
         "cost": [
           "Grass"
-        ]
+        ],
+        "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -190,6 +197,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -214,19 +222,20 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Beat Punk",
-        "effect": "This Pokémon also does 70 damage to itself.",
         "damage": "130",
         "cost": [
           "Fire",
           "Fire",
           "Colorless"
-        ]
+        ],
+        "effect": "This Pokémon also does 70 damage to itself."
       }
     ],
     "retreatCost": 2,
@@ -241,6 +250,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -266,6 +276,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -290,18 +301,19 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Crunch",
-        "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
         "damage": "50",
         "cost": [
           "Water",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -316,6 +328,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -340,6 +353,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -365,6 +379,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -396,6 +411,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -421,6 +437,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -446,6 +463,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -470,17 +488,18 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Plasma Hurricane",
-        "effect": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon.",
         "damage": "20",
         "cost": [
           "Lightning"
-        ]
+        ],
+        "effect": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon."
       },
       {
         "name": "Mach Bolt",
@@ -504,19 +523,20 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Electronica",
-        "effect": "Your opponent's Active Pokémon is now Confused.",
         "damage": "60",
         "cost": [
           "Lightning",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
     "retreatCost": 2,
@@ -531,6 +551,7 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -561,6 +582,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -585,6 +607,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -610,6 +633,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -635,6 +659,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -661,6 +686,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -685,6 +711,7 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -715,17 +742,18 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Trip Over",
-        "effect": "Flip a coin. If heads, this attack does 20 more damage.",
         "damage": "10+",
         "cost": [
           "Fighting"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 20 more damage."
       }
     ],
     "retreatCost": 1,
@@ -740,6 +768,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -764,6 +793,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -789,6 +819,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -820,6 +851,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -845,19 +877,20 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Lycanfang",
-        "effect": "Discard a Fighting Energy from this Pokémon.",
         "damage": "130",
         "cost": [
           "Fighting",
           "Fighting",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard a Fighting Energy from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -872,18 +905,19 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Let’s Throw",
-        "effect": "If Passimian is on your Bench, this attack does 40 more damage.",
         "damage": "40+",
         "cost": [
           "Fighting",
           "Fighting"
-        ]
+        ],
+        "effect": "If Passimian is on your Bench, this attack does 40 more damage."
       }
     ],
     "retreatCost": 1,
@@ -898,6 +932,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -923,20 +958,21 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Sand Tomb",
-        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat.",
         "damage": "90",
         "cost": [
           "Fighting",
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
     "retreatCost": 3,
@@ -951,17 +987,18 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Meddle",
-        "effect": "Discard a random Pokémon Tool card from your opponent's hand.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness"
-        ]
+        ],
+        "effect": "Discard a random Pokémon Tool card from your opponent's hand."
       }
     ],
     "retreatCost": 1,
@@ -976,18 +1013,19 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Fake Out",
-        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
         "damage": "50",
         "cost": [
           "Darkness",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "retreatCost": 1,
@@ -1002,6 +1040,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1026,6 +1065,7 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1051,19 +1091,20 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Poaching Fangs",
-        "effect": "Flip 3 coins. For each heads, a card is chosen at random from your opponent's hand. Your opponent reveals that card and shuffles it into their deck.",
         "damage": "90",
         "cost": [
           "Darkness",
           "Darkness",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip 3 coins. For each heads, a card is chosen at random from your opponent's hand. Your opponent reveals that card and shuffles it into their deck."
       }
     ],
     "retreatCost": 3,
@@ -1078,18 +1119,19 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "New Wave",
-        "effect": "Your opponent's Active Pokémon is now Poisoned.",
         "damage": "30",
         "cost": [
           "Darkness",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "retreatCost": 1,
@@ -1109,18 +1151,19 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 170,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Grindcore",
-        "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
         "damage": "30",
         "cost": [
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
       },
       {
         "name": "Tyrannical Hole",
@@ -1145,17 +1188,18 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "2-Step",
-        "effect": "Flip 2 coins. This attack does 20 damage for each heads.",
         "damage": "20x",
         "cost": [
           "Darkness"
-        ]
+        ],
+        "effect": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -1170,17 +1214,18 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Electro House",
-        "effect": "Your opponent's Active Pokémon is now Poisoned.",
         "damage": "40",
         "cost": [
           "Darkness"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "retreatCost": 2,
@@ -1195,17 +1240,18 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Happened to Headbutt",
-        "effect": "Flip a coin. If tails, this attack does nothing.",
         "damage": "40",
         "cost": [
           "Metal"
-        ]
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
     "retreatCost": 1,
@@ -1220,18 +1266,19 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Triplet Headbutt",
-        "effect": "Flip 3 coins. This attack does 60 damage for each heads.",
         "damage": "60x",
         "cost": [
           "Metal",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip 3 coins. This attack does 60 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -1246,6 +1293,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1271,6 +1319,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1297,20 +1346,21 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 160,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Giga Impact",
-        "effect": "During your next turn, this Pokémon can't attack.",
         "damage": "150",
         "cost": [
           "Metal",
           "Metal",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "During your next turn, this Pokémon can't attack."
       }
     ],
     "retreatCost": 4,
@@ -1325,6 +1375,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1350,6 +1401,7 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1381,18 +1433,19 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Brass Rock",
-        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
         "damage": "40",
         "cost": [
           "Metal",
           "Colorless"
-        ]
+        ],
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
       }
     ],
     "retreatCost": 3,
@@ -1407,6 +1460,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1431,6 +1485,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1455,6 +1510,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1485,6 +1541,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1510,19 +1567,20 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Superpowered Hug",
-        "effect": "Flip 2 coins. If both of them are heads, your opponent's Active Pokémon is Knocked Out.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip 2 coins. If both of them are heads, your opponent's Active Pokémon is Knocked Out."
       }
     ],
     "retreatCost": 3,
@@ -1537,6 +1595,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1563,17 +1622,18 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Quick Blow",
-        "effect": "Flip a coin. If heads, this attack does 20 more damage.",
         "damage": "20+",
         "cost": [
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, this attack does 20 more damage."
       }
     ],
     "retreatCost": 2,
@@ -1588,18 +1648,19 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Brave Buddies",
-        "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage.",
         "damage": "50+",
         "cost": [
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
       }
     ],
     "retreatCost": 1,
@@ -1614,19 +1675,20 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Moombahton",
-        "effect": "Flip a coin. If tails, this attack does nothing.",
         "damage": "100",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
     "retreatCost": 4,
@@ -1646,6 +1708,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "You can use this card only if your opponent hasn't gotten any points. During your opponent's next turn, all of your Ultra Beasts take −20 damage from attacks from your opponent's Pokémon.",
     "health": null,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1662,6 +1725,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
     "health": null,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1678,6 +1742,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "If the Lightning Pokémon this card is attached to is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move 2 Lightning Energy from that Pokémon and attach 1 Energy each to 2 of your Benched Pokémon.",
     "health": null,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1694,6 +1759,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "Attacks used by the Ultra Beast this card is attached to do +10 damage to your opponent's Active Pokémon for each point you have gotten.",
     "health": null,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1710,6 +1776,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Put 1 random Type: Null or Silvally from your deck into your hand.",
     "health": null,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1726,6 +1793,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Your opponent reveals all of the Supporter cards in their deck.",
     "health": null,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1742,6 +1810,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "You can use this card only if your opponent has gotten at least 1 point. Choose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pokémon.",
     "health": null,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1758,17 +1827,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Fury Attack",
-        "effect": "Flip 3 coins. This attack does 10 damage for each heads.",
         "damage": "10x",
         "cost": [
           "Grass"
-        ]
+        ],
+        "effect": "Flip 3 coins. This attack does 10 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -1783,17 +1853,18 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Jump Blues",
-        "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
         "damage": "20",
         "cost": [
           "Grass"
-        ]
+        ],
+        "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -1808,19 +1879,20 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Beat Punk",
-        "effect": "This Pokémon also does 70 damage to itself.",
         "damage": "130",
         "cost": [
           "Fire",
           "Fire",
           "Colorless"
-        ]
+        ],
+        "effect": "This Pokémon also does 70 damage to itself."
       }
     ],
     "retreatCost": 2,
@@ -1835,17 +1907,18 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Meddle",
-        "effect": "Discard a random Pokémon Tool card from your opponent's hand.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness"
-        ]
+        ],
+        "effect": "Discard a random Pokémon Tool card from your opponent's hand."
       }
     ],
     "retreatCost": 1,
@@ -1860,18 +1933,19 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Brave Buddies",
-        "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage.",
         "damage": "50+",
         "cost": [
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
       }
     ],
     "retreatCost": 1,
@@ -1886,19 +1960,20 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 120,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Moombahton",
-        "effect": "Flip a coin. If tails, this attack does nothing.",
         "damage": "100",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
     "retreatCost": 4,
@@ -1918,6 +1993,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -1932,13 +2008,13 @@
       },
       {
         "name": "Big Beat",
-        "effect": "During your next turn, this Pokémon can't use Big Beat.",
         "damage": "120",
         "cost": [
           "Grass",
           "Grass",
           "Colorless"
-        ]
+        ],
+        "effect": "During your next turn, this Pokémon can't use Big Beat."
       }
     ],
     "retreatCost": 2,
@@ -1953,17 +2029,18 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Plasma Hurricane",
-        "effect": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon.",
         "damage": "20",
         "cost": [
           "Lightning"
-        ]
+        ],
+        "effect": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon."
       },
       {
         "name": "Mach Bolt",
@@ -1987,19 +2064,20 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Lycanfang",
-        "effect": "Discard a Fighting Energy from this Pokémon.",
         "damage": "130",
         "cost": [
           "Fighting",
           "Fighting",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard a Fighting Energy from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -2014,18 +2092,19 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 170,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Grindcore",
-        "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
         "damage": "30",
         "cost": [
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
       },
       {
         "name": "Tyrannical Hole",
@@ -2050,18 +2129,19 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Triplet Headbutt",
-        "effect": "Flip 3 coins. This attack does 60 damage for each heads.",
         "damage": "60x",
         "cost": [
           "Metal",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip 3 coins. This attack does 60 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -2076,6 +2156,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Put 1 random Type: Null or Silvally from your deck into your hand.",
     "health": null,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -2092,6 +2173,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Your opponent reveals all of the Supporter cards in their deck.",
     "health": null,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -2108,6 +2190,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "You can use this card only if your opponent has gotten at least 1 point. Choose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pokémon.",
     "health": null,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -2124,17 +2207,18 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Plasma Hurricane",
-        "effect": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon.",
         "damage": "20",
         "cost": [
           "Lightning"
-        ]
+        ],
+        "effect": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon."
       },
       {
         "name": "Mach Bolt",
@@ -2158,19 +2242,20 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Lycanfang",
-        "effect": "Discard a Fighting Energy from this Pokémon.",
         "damage": "130",
         "cost": [
           "Fighting",
           "Fighting",
           "Colorless"
-        ]
+        ],
+        "effect": "Discard a Fighting Energy from this Pokémon."
       }
     ],
     "retreatCost": 2,
@@ -2185,18 +2270,19 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 170,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Grindcore",
-        "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
         "damage": "30",
         "cost": [
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
       },
       {
         "name": "Tyrannical Hole",
@@ -2221,18 +2307,19 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Triplet Headbutt",
-        "effect": "Flip 3 coins. This attack does 60 damage for each heads.",
         "damage": "60x",
         "cost": [
           "Metal",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip 3 coins. This attack does 60 damage for each heads."
       }
     ],
     "retreatCost": 1,
@@ -2247,6 +2334,7 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -2261,13 +2349,13 @@
       },
       {
         "name": "Big Beat",
-        "effect": "During your next turn, this Pokémon can't use Big Beat.",
         "damage": "120",
         "cost": [
           "Grass",
           "Grass",
           "Colorless"
-        ]
+        ],
+        "effect": "During your next turn, this Pokémon can't use Big Beat."
       }
     ],
     "retreatCost": 2,
@@ -2282,6 +2370,7 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -2299,7 +2388,7 @@
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3a-090",
@@ -2307,26 +2396,27 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Heat Tackle",
-        "effect": "This Pokémon also does 20 damage to itself.",
         "damage": "100",
         "cost": [
           "Fire",
           "Fire",
           "Colorless"
-        ]
+        ],
+        "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
     "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Growlithe",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3a-091",
@@ -2334,6 +2424,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -2350,7 +2441,7 @@
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3a-092",
@@ -2358,6 +2449,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -2374,7 +2466,7 @@
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Froakie",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3a-093",
@@ -2382,6 +2474,7 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 120,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -2404,7 +2497,7 @@
       }
     ],
     "evolvesFrom": "Frogadier",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3a-094",
@@ -2412,25 +2505,26 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Psychic",
-        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
         "damage": "30+",
         "cost": [
           "Psychic",
           "Colorless"
-        ]
+        ],
+        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3a-095",
@@ -2438,6 +2532,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -2454,7 +2549,7 @@
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3a-096",
@@ -2462,6 +2557,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -2478,7 +2574,7 @@
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Pidgey",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3a-097",
@@ -2486,6 +2582,7 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 130,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -2508,7 +2605,7 @@
       }
     ],
     "evolvesFrom": "Pidgeotto",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3a-098",
@@ -2516,25 +2613,26 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Primal Wingbeat",
-        "effect": "Flip a coin. If heads, your opponent shuffles their Active Pokémon back into their deck.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, your opponent shuffles their Active Pokémon back into their deck."
       }
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Old Amber",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3a-099",
@@ -2542,25 +2640,26 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Powerful Bloom",
-        "effect": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads.",
         "damage": "50x",
         "cost": [
           "Grass",
           "Colorless"
-        ]
+        ],
+        "effect": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads."
       }
     ],
     "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a3a-100",
@@ -2568,26 +2667,27 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Inferno Onrush",
-        "effect": "This Pokémon also does 20 damage to itself.",
         "damage": "120",
         "cost": [
           "Fire",
           "Fire",
           "Colorless"
-        ]
+        ],
+        "effect": "This Pokémon also does 20 damage to itself."
       }
     ],
     "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Growlithe",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a3a-101",
@@ -2595,6 +2695,7 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
@@ -2617,7 +2718,7 @@
       }
     ],
     "evolvesFrom": "Old Amber",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a3a-102",
@@ -2625,26 +2726,27 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "Scattering Cyclone",
-        "effect": "This attack does 20 more damage for each of your opponent's Benched Pokémon.",
         "damage": "80+",
         "cost": [
           "Colorless",
           "Colorless",
           "Colorless"
-        ]
+        ],
+        "effect": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
       }
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Pidgeotto",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a3a-103",
@@ -2652,18 +2754,19 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
     "set": "Extradimensional Crisis (A3a)",
     "pack": null,
     "attacks": [
       {
         "name": "New Wave",
-        "effect": "Your opponent's Active Pokémon is now Poisoned.",
         "damage": "30",
         "cost": [
           "Darkness",
           "Colorless"
-        ]
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "retreatCost": 1,

@@ -5,8 +5,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -19,7 +20,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -31,8 +32,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -44,7 +46,7 @@
         "effect": "This attack does 20 more damage for each Grass Energy attached to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -56,8 +58,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -68,7 +71,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -80,8 +83,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -92,7 +96,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Bounsweet",
@@ -104,8 +108,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -117,7 +122,7 @@
         "effect": "Your opponent reveals a random card from their hand and shuffles it into their deck."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Steenee",
@@ -129,8 +134,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 40,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -141,7 +147,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -153,8 +159,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -166,7 +173,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 30 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Applin",
@@ -178,8 +185,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -192,7 +200,7 @@
         "effect": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -204,8 +212,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -219,7 +228,7 @@
         "effect": "Discard 2 Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [
       {
@@ -236,8 +245,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -250,7 +260,7 @@
         "effect": "Discard a Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -262,8 +272,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -275,7 +286,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -287,8 +298,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -300,7 +312,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Litten",
@@ -312,8 +324,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 150,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -327,7 +340,7 @@
         "effect": "Flip 2 coins. This attack does 100 damage for each heads."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Torracat",
@@ -339,8 +352,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -352,7 +366,7 @@
         "effect": "Discard a Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": null,
@@ -364,8 +378,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -376,7 +391,7 @@
         ]
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Salandit",
@@ -388,8 +403,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -403,7 +419,7 @@
         "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -415,13 +431,14 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
         "name": "Ice Blade",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Water",
           "Water"
@@ -429,7 +446,7 @@
         "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -441,8 +458,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -454,7 +472,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -466,8 +484,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -479,7 +498,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Vanillite",
@@ -491,8 +510,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 140,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -505,7 +525,7 @@
         "effect": "Flip 2 coins. This attack does 80 damage for each heads."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Vanillish",
@@ -517,8 +537,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 110,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -532,7 +553,7 @@
         "effect": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -544,8 +565,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -557,7 +579,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -569,8 +591,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -582,7 +605,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Popplio",
@@ -594,8 +617,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -617,7 +641,7 @@
         "effect": "Heal 20 damage from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Brionne",
@@ -629,8 +653,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -642,7 +667,7 @@
         "effect": "If this Pokémon evolved during this turn, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -654,8 +679,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 40,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -667,7 +693,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -679,8 +705,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -693,7 +720,7 @@
         "effect": "Discard all Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Joltik",
@@ -705,8 +732,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -718,7 +746,7 @@
         "effect": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -730,8 +758,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -742,7 +771,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
@@ -754,8 +783,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -766,7 +796,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Woobat",
@@ -778,8 +808,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -791,7 +822,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -803,8 +834,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -817,7 +849,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Swirlix",
@@ -829,8 +861,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -843,7 +876,7 @@
         "effect": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -855,8 +888,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -868,7 +902,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [
       {
@@ -885,13 +919,14 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
         "name": "Try to Imitate",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Psychic",
           "Psychic"
@@ -899,7 +934,7 @@
         "effect": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -911,8 +946,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 50,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -924,7 +960,7 @@
         "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": null,
@@ -936,8 +972,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -949,7 +986,7 @@
         "effect": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Milcery",
@@ -961,8 +998,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -974,7 +1012,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -986,8 +1024,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 130,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1002,7 +1041,7 @@
         "effect": "This attack also does 10 damage to each of your Benched Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Barboach",
@@ -1014,8 +1053,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1027,7 +1067,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
@@ -1039,8 +1079,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1052,7 +1093,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Mienfoo",
@@ -1064,8 +1105,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1078,7 +1120,7 @@
         "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -1090,8 +1132,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1103,7 +1146,7 @@
         "effect": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -1115,8 +1158,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1127,7 +1171,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -1139,20 +1183,21 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
         "name": "Playful Knockdown",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness"
         ],
         "effect": "Discard all Pokémon Tools from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
@@ -1164,8 +1209,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1177,7 +1223,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Purrloin",
@@ -1189,8 +1235,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1203,7 +1250,7 @@
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1215,8 +1262,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 80,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1229,7 +1277,7 @@
         "effect": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1241,8 +1289,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1253,7 +1302,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
@@ -1265,8 +1314,9 @@
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1279,7 +1329,7 @@
         ]
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Meltan",
@@ -1291,8 +1341,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1303,7 +1354,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -1315,8 +1366,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1328,7 +1380,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dratini",
@@ -1340,8 +1392,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1355,7 +1408,7 @@
         "effect": "During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dragonair",
@@ -1367,8 +1420,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1381,7 +1435,7 @@
         "effect": "Flip a coin. If tails, this attack does nothing. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -1393,20 +1447,21 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
         "name": "Collect",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
         "effect": "Draw a card."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1418,8 +1473,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1430,7 +1486,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -1447,8 +1503,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 160,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1463,7 +1520,7 @@
         "effect": "This Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -1480,8 +1537,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1493,7 +1551,7 @@
         "effect": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1505,8 +1563,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1518,7 +1577,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -1535,8 +1594,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1548,7 +1608,7 @@
         "effect": "Your opponent's Active Pokémon is now Confused."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
@@ -1560,8 +1620,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1574,7 +1635,7 @@
         "effect": "This attack does 20 damage for each of your Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1586,8 +1647,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1598,7 +1660,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1610,8 +1672,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1622,7 +1685,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Minccino",
@@ -1634,8 +1697,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 70,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1647,7 +1711,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1659,8 +1723,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1674,7 +1739,7 @@
         "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Skwovet",
@@ -1686,8 +1751,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Choose 1:① During this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon. ② Heal 20 damage from each of your Pokémon that evolves from Eevee.",
     "health": null,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -1702,8 +1768,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
+    "effect": "At the end of your turn, if the Pokémon this card is attached to is in the Active Spot, heal 10 damage from that Pokémon.",
     "health": null,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -1718,8 +1785,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon.",
     "health": null,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -1734,8 +1802,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
     "health": null,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -1750,8 +1819,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1763,7 +1833,7 @@
         "effect": "This attack does 20 more damage for each Grass Energy attached to this Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -1775,8 +1845,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 110,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1789,7 +1860,7 @@
         "effect": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -1801,8 +1872,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 120,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1816,7 +1888,7 @@
         "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -1828,13 +1900,14 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
         "name": "Ice Blade",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Water",
           "Water"
@@ -1842,7 +1915,7 @@
         "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -1854,8 +1927,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1867,7 +1941,7 @@
         "effect": "If this Pokémon evolved during this turn, this attack does 20 more damage."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -1879,8 +1953,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1892,7 +1967,7 @@
         "effect": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -1904,8 +1979,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1918,7 +1994,7 @@
         "effect": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -1930,8 +2006,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1943,7 +2020,7 @@
         "effect": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Eevee",
@@ -1955,20 +2032,21 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
         "name": "Collect",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
         "effect": "Draw a card."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
@@ -1980,8 +2058,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -1995,7 +2074,7 @@
         "effect": "Discard 2 Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [
       {
@@ -2012,8 +2091,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2035,7 +2115,7 @@
         "effect": "Heal 20 damage from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Brionne",
@@ -2047,8 +2127,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2060,7 +2141,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [
       {
@@ -2077,8 +2158,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2092,7 +2174,7 @@
         "effect": "During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dragonair",
@@ -2104,8 +2186,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2116,7 +2199,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -2133,8 +2216,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 160,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2149,7 +2233,7 @@
         "effect": "This Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -2166,8 +2250,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon.",
     "health": null,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2182,8 +2267,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
+    "effect": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
     "health": null,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
@@ -2198,8 +2284,9 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 150,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2213,7 +2300,7 @@
         "effect": "Discard 2 Fire Energy from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Water",
     "abilities": [
       {
@@ -2230,8 +2317,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2253,7 +2341,7 @@
         "effect": "Heal 20 damage from this Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Brionne",
@@ -2265,8 +2353,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 140,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2278,7 +2367,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Metal",
     "abilities": [
       {
@@ -2295,8 +2384,9 @@
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 180,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2310,7 +2400,7 @@
         "effect": "During your next turn, this Pokémon can't attack."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dragonair",
@@ -2322,8 +2412,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 160,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2338,7 +2429,7 @@
         "effect": "This Pokémon is now Asleep."
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -2355,8 +2446,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2367,7 +2459,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -2384,8 +2476,9 @@
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 90,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2399,11 +2492,11 @@
         "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3b-094",
@@ -2411,8 +2504,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 100,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2424,11 +2518,11 @@
         "effect": "If this Pokémon has at least 3 extra Water Energy attached, this attack does 70 more damage."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3b-095",
@@ -2436,8 +2530,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2449,11 +2544,11 @@
         "effect": "This Pokémon also does 10 damage to itself."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3b-096",
@@ -2461,8 +2556,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2473,11 +2569,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Voltorb",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3b-097",
@@ -2485,24 +2581,25 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
         "name": "Teleport",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3b-098",
@@ -2510,8 +2607,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 80,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2522,11 +2620,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Ralts",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3b-099",
@@ -2534,8 +2632,9 @@
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 110,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2548,7 +2647,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Darkness",
     "abilities": [
       {
@@ -2557,7 +2656,7 @@
       }
     ],
     "evolvesFrom": "Kirlia",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3b-100",
@@ -2565,8 +2664,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2577,11 +2677,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3b-101",
@@ -2589,8 +2689,9 @@
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
+    "effect": null,
     "health": 100,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2603,11 +2704,11 @@
         "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Ekans",
-    "rarity": "One shiny star"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3b-102",
@@ -2615,8 +2716,9 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 60,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2627,11 +2729,11 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Full Art"
+    "rarity": "One Shiny Star"
   },
   {
     "id": "a3b-103",
@@ -2639,13 +2741,14 @@
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
         "name": "Inferno Dance",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Fire"
         ],
@@ -2661,11 +2764,11 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a3b-104",
@@ -2673,8 +2776,9 @@
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 140,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2696,11 +2800,11 @@
         "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a3b-105",
@@ -2708,8 +2812,9 @@
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
+    "effect": null,
     "health": 130,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2730,11 +2835,11 @@
         "effect": "Flip 4 coins. This attack does 50 damage for each heads."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a3b-106",
@@ -2742,8 +2847,9 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
+    "effect": null,
     "health": 170,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [
       {
@@ -2756,11 +2862,11 @@
         "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Kirlia",
-    "rarity": "Two shiny stars"
+    "rarity": "Two Shiny Stars"
   },
   {
     "id": "a3b-107",
@@ -2768,8 +2874,9 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
+    "effect": "Choose 1:① During this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon. ② Heal 20 damage from each of your Pokémon that evolves from Eevee.",
     "health": null,
-    "set": "Eevee Grove  (A3b)",
+    "set": "Eevee Grove (A3b)",
     "pack": null,
     "attacks": [],
     "retreatCost": null,
