@@ -1,12 +1,12 @@
 # Pokemon TCG Pocket Card Database
 
-An English-only JSON database of gameplay data for every Pokemon TCG Pocket card released through **Ruler of the Skies (B4)**.
+An English-only JSON database of gameplay data for every Pokemon TCG Pocket card released through **Team Rocket's Ambition (B4a)**.
 
 This project was [forked from Hugo Burguete's original repository](https://github.com/hugoburguete/pokemon-tcg-pocket-card-database) on **10 August 2026**. The exact upstream starting point is preserved at [`b636dd0`](https://github.com/hugoburguete/pokemon-tcg-pocket-card-database/tree/b636dd08eff20c9d555fe395930ae05015d67422).
 
 ## What's included
 
-- 3,761 English cards across 22 sets and promo series
+- 3,871 English cards across 23 sets and promo series
 - One JSON file per set in [`cards/en`](cards/en)
 - Pokemon attacks, abilities, evolution links, weaknesses, retreat costs and rarities
 - Trainer card effects

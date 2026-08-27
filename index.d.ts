@@ -83,5 +83,6 @@ export declare const en: {
   paradoxDrive: Card[];
   everydayWonders: Card[];
   rulerOfTheSkies: Card[];
+  teamRocketsAmbition: Card[];
   promoB: Card[];
 };

@@ -19,6 +19,7 @@ const pulsingAura = require('./b3-pulsing-aura.json');
 const paradoxDrive = require('./b3a-paradox-drive.json');
 const everydayWonders = require('./b3b-everyday-wonders.json');
 const rulerOfTheSkies = require('./b4-ruler-of-the-skies.json');
+const teamRocketsAmbition = require('./b4a-team-rockets-ambition.json');
 const promoB = require('./promo-b.json');
 
 module.exports = {
@@ -43,5 +44,6 @@ module.exports = {
   paradoxDrive,
   everydayWonders,
   rulerOfTheSkies,
+  teamRocketsAmbition,
   promoB,
 };

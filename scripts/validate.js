@@ -30,6 +30,7 @@ const sets = {
   'b3a-paradox-drive.json': ['b3a', 109, 'paradoxDrive'],
   'b3b-everyday-wonders.json': ['b3b', 106, 'everydayWonders'],
   'b4-ruler-of-the-skies.json': ['b4', 233, 'rulerOfTheSkies'],
+  'b4a-team-rockets-ambition.json': ['b4a', 110, 'teamRocketsAmbition'],
   'promo-b.json': ['p-b', 86, 'promoB'],
 };
 
@@ -136,7 +137,7 @@ for (const [file, [prefix, expectedCount, exportName]] of Object.entries(sets)) 
   });
 }
 
-assert.equal(allCards.length, 3761, 'English inventory must contain 3,761 cards');
+assert.equal(allCards.length, 3871, 'English inventory must contain 3,871 cards');
 assert.equal(new Set(allCards.map((card) => card.id)).size, allCards.length, 'card IDs must be globally unique');
 
 const cardNames = new Set(allCards.map((card) => card.name));
