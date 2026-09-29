@@ -1,0 +1,814 @@
+{
+  "a1": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A1",
+    "sourceHtmlSha256": "24f4a016e7862ed9fa2797d32ccbb8e05753e5ebf382398c60be23e26b9168d6",
+    "cardFileSha256": "1d63d3f54c66b93fb5269ffc80d9fc0f4bde184de24a078650e0fab0b278a926",
+    "supplementarySha256": "3ab884c3db4e19cbf7374a4b8209525929aff60d52cb29aa37c653f0207a27ca",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "a1a": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A1a",
+    "sourceHtmlSha256": "5a8820ad91a56e53798a8cd3d6705ff0b9655bd26f110ce9e3d7162e68aaf6b6",
+    "cardFileSha256": "49df5af5be9f4aed573597399024b543a01ced7a3c9a7e00da236225c27d7801",
+    "supplementarySha256": "5554d36bfa2cee1d61fbb47a625f3ba93e46d03387e44dcfaf9615e6d9499b90",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "a2": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A2",
+    "sourceHtmlSha256": "18ff18cbe6a900a532e2bb30180f5e33e564d83203df18ca6ca747fec289ba85",
+    "cardFileSha256": "490af238790ee5e7a4901bbb6c1d18902bc310a08979410f363929b0336ff8df",
+    "supplementarySha256": "dc469b1e52502f703e9fee486efdfbc318c0ad15d7e566887f3a743da0c39000",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "a2a": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A2a",
+    "sourceHtmlSha256": "e2d7fc742ae09ce934568c7509369eb3792f2611f3163aeb707564c364435ffa",
+    "cardFileSha256": "afe4f2313c3a642db86be0a59bc6fa88fd40bd0c3db8b04ffb0fe79e0ad4b591",
+    "supplementarySha256": "9474d7e04a2c9979a912b5f35726a27f66f0bbaa60be46d5b9871e63dd2e5c0e",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "a2b": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A2b",
+    "sourceHtmlSha256": "ccee756e925faa3cf960ad5a2fb2a0749fc4ed2c4e42b260edcfe4b7c25ec7f0",
+    "cardFileSha256": "f98f7d39d8537824fb406f3b4e18efc4d1835334bcc5c8db69f55d12fbcced3f",
+    "supplementarySha256": "78ccc79a04ae0680f8cc4fa26763f9f446d552bbb3cec8deb0b90c2918df8bb5",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "a3": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A3",
+    "sourceHtmlSha256": "668137c0a0f5edad67cb1b1eb7e5c76cc123e46668e4694772a911c15bbd579d",
+    "cardFileSha256": "ec9b974576f8a76d69fbb0da8e89415bc23bbb3983ad6b62a4289a61081118b9",
+    "supplementarySha256": "66defa460cd92b8f0e1d06a62ca81007374ef6b51576d01b708eacb7d74fc41e",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "a3a": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A3a",
+    "sourceHtmlSha256": "d27e84fa98832872a87b2382696e3bf64b355e69fb8fafdd1fd3f21207df7a87",
+    "cardFileSha256": "02b000b5b250a90d7cfca280b9dc939b1ffdb332ef1b12648159b4093bc00b9c",
+    "supplementarySha256": "02384e7c2dac539d7e17b28a2bbe36fe70cd2798d1c07ced169b2ff75a9f8f87",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "a3b": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A3b",
+    "sourceHtmlSha256": "4692dc44d602bbf576198bc7bc2f19b4a1d2812cfa0a058a4e3672e41ed1c39e",
+    "cardFileSha256": "4c1e835abaafcee3556da07e6b3737cf4b844fceb97bbf6d0b3a036a0f752306",
+    "supplementarySha256": "a76ce917066a49d801c81d91a013e4c0adb6a3d92cccc4931946367b4578855d",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "a4": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A4",
+    "sourceHtmlSha256": "c628c09d8ef25295aa3ae5c2a93fb5cb8dc315b0472231c41373b6b6a0dbb852",
+    "cardFileSha256": "95369a893da811039e5ba22c58437e887623eb87bb218690c1c261a532068cda",
+    "supplementarySha256": "78dd240bd72b3893b3c055200874594ec5a3e3b98b4766d1bed04b75cad18809",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "a4a": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A4a",
+    "sourceHtmlSha256": "3bf78f64c24a638e6b621202b71cf82e4d24ff03cf699355e89c434b2980fcd6",
+    "cardFileSha256": "c7a5e4e77b5b878e70c28f022b792df6d3399bfd2517afe694c28a9f36592489",
+    "supplementarySha256": "738ece317c1b77b96fc9e63612f76d104e749a05ceab43c4afe38a71206f93d3",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "a4b": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A4b",
+    "sourceHtmlSha256": "35af1b69452d1f8a58015756cd91321b648f8e3e87c2c0ca5abc5d49e253dc6e",
+    "cardFileSha256": "970c6d6877de25b87a36cf845e70c289ba9f5b78dbcb85de880fadcbcfa7b068",
+    "supplementarySha256": "1b359bfa6d08cbaa6e407b888f5c829c8e83299d0b881b48f6bdf0dc12866483",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "p-a": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-A",
+    "sourceHtmlSha256": "8d9b352e2163547dd0f958720aad6d897fe6c13b76193f28ca3b4d4b06674ce1",
+    "cardFileSha256": "fd24ed52911d67684ce97c64a9634a3d6dc94b4c235a375ae44c28dd3edfa1bc",
+    "supplementarySha256": "446d7d0438d27bc0344ed720072d714cec7922ff2f4569dd75027dceaee140b0",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "b1": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B1",
+    "sourceHtmlSha256": "ba70744f693ba65e1ad338330fdef6d63a7206f1dde721e19e1f32ade25ee132",
+    "cardFileSha256": "95c5c2fd8a9405e66952178eb9f3286317abc4eb4716e6bdd8e093da4dfbcf3a",
+    "supplementarySha256": "39c82149c576a4cfb41e7bfe82bc1416bdbc8d6c183b665012cc1a2b9603de44",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "b1a": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B1a",
+    "sourceHtmlSha256": "645792faae06564b6d1e4b63fb5e8a651127bafbcbc2fdfd7a49c3cb86eb15cd",
+    "cardFileSha256": "6a121f83ac934862cecb5795f6dfdc01d043fdb86fb1f1c4d8485a398728a17c",
+    "supplementarySha256": "3cb53ffafba6710b6d41fd3a5d3837fd8b7ffa0d8d56cf70de5b3d7f8f85d12f",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "b2": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B2",
+    "sourceHtmlSha256": "e58f1c8923e173ab0e0299336f35b587d6a60b2cef4f37e9eb4f2a96e8092adb",
+    "cardFileSha256": "7a7e72b0df220946cd5e520f161afd624bcf560e4af11ecfcfc493989d05d417",
+    "supplementarySha256": "eef754668eb7ceac5ec0617cf3a4c63f9cf4c3afe6404495ebc24fd7c9a9a40f",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "b2a": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B2a",
+    "sourceHtmlSha256": "7fb471c490642abffb46ed62157bdb35c9f800b0f9f57c25b8e22d6e314e21e9",
+    "cardFileSha256": "96ccf9a562b3c2e2d1ac5cffb483e80cd3350ee564f7a8577d24c9e43c8c560c",
+    "supplementarySha256": "e9583683f20ba76686ef82a995fee7b6db50aaae20b33c9afce180270cfd3a8b",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "b2b": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B2b",
+    "sourceHtmlSha256": "4b9ee4cef9e04033e4d2a8b190e73c83be984fd0854a64615e9292e32f773351",
+    "cardFileSha256": "1eabcb006f1997b7bf5611121814b57f23f110e840bb1fe455277cf8fa74fef8",
+    "supplementarySha256": "debe051e39f77eb79d756102f6e9771e75c1285a2ff2b805b9162341543061d5",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "b3": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B3",
+    "sourceHtmlSha256": "4ee450dbdc14f1c99e54ef5944f9a6fda0acd27a42529e3e1f66ca754697bd9f",
+    "cardFileSha256": "bbeb627d5088a6575680bd6831f5dd87a561af9eff427fea183caa7df6efa3e9",
+    "supplementarySha256": "62de82d7437244960dc082cc35d712e0ee4dbfc8ac51b196bcd29e0e34579016",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "b3a": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B3a",
+    "sourceHtmlSha256": "17f5ecf8ef327580e57cebb199928a0a29710f381c375559b7511e468639cb98",
+    "cardFileSha256": "86942df873557b34126051a5504f3d3c9626b71e6ba4b0d6e87e2eb06831f521",
+    "supplementarySha256": "3c0f79001732b7616e67637a7623517cb0f11ba90bc88c83b4526d488acc977a",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "b3b": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B3b",
+    "sourceHtmlSha256": "cde9a7e00cdd270ce6e003112f2f992ea212887472539cb4e7df58fbc89a8f3f",
+    "cardFileSha256": "e04a732cafb20c81a64bf3f7d4155c716ad1a037d48cce08d75ec86e39ed38c0",
+    "supplementarySha256": "2821622431751d024d1d25c33203a80678f2c5e1901dc21a3015cba368d55819",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "b4": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4",
+    "sourceHtmlSha256": "3956776c7fb22eb842f3026676e1867a7a29b9d821bd351fb788d2046dfe855c",
+    "cardFileSha256": "8d2123f8ce1c1879bbbe1fa883207c1907646f334bb20625cbd02cf3e149aeee",
+    "supplementarySha256": "9a8d5fa7cf090a1b2bb3efd0c8de944a1055a09bcf20b4d93c86e31151aa4a92",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [
+      {
+        "id": "b4-019",
+        "field": "name",
+        "current": "Teal Mask Ogerpon",
+        "reference": "Teal MaskOgerpon"
+      }
+    ],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "b4a": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a",
+    "sourceHtmlSha256": "37a29adc082878f634d2a14fc1c60f0c78267fccbba5d898a27733bc07d47fa3",
+    "cardFileSha256": "8371e70b2ce48d4c23b2a2d2b20ffc61b2a7ab4f6dd666219ec67e3ee2741206",
+    "supplementarySha256": "e882cda43711a16abab98a26098f31708b004e635c08d9581c4b16c962f2c864",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "p-b": {
+    "status": "reference-compared",
+    "checkedAt": "2026-09-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B",
+    "sourceHtmlSha256": "089e493dea1799a3aa931f5b699813f3b7a77d429c96f61f5b101363b39e9335",
+    "cardFileSha256": "2ff20ec923af74efe33b8c8626315f975a594206b3bcaf1a39caf179922147f6",
+    "supplementarySha256": "797bfe88ebde437793264dc7cd56e44f6237e60ef629113aa6371ae825a11f6e",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "One community reference comparison, not an independent in-game audit.",
+      "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
+      "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  }
+}

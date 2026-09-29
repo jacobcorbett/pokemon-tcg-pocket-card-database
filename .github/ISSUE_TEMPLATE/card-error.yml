@@ -1,0 +1,26 @@
+name: Card data error
+description: Report incorrect gameplay, print or set data.
+title: 'fix: '
+labels: []
+body:
+  - type: input
+    id: card
+    attributes:
+      label: Print ID(s)
+      placeholder: a1-001
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Incorrect field and proposed correction
+      description: Include current/proposed values and affected alternate prints.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Sources
+      description: Link reference pages or supply an in-game screenshot without private account information.
+    validations:
+      required: true

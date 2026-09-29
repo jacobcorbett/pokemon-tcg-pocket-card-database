@@ -2330,5 +2330,216 @@
     ],
     "evolvesFrom": null,
     "rarity": null
+  },
+  {
+    "id": "p-b-087",
+    "name": "Mega Sceptile ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 210,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Terminating Tail",
+        "damage": "130",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "effect": "Discard a Grass Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Grovyle",
+    "rarity": null
+  },
+  {
+    "id": "p-b-088",
+    "name": "Team Rocket's Scyther",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Second Strike",
+        "damage": "20+",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "effect": "If your opponent's Active Pokémon has damage on it, this attack does 70 more damage."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-089",
+    "name": "Team Rocket's Lapras",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 90,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ruthless Whirlpool",
+        "damage": "40+",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "effect": "If this Pokémon has more Energy attached than your opponent's Active Pokémon, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-090",
+    "name": "Wingull",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flap",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-091",
+    "name": "Team Rocket's Wobbuffet",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 80,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rocket Frenzy",
+        "damage": "30x",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Reveal the top 6 cards of your deck. This attack does 30 damage for each Pokémon you find there that has “Team Rocket” in its name. Shuffle the revealed cards back into your deck."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-092",
+    "name": "Marowak",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 110,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Punish",
+        "damage": "50+",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "effect": "If your opponent's Active Pokémon has “Team Rocket” in its name, this attack does 70 more damage."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Cubone",
+    "rarity": null
+  },
+  {
+    "id": "p-b-093",
+    "name": "Fennekin",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Scratch",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-094",
+    "name": "Meowstic",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 90,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Super Psy Bolt",
+        "damage": "70",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Espurr",
+    "rarity": null
   }
 ]

@@ -1,0 +1,27 @@
+name: Missing set or promo
+description: Track a missing numbered inventory or preview.
+title: 'feat: add '
+body:
+  - type: input
+    id: set
+    attributes:
+      label: Set code / promo IDs
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources and expected count
+      description: Include the checklist and release announcement, if available.
+    validations:
+      required: true
+  - type: dropdown
+    id: status
+    attributes:
+      label: Release status
+      options:
+        - Released
+        - Preview / announced
+        - Unknown
+    validations:
+      required: true

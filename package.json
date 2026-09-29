@@ -1,18 +1,36 @@
 {
   "name": "pokemon-tcg-pocket-card-database",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "An English-only JSON card database for Pokemon TCG Pocket.",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
-    "test": "node scripts/validate.js"
+    "test": "node scripts/validate.js && node --test test/*.test.js && tsc -p test/tsconfig.json",
+    "build": "node scripts/build.js",
+    "check": "npm test && npm run build && node scripts/check-build.js && node scripts/coverage.js --check && npm run format:check",
+    "reference": "node scripts/reference.js",
+    "import": "node scripts/import-set.js",
+    "coverage": "node scripts/coverage.js",
+    "prepack": "npm run check",
+    "record-audit": "node scripts/record-audit.js && npm run coverage",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "files": [
     "cards/en",
+    "data",
+    "lib",
+    "schema",
     "index.js",
     "index.d.ts",
     "README.md",
-    "scripts/validate.js"
+    "LICENSE",
+    "NOTICE.md",
+    "THIRD_PARTY_NOTICES.md",
+    "dist/v1",
+    "docs",
+    "CONTRIBUTING.md",
+    "CHANGELOG.md"
   ],
   "repository": {
     "type": "git",
@@ -23,5 +41,28 @@
   },
   "homepage": "https://github.com/jacobcorbett/pokemon-tcg-pocket-card-database#readme",
   "author": "Hugo Burguete and contributors",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "ajv": "^8.20.0",
+    "cheerio": "^1.1.2",
+    "prettier": "^3.9.9",
+    "typescript": "^5.9.3"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "keywords": [
+    "pokemon",
+    "pokemon-tcg-pocket",
+    "cards",
+    "database",
+    "json",
+    "gameplay"
+  ],
+  "contributors": [
+    {
+      "name": "Jacob Corbett",
+      "url": "https://github.com/jacobcorbett"
+    }
+  ]
 }

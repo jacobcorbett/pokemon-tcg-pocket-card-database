@@ -208,7 +208,7 @@
           "Grass",
           "Grass"
         ],
-        "effect": "Discard GrassGrass Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
+        "effect": "Discard a Grass Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "retreatCost": 1,
@@ -4716,7 +4716,7 @@
           "Grass",
           "Grass"
         ],
-        "effect": "Discard GrassGrass Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
+        "effect": "Discard a Grass Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "retreatCost": 1,
@@ -5067,7 +5067,7 @@
           "Grass",
           "Grass"
         ],
-        "effect": "Discard GrassGrass Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
+        "effect": "Discard a Grass Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "retreatCost": 1,

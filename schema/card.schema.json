@@ -1,0 +1,348 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Legacy English card",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "element",
+    "type",
+    "subtype",
+    "effect",
+    "health",
+    "set",
+    "pack",
+    "attacks",
+    "retreatCost",
+    "weakness",
+    "abilities",
+    "evolvesFrom",
+    "rarity"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^(?:[ab][0-9]+[ab]?|p-[ab])-[0-9]{3}$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "element": {
+      "anyOf": [
+        {
+          "enum": [
+            "Grass",
+            "Fire",
+            "Water",
+            "Lightning",
+            "Psychic",
+            "Fighting",
+            "Darkness",
+            "Metal",
+            "Dragon",
+            "Colorless"
+          ]
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "type": {
+      "enum": [
+        "Pokemon",
+        "Trainer"
+      ]
+    },
+    "subtype": {
+      "enum": [
+        "Basic",
+        "Stage 1",
+        "Stage 2",
+        "Item",
+        "Supporter",
+        "Stadium",
+        "Tool"
+      ]
+    },
+    "effect": {
+      "anyOf": [
+        {
+          "type": "string",
+          "minLength": 1
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "health": {
+      "anyOf": [
+        {
+          "type": "integer",
+          "minimum": 1
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "set": {
+      "type": "string",
+      "minLength": 1
+    },
+    "pack": {
+      "anyOf": [
+        {
+          "type": "string",
+          "minLength": 1
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "attacks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "damage",
+          "cost"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "damage": {
+            "type": "string",
+            "pattern": "^(?:[0-9]+[+×x−-]?)?$"
+          },
+          "cost": {
+            "type": "array",
+            "items": {
+              "enum": [
+                "Grass",
+                "Fire",
+                "Water",
+                "Lightning",
+                "Psychic",
+                "Fighting",
+                "Darkness",
+                "Metal",
+                "Dragon",
+                "Colorless"
+              ]
+            }
+          },
+          "effect": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "retreatCost": {
+      "anyOf": [
+        {
+          "type": "integer",
+          "minimum": 0
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "weakness": {
+      "anyOf": [
+        {
+          "enum": [
+            "Grass",
+            "Fire",
+            "Water",
+            "Lightning",
+            "Psychic",
+            "Fighting",
+            "Darkness",
+            "Metal",
+            "Dragon",
+            "Colorless"
+          ]
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "abilities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "effect"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "effect": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "evolvesFrom": {
+      "anyOf": [
+        {
+          "type": "string",
+          "minLength": 1
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "rarity": {
+      "anyOf": [
+        {
+          "enum": [
+            "Common",
+            "Uncommon",
+            "Rare",
+            "Rare EX",
+            "Full Art",
+            "Full Art EX/Support",
+            "Immersive",
+            "One Shiny Star",
+            "Two Shiny Stars",
+            "Gold Crown"
+          ]
+        },
+        {
+          "type": "null"
+        }
+      ]
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "const": "Pokemon"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "subtype": {
+            "enum": [
+              "Basic",
+              "Stage 1",
+              "Stage 2"
+            ]
+          },
+          "element": {
+            "enum": [
+              "Grass",
+              "Fire",
+              "Water",
+              "Lightning",
+              "Psychic",
+              "Fighting",
+              "Darkness",
+              "Metal",
+              "Dragon",
+              "Colorless"
+            ]
+          },
+          "health": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "retreatCost": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "effect": {
+            "type": "null"
+          }
+        },
+        "allOf": [
+          {
+            "if": {
+              "properties": {
+                "subtype": {
+                  "const": "Basic"
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "evolvesFrom": {
+                  "type": "null"
+                }
+              }
+            },
+            "else": {
+              "properties": {
+                "evolvesFrom": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            }
+          }
+        ]
+      },
+      "else": {
+        "properties": {
+          "subtype": {
+            "enum": [
+              "Item",
+              "Supporter",
+              "Stadium",
+              "Tool"
+            ]
+          },
+          "element": {
+            "type": "null"
+          },
+          "health": {
+            "type": "null"
+          },
+          "retreatCost": {
+            "type": "null"
+          },
+          "weakness": {
+            "type": "null"
+          },
+          "evolvesFrom": {
+            "type": "null"
+          },
+          "effect": {
+            "type": "string",
+            "minLength": 1
+          },
+          "attacks": {
+            "type": "array",
+            "maxItems": 0
+          },
+          "abilities": {
+            "type": "array",
+            "maxItems": 0
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+[
+  {
+    "id": "a1",
+    "code": "A1",
+    "name": "Genetic Apex",
+    "file": "a1-genetic-apex.json",
+    "exportName": "geneticApex",
+    "expectedCount": 286,
+    "releaseDate": "2024-10-30",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A1"
+  },
+  {
+    "id": "a1a",
+    "code": "A1a",
+    "name": "Mythical Island",
+    "file": "a1a-mythical-island.json",
+    "exportName": "mythicalIsland",
+    "expectedCount": 86,
+    "releaseDate": "2024-12-17",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A1a"
+  },
+  {
+    "id": "a2",
+    "code": "A2",
+    "name": "Space-Time Smackdown",
+    "file": "a2-space-time-smackdown.json",
+    "exportName": "spaceTimeSmackdown",
+    "expectedCount": 207,
+    "releaseDate": "2025-01-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A2"
+  },
+  {
+    "id": "a2a",
+    "code": "A2a",
+    "name": "Triumphant Light",
+    "file": "a2a-triumphant-light.json",
+    "exportName": "triumphantLight",
+    "expectedCount": 96,
+    "releaseDate": "2025-02-28",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A2a"
+  },
+  {
+    "id": "a2b",
+    "code": "A2b",
+    "name": "Shining Revelry",
+    "file": "a2b-shining-revelry.json",
+    "exportName": "shiningRevelry",
+    "expectedCount": 111,
+    "releaseDate": "2025-03-27",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A2b"
+  },
+  {
+    "id": "a3",
+    "code": "A3",
+    "name": "Celestial Guardians",
+    "file": "a3-celestial-guardians.json",
+    "exportName": "celestialGuardians",
+    "expectedCount": 239,
+    "releaseDate": "2025-04-30",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A3"
+  },
+  {
+    "id": "a3a",
+    "code": "A3a",
+    "name": "Extradimensional Crisis",
+    "file": "a3a-extradimensional-crisis.json",
+    "exportName": "extradimensionalCrisis",
+    "expectedCount": 103,
+    "releaseDate": "2025-05-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A3a"
+  },
+  {
+    "id": "a3b",
+    "code": "A3b",
+    "name": "Eevee Grove",
+    "file": "a3b-eevee-grove.json",
+    "exportName": "eeveeGrove",
+    "expectedCount": 107,
+    "releaseDate": "2025-06-26",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A3b"
+  },
+  {
+    "id": "a4",
+    "code": "A4",
+    "name": "Wisdom of Sea and Sky",
+    "file": "a4-wisdom-of-sea-and-sky.json",
+    "exportName": "wisdomOfSeaAndSky",
+    "expectedCount": 241,
+    "releaseDate": "2025-07-30",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A4"
+  },
+  {
+    "id": "a4a",
+    "code": "A4a",
+    "name": "Secluded Springs",
+    "file": "a4a-secluded-springs.json",
+    "exportName": "secludedSprings",
+    "expectedCount": 105,
+    "releaseDate": "2025-08-28",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A4a"
+  },
+  {
+    "id": "a4b",
+    "code": "A4b",
+    "name": "Deluxe Pack ex",
+    "file": "a4b-deluxe-pack-ex.json",
+    "exportName": "deluxePackEx",
+    "expectedCount": 379,
+    "releaseDate": "2025-09-30",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/A4b"
+  },
+  {
+    "id": "p-a",
+    "code": "P-A",
+    "name": "Promo-A",
+    "file": "promo-a.json",
+    "exportName": "promoA",
+    "expectedCount": 117,
+    "releaseDate": null,
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-A"
+  },
+  {
+    "id": "b1",
+    "code": "B1",
+    "name": "Mega Rising",
+    "file": "b1-mega-rising.json",
+    "exportName": "megaRising",
+    "expectedCount": 331,
+    "releaseDate": "2025-10-30",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B1"
+  },
+  {
+    "id": "b1a",
+    "code": "B1a",
+    "name": "Crimson Blaze",
+    "file": "b1a-crimson-blaze.json",
+    "exportName": "crimsonBlaze",
+    "expectedCount": 103,
+    "releaseDate": "2025-12-17",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B1a"
+  },
+  {
+    "id": "b2",
+    "code": "B2",
+    "name": "Fantastical Parade",
+    "file": "b2-fantastical-parade.json",
+    "exportName": "fantasticalParade",
+    "expectedCount": 234,
+    "releaseDate": "2026-01-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B2"
+  },
+  {
+    "id": "b2a",
+    "code": "B2a",
+    "name": "Paldean Wonders",
+    "file": "b2a-paldean-wonders.json",
+    "exportName": "paldeanWonders",
+    "expectedCount": 131,
+    "releaseDate": "2026-02-26",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B2a"
+  },
+  {
+    "id": "b2b",
+    "code": "B2b",
+    "name": "Mega Shine",
+    "file": "b2b-mega-shine.json",
+    "exportName": "megaShine",
+    "expectedCount": 117,
+    "releaseDate": "2026-03-26",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B2b"
+  },
+  {
+    "id": "b3",
+    "code": "B3",
+    "name": "Pulsing Aura",
+    "file": "b3-pulsing-aura.json",
+    "exportName": "pulsingAura",
+    "expectedCount": 234,
+    "releaseDate": "2026-04-28",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B3"
+  },
+  {
+    "id": "b3a",
+    "code": "B3a",
+    "name": "Paradox Drive",
+    "file": "b3a-paradox-drive.json",
+    "exportName": "paradoxDrive",
+    "expectedCount": 109,
+    "releaseDate": "2026-05-28",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B3a"
+  },
+  {
+    "id": "b3b",
+    "code": "B3b",
+    "name": "Everyday Wonders",
+    "file": "b3b-everyday-wonders.json",
+    "exportName": "everydayWonders",
+    "expectedCount": 106,
+    "releaseDate": "2026-06-30",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B3b"
+  },
+  {
+    "id": "b4",
+    "code": "B4",
+    "name": "Ruler of the Skies",
+    "file": "b4-ruler-of-the-skies.json",
+    "exportName": "rulerOfTheSkies",
+    "expectedCount": 233,
+    "releaseDate": "2026-07-30",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4"
+  },
+  {
+    "id": "b4a",
+    "code": "B4a",
+    "name": "Team Rocket's Ambition",
+    "file": "b4a-team-rockets-ambition.json",
+    "exportName": "teamRocketsAmbition",
+    "expectedCount": 110,
+    "releaseDate": "2026-08-27",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a"
+  },
+  {
+    "id": "p-b",
+    "code": "P-B",
+    "name": "Promo-B",
+    "file": "promo-b.json",
+    "exportName": "promoB",
+    "expectedCount": 94,
+    "releaseDate": null,
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B"
+  }
+]

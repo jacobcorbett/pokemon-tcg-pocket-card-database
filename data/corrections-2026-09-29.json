@@ -1,0 +1,671 @@
+{
+  "checkedAt": "2026-09-29",
+  "source": "Limitless TCG Pocket",
+  "normalisation": "Expanded energy tokens; whitespace collapsed. Existing shiny rarities and Teal Mask Ogerpon spelling retained.",
+  "changes": [
+    {
+      "id": "b2-014",
+      "field": "attacks",
+      "current": [
+        {
+          "name": "Ground Beat",
+          "damage": "40+",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "effect": "If your opponent has gotten exactly 1 points, this attack does 40 more damage."
+        }
+      ],
+      "reference": [
+        {
+          "name": "Ground Beat",
+          "damage": "40+",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "effect": "If your opponent has gotten exactly 1 point, this attack does 40 more damage."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B2/14"
+    },
+    {
+      "id": "b2-042",
+      "field": "attacks",
+      "current": [
+        {
+          "name": "Hail Prison",
+          "damage": "90",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "effect": "Discard Water2 Water Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "reference": [
+        {
+          "name": "Hail Prison",
+          "damage": "90",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "effect": "Discard 2 Water Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B2/42"
+    },
+    {
+      "id": "b2-159",
+      "field": "attacks",
+      "current": [
+        {
+          "name": "Ground Beat",
+          "damage": "40+",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "effect": "If your opponent has gotten exactly 1 points, this attack does 40 more damage."
+        }
+      ],
+      "reference": [
+        {
+          "name": "Ground Beat",
+          "damage": "40+",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "effect": "If your opponent has gotten exactly 1 point, this attack does 40 more damage."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B2/159"
+    },
+    {
+      "id": "b2-163",
+      "field": "attacks",
+      "current": [
+        {
+          "name": "Hail Prison",
+          "damage": "90",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "effect": "Discard Water2 Water Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "reference": [
+        {
+          "name": "Hail Prison",
+          "damage": "90",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "effect": "Discard 2 Water Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B2/163"
+    },
+    {
+      "id": "b3-008",
+      "field": "attacks",
+      "current": [
+        {
+          "name": "Terminating Tail",
+          "damage": "130",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "effect": "Discard GrassGrass Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "reference": [
+        {
+          "name": "Terminating Tail",
+          "damage": "130",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "effect": "Discard a Grass Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B3/8"
+    },
+    {
+      "id": "b3-180",
+      "field": "attacks",
+      "current": [
+        {
+          "name": "Terminating Tail",
+          "damage": "130",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "effect": "Discard GrassGrass Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "reference": [
+        {
+          "name": "Terminating Tail",
+          "damage": "130",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "effect": "Discard a Grass Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B3/180"
+    },
+    {
+      "id": "b3-194",
+      "field": "attacks",
+      "current": [
+        {
+          "name": "Terminating Tail",
+          "damage": "130",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "effect": "Discard GrassGrass Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "reference": [
+        {
+          "name": "Terminating Tail",
+          "damage": "130",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "effect": "Discard a Grass Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B3/194"
+    },
+    {
+      "id": "b4a-021",
+      "field": "attacks",
+      "current": [
+        {
+          "name": "Electro Ball",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Thunderclaw",
+          "damage": "90",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+        }
+      ],
+      "reference": [
+        {
+          "name": "Electro Ball",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Thunderclaw",
+          "damage": "90",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/21"
+    },
+    {
+      "id": "b4a-036",
+      "field": "attacks",
+      "current": [
+        {
+          "name": "Punish",
+          "damage": "50+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "effect": "If your opponent's Active Pokémon has \"Team Rocket\" in its name, this attack does 70 more damage."
+        }
+      ],
+      "reference": [
+        {
+          "name": "Punish",
+          "damage": "50+",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "effect": "If your opponent's Active Pokémon has “Team Rocket” in its name, this attack does 70 more damage."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/36"
+    },
+    {
+      "id": "b4a-043",
+      "field": "attacks",
+      "current": [
+        {
+          "name": "Confusion Gas",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "effect": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "reference": [
+        {
+          "name": "Confusion Gas",
+          "damage": "60",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "effect": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/43"
+    },
+    {
+      "id": "b4a-067",
+      "field": "rarity",
+      "current": "Common",
+      "reference": "Uncommon",
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/67"
+    },
+    {
+      "id": "b4a-068",
+      "field": "rarity",
+      "current": "Common",
+      "reference": "Uncommon",
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/68"
+    },
+    {
+      "id": "b4a-069",
+      "field": "effect",
+      "current": "Flip a coin until you get tails. For each heads, put a random Pokémon that has \"Team Rocket\" in its name from your deck into your hand.",
+      "reference": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand.",
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/69"
+    },
+    {
+      "id": "b4a-069",
+      "field": "rarity",
+      "current": "Common",
+      "reference": "Uncommon",
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/69"
+    },
+    {
+      "id": "b4a-070",
+      "field": "effect",
+      "current": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now Confused.",
+      "reference": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused.",
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/70"
+    },
+    {
+      "id": "b4a-072",
+      "field": "rarity",
+      "current": "Rare",
+      "reference": "Uncommon",
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/72"
+    },
+    {
+      "id": "b4a-081",
+      "field": "attacks",
+      "current": [
+        {
+          "name": "Electro Ball",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Thunderclaw",
+          "damage": "90",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+        }
+      ],
+      "reference": [
+        {
+          "name": "Electro Ball",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Thunderclaw",
+          "damage": "90",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/81"
+    },
+    {
+      "id": "b4a-083",
+      "field": "attacks",
+      "current": [
+        {
+          "name": "Confusion Gas",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "effect": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "reference": [
+        {
+          "name": "Confusion Gas",
+          "damage": "60",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "effect": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/83"
+    },
+    {
+      "id": "b4a-085",
+      "field": "effect",
+      "current": "Flip a coin until you get tails. For each heads, put a random Pokémon that has \"Team Rocket\" in its name from your deck into your hand.",
+      "reference": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand.",
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/85"
+    },
+    {
+      "id": "b4a-086",
+      "field": "effect",
+      "current": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now Confused.",
+      "reference": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused.",
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/86"
+    },
+    {
+      "id": "b4a-090",
+      "field": "attacks",
+      "current": [
+        {
+          "name": "Electro Ball",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Thunderclaw",
+          "damage": "90",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+        }
+      ],
+      "reference": [
+        {
+          "name": "Electro Ball",
+          "damage": "40",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ]
+        },
+        {
+          "name": "Thunderclaw",
+          "damage": "90",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/90"
+    },
+    {
+      "id": "b4a-092",
+      "field": "attacks",
+      "current": [
+        {
+          "name": "Confusion Gas",
+          "damage": "20",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "effect": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "reference": [
+        {
+          "name": "Confusion Gas",
+          "damage": "60",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "effect": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/92"
+    },
+    {
+      "id": "b4a-094",
+      "field": "effect",
+      "current": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now Confused.",
+      "reference": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused.",
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/94"
+    },
+    {
+      "id": "b4a-096",
+      "field": "attacks",
+      "current": [
+        {
+          "name": "Ember Dance",
+          "damage": "20x",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "effect": "Flip 9 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "reference": [
+        {
+          "name": "Ember Dance",
+          "damage": "20x",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "effect": "Flip 9 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/96"
+    },
+    {
+      "id": "b4a-100",
+      "field": "attacks",
+      "current": [
+        {
+          "name": "Hide",
+          "damage": "",
+          "cost": [
+            "Psychic"
+          ]
+        }
+      ],
+      "reference": [
+        {
+          "name": "Hide",
+          "damage": "",
+          "cost": [
+            "Psychic"
+          ],
+          "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/100"
+    },
+    {
+      "id": "b4a-101",
+      "field": "abilities",
+      "current": [
+        {
+          "name": "Refreshing Tea",
+          "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may have your opponent shuffle their hand into the deck. For each remaining point that your opponent needs to win, they draw a card."
+        }
+      ],
+      "reference": [
+        {
+          "name": "Refreshing Tea",
+          "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may have your opponent shuffle their hand into their deck. For each remaining point that your opponent needs to win, they draw a card."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/101"
+    },
+    {
+      "id": "b4a-104",
+      "field": "abilities",
+      "current": [
+        {
+          "name": "Repelling Wind",
+          "effect": "Once during your turn, you may switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon)"
+        }
+      ],
+      "reference": [
+        {
+          "name": "Repelling Wind",
+          "effect": "Once during your turn, you may switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/104"
+    },
+    {
+      "id": "b4a-108",
+      "field": "attacks",
+      "current": [
+        {
+          "name": "Heat-Up Crunch",
+          "damage": "60",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "effect": "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch does +30 damage. This effect stacks."
+        }
+      ],
+      "reference": [
+        {
+          "name": "Heat-Up Crunch",
+          "damage": "60",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "effect": "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch attack does +30 damage. This effect stacks."
+        }
+      ],
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a/108"
+    },
+    {
+      "id": "p-b-087",
+      "field": "added",
+      "reference": "Mega Sceptile ex",
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B/87"
+    },
+    {
+      "id": "p-b-088",
+      "field": "added",
+      "reference": "Team Rocket's Scyther",
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B/88"
+    },
+    {
+      "id": "p-b-089",
+      "field": "added",
+      "reference": "Team Rocket's Lapras",
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B/89"
+    },
+    {
+      "id": "p-b-090",
+      "field": "added",
+      "reference": "Wingull",
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B/90"
+    },
+    {
+      "id": "p-b-091",
+      "field": "added",
+      "reference": "Team Rocket's Wobbuffet",
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B/91"
+    },
+    {
+      "id": "p-b-092",
+      "field": "added",
+      "reference": "Marowak",
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B/92"
+    },
+    {
+      "id": "p-b-093",
+      "field": "added",
+      "reference": "Fennekin",
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B/93"
+    },
+    {
+      "id": "p-b-094",
+      "field": "added",
+      "reference": "Meowstic",
+      "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B/94"
+    }
+  ]
+}

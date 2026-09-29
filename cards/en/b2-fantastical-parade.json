@@ -362,7 +362,7 @@
           "Grass",
           "Grass"
         ],
-        "effect": "If your opponent has gotten exactly 1 points, this attack does 40 more damage."
+        "effect": "If your opponent has gotten exactly 1 point, this attack does 40 more damage."
       }
     ],
     "retreatCost": 2,
@@ -1113,7 +1113,7 @@
           "Water",
           "Colorless"
         ],
-        "effect": "Discard Water2 Water Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+        "effect": "Discard 2 Water Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "retreatCost": 3,
@@ -4152,7 +4152,7 @@
           "Grass",
           "Grass"
         ],
-        "effect": "If your opponent has gotten exactly 1 points, this attack does 40 more damage."
+        "effect": "If your opponent has gotten exactly 1 point, this attack does 40 more damage."
       }
     ],
     "retreatCost": 2,
@@ -4259,7 +4259,7 @@
           "Water",
           "Colorless"
         ],
-        "effect": "Discard Water2 Water Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+        "effect": "Discard 2 Water Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "retreatCost": 3,

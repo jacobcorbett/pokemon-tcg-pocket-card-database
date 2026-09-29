@@ -575,7 +575,6 @@
         "cost": [
           "Lightning",
           "Lightning",
-          "Lightning",
           "Colorless"
         ],
         "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
@@ -975,7 +974,7 @@
           "Fighting",
           "Colorless"
         ],
-        "effect": "If your opponent's Active Pokémon has \"Team Rocket\" in its name, this attack does 70 more damage."
+        "effect": "If your opponent's Active Pokémon has “Team Rocket” in its name, this attack does 70 more damage."
       }
     ],
     "retreatCost": 2,
@@ -1159,7 +1158,7 @@
     "attacks": [
       {
         "name": "Confusion Gas",
-        "damage": "20",
+        "damage": "60",
         "cost": [
           "Darkness",
           "Darkness"
@@ -1827,7 +1826,7 @@
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Common"
+    "rarity": "Uncommon"
   },
   {
     "id": "b4a-068",
@@ -1844,7 +1843,7 @@
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Common"
+    "rarity": "Uncommon"
   },
   {
     "id": "b4a-069",
@@ -1852,7 +1851,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
-    "effect": "Flip a coin until you get tails. For each heads, put a random Pokémon that has \"Team Rocket\" in its name from your deck into your hand.",
+    "effect": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand.",
     "health": null,
     "set": "Team Rocket's Ambition (B4a)",
     "pack": null,
@@ -1861,7 +1860,7 @@
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Common"
+    "rarity": "Uncommon"
   },
   {
     "id": "b4a-070",
@@ -1869,7 +1868,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
-    "effect": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now Confused.",
+    "effect": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused.",
     "health": null,
     "set": "Team Rocket's Ambition (B4a)",
     "pack": null,
@@ -1912,7 +1911,7 @@
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Rare"
+    "rarity": "Uncommon"
   },
   {
     "id": "b4a-073",
@@ -2177,7 +2176,6 @@
         "cost": [
           "Lightning",
           "Lightning",
-          "Lightning",
           "Colorless"
         ],
         "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
@@ -2234,7 +2232,7 @@
     "attacks": [
       {
         "name": "Confusion Gas",
-        "damage": "20",
+        "damage": "60",
         "cost": [
           "Darkness",
           "Darkness"
@@ -2290,7 +2288,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
-    "effect": "Flip a coin until you get tails. For each heads, put a random Pokémon that has \"Team Rocket\" in its name from your deck into your hand.",
+    "effect": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand.",
     "health": null,
     "set": "Team Rocket's Ambition (B4a)",
     "pack": null,
@@ -2307,7 +2305,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
-    "effect": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now Confused.",
+    "effect": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused.",
     "health": null,
     "set": "Team Rocket's Ambition (B4a)",
     "pack": null,
@@ -2433,7 +2431,6 @@
         "cost": [
           "Lightning",
           "Lightning",
-          "Lightning",
           "Colorless"
         ],
         "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
@@ -2490,7 +2487,7 @@
     "attacks": [
       {
         "name": "Confusion Gas",
-        "damage": "20",
+        "damage": "60",
         "cost": [
           "Darkness",
           "Darkness"
@@ -2546,7 +2543,7 @@
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
-    "effect": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now Confused.",
+    "effect": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused.",
     "health": null,
     "set": "Team Rocket's Ambition (B4a)",
     "pack": null,
@@ -2598,7 +2595,7 @@
         "name": "Ember Dance",
         "damage": "20x",
         "cost": [
-          "Fighting",
+          "Fire",
           "Colorless",
           "Colorless"
         ],
@@ -2704,7 +2701,8 @@
         "damage": "",
         "cost": [
           "Psychic"
-        ]
+        ],
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
       }
     ],
     "retreatCost": 1,
@@ -2737,7 +2735,7 @@
     "abilities": [
       {
         "name": "Refreshing Tea",
-        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may have your opponent shuffle their hand into the deck. For each remaining point that your opponent needs to win, they draw a card."
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may have your opponent shuffle their hand into their deck. For each remaining point that your opponent needs to win, they draw a card."
       }
     ],
     "evolvesFrom": "Sinistea",
@@ -2819,7 +2817,7 @@
     "abilities": [
       {
         "name": "Repelling Wind",
-        "effect": "Once during your turn, you may switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon)"
+        "effect": "Once during your turn, you may switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
       }
     ],
     "evolvesFrom": "Taillow",
@@ -2931,7 +2929,7 @@
           "Metal",
           "Colorless"
         ],
-        "effect": "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch does +30 damage. This effect stacks."
+        "effect": "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch attack does +30 damage. This effect stacks."
       }
     ],
     "retreatCost": 1,

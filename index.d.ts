@@ -12,13 +12,7 @@ export type EnergyType =
 
 export type CardType = 'Pokemon' | 'Trainer';
 export type CardSubtype =
-  | 'Basic'
-  | 'Stage 1'
-  | 'Stage 2'
-  | 'Item'
-  | 'Supporter'
-  | 'Stadium'
-  | 'Tool';
+  'Basic' | 'Stage 1' | 'Stage 2' | 'Item' | 'Supporter' | 'Stadium' | 'Tool';
 export type Rarity =
   | 'Common'
   | 'Uncommon'
@@ -85,4 +79,63 @@ export declare const en: {
   rulerOfTheSkies: Card[];
   teamRocketsAmbition: Card[];
   promoB: Card[];
+};
+
+/** Schema v1 print; legacy fields and print IDs are retained. */
+export interface Print extends Card {
+  setId: string;
+  number: number;
+  packs: string[];
+  rules: string[];
+  sourceUrl: string;
+  /** Content fingerprint: changes when gameplay data is corrected. */
+  gameplayId: string;
+  alternatePrintIds: string[];
+}
+export interface Verification {
+  status: 'reference-compared';
+  checkedAt: string;
+  sourceUrl: string;
+  sourceHtmlSha256: string;
+  cardFileSha256: string;
+  supplementarySha256: string;
+  checkedFields: string[];
+  uncheckedFields: string[];
+  unresolvedDifferences: {
+    id: string;
+    field: string;
+    current: unknown;
+    reference: unknown;
+  }[];
+  notes: string[];
+}
+export interface SetMetadata {
+  id: string;
+  code: string;
+  name: string;
+  file: string;
+  exportName: string;
+  expectedCount: number;
+  releaseDate: string | null;
+  sourceUrl: string;
+  cardCount: number;
+  packs: string[];
+  verification: Verification;
+}
+export interface GameplayCard extends Omit<
+  Card,
+  'id' | 'set' | 'pack' | 'rarity'
+> {
+  id: string;
+  rules: string[];
+  printIds: string[];
+}
+export declare const database: {
+  schemaVersion: 1;
+  cards: Print[];
+  gameplay: GameplayCard[];
+  sets: SetMetadata[];
+  findById(id: string): Print | undefined;
+  findByName(name: string): Print[];
+  cardsForSet(setId: string): Print[];
 };
