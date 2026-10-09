@@ -3,7 +3,7 @@
 ## Foundation in this branch
 
 - Stable print IDs and legacy exports retained.
-- Reference comparisons across all 23 current inventories, reviewed corrections
+- Reference comparisons across all 24 current inventories, reviewed corrections
   and visible limitations.
 - Full prints, conservative gameplay groups and per-set JSON with schemas,
   source URLs, metadata and checksums.
@@ -12,11 +12,10 @@
 
 ## Next data priorities
 
-1. Add Deluxe Pack: Mega once its full checklist can be verified.
-2. Independently audit shiny/parallel rarity mappings.
-3. Model promo/event acquisition and per-print release status from evidence.
-4. Reconcile reference conflicts with in-game evidence or a second independent source.
-5. Make pack availability explicit where the current reference omits named labels.
+1. Independently audit shiny/parallel rarity mappings.
+2. Model promo/event acquisition and per-print release status from evidence.
+3. Reconcile reference conflicts with in-game evidence or a second independent source.
+4. Make pack availability explicit where the current reference omits named labels.
 
 An operational target is to review new sets within 24 hours of release. This is
 an aspiration, not a guarantee or an automatic-publication policy.

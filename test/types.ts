@@ -1,5 +1,7 @@
 import { en, database, Card, Print, GameplayCard, SetMetadata } from '..';
 const legacy: Card = en.geneticApex[0];
+const mega: Card = en.deluxePackMega[0];
+void mega;
 const print: Print | undefined = database.findById(legacy.id);
 const gameplay: GameplayCard = database.gameplay[0];
 const set: SetMetadata = database.sets[0];

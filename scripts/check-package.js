@@ -32,7 +32,7 @@ try {
   // Fresh process: resolves only packaged runtime dependencies.
   execFileSync(process.execPath, [
     '-e',
-    `const assert=require('node:assert/strict');const p=require(${JSON.stringify(path.join(temporary, 'package'))});const m=require(${JSON.stringify(path.join(temporary, 'package/dist/v1/metadata.json'))});assert.equal(p.database.cards.length,m.cardCount);assert.equal(p.en.geneticApex[0].id,'a1-001');assert(p.database.findById('p-b-094'));`,
+    `const assert=require('node:assert/strict');const p=require(${JSON.stringify(path.join(temporary, 'package'))});const m=require(${JSON.stringify(path.join(temporary, 'package/dist/v1/metadata.json'))});assert.equal(p.database.cards.length,m.cardCount);assert.equal(p.en.geneticApex[0].id,'a1-001');assert(p.database.findById('p-b-103'));assert.equal(p.en.deluxePackMega.length,429);assert.equal(p.database.findById('b4b-426').rarity,'Two Shiny Stars');`,
   ]);
   console.log(
     'Packaged data and legacy/enriched imports work without development dependencies.',

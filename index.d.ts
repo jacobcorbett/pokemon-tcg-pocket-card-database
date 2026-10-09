@@ -78,6 +78,7 @@ export declare const en: {
   everydayWonders: Card[];
   rulerOfTheSkies: Card[];
   teamRocketsAmbition: Card[];
+  deluxePackMega: Card[];
   promoB: Card[];
 };
 

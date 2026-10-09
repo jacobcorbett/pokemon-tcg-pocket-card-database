@@ -2541,5 +2541,257 @@
     "abilities": [],
     "evolvesFrom": "Espurr",
     "rarity": null
+  },
+  {
+    "id": "p-b-095",
+    "name": "Darkrai",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 100,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dark Slumber",
+        "damage": "40",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Asleep."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Grass",
+    "abilities": [
+      {
+        "name": "Bad Dreams",
+        "effect": "At the end of each turn, if your opponent's Active Pokémon is Asleep, do 20 damage to that Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-096",
+    "name": "Falinks",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Invade",
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psychic",
+    "abilities": [
+      {
+        "name": "Coordinated Unit",
+        "effect": "If you have another Falinks in play, this Pokémon's attacks do +20 damage to your opponent's Active Pokémon, and this Pokémon takes −20 damage from attacks from your opponent's Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-097",
+    "name": "Gible",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Take Down",
+        "damage": "30",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "This Pokémon also does 10 damage to itself."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-098",
+    "name": "Gabite",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 80,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Linear Attack",
+        "damage": "",
+        "cost": [
+          "Water",
+          "Fighting"
+        ],
+        "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Gible",
+    "rarity": null
+  },
+  {
+    "id": "p-b-099",
+    "name": "Mega Garchomp ex",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 220,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Falling Edge",
+        "damage": "190",
+        "cost": [
+          "Water",
+          "Fighting",
+          "Colorless"
+        ],
+        "effect": "Discard 2 random Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Gabite",
+    "rarity": null
+  },
+  {
+    "id": "p-b-100",
+    "name": "Delcatty",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 90,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Energy Blender",
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "You may move any amount of Energy from your Pokémon in play to your other Pokémon in any way you like."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Skitty",
+    "rarity": null
+  },
+  {
+    "id": "p-b-101",
+    "name": "Charmander",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flame Tail",
+        "damage": "30",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-102",
+    "name": "Drampa",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 100,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Power Blast",
+        "damage": "70",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Discard a random Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-b-103",
+    "name": "Pikachu ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 120,
+    "set": "Promo-B",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Thunderbolt",
+        "damage": "150",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "Discard all Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   }
 ]

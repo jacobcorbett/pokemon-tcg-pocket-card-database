@@ -9,7 +9,11 @@ test('legacy exports preserve records and derived exports never mutate them', ()
   derived.cards[0].attacks[0].name = 'Consumer edit';
   assert.equal(JSON.stringify(en), before);
   assert.equal(en.geneticApex[0].id, 'a1-001');
-  assert.equal(en.promoB.length, 94);
+  assert.equal(en.promoB.length, 103);
+  assert.equal(en.promoB.at(-1).id, 'p-b-103');
+  assert.equal(en.deluxePackMega.length, 429);
+  assert.equal(en.deluxePackMega[425].rarity, 'Two Shiny Stars');
+  assert.equal(en.deluxePackMega[426].rarity, 'Two Shiny Stars');
   assert.equal('gameplayId' in en.geneticApex[0], false);
 });
 test('all print groups partition the inventory and include only matching gameplay', () => {

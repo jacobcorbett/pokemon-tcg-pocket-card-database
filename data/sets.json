@@ -220,12 +220,22 @@
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a"
   },
   {
+    "id": "b4b",
+    "code": "B4b",
+    "name": "Deluxe Pack: Mega",
+    "file": "b4b-deluxe-pack-mega.json",
+    "exportName": "deluxePackMega",
+    "expectedCount": 429,
+    "releaseDate": "2026-09-30",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4b"
+  },
+  {
     "id": "p-b",
     "code": "P-B",
     "name": "Promo-B",
     "file": "promo-b.json",
     "exportName": "promoB",
-    "expectedCount": 94,
+    "expectedCount": 103,
     "releaseDate": null,
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B"
   }

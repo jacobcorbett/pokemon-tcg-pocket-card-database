@@ -1,7 +1,7 @@
 # Pokémon TCG Pocket Card Database
 
 Source-backed English card data for deck builders, collection tools and battle
-simulators. **3,879 reference-listed prints across 23 sets and promo series**, with
+simulators. **4,317 reference-listed prints across 24 sets and promo series**, with
 attacks, abilities, energy costs, trainer effects, evolution names and card rules.
 
 Maintained by Jacob Corbett. Originally [forked from Hugo Burguete's database](https://github.com/hugoburguete/pokemon-tcg-pocket-card-database)
@@ -10,15 +10,17 @@ Upstream attribution and Git history are preserved. This fork maintains English 
 
 ## Coverage you can inspect
 
-- Latest included expansion: **Team Rocket's Ambition (B4a)**.
-- Latest reference comparison: **29 September 2026**, against Limitless TCG Pocket.
-- **2,318 gameplay records**, conservatively grouped by identical gameplay fields
+- Latest included expansion: **Deluxe Pack: Mega (B4b)**.
+- Latest reference comparison: **9 October 2026**, against Limitless TCG Pocket.
+- **2,319 gameplay records**, conservatively grouped by identical gameplay fields
   and rule text; every print retains its own stable ID.
 - Every enriched print links to its reference page; every set records an audit
   date, source/file hashes, unchecked fields and unresolved discrepancies.
 - Rarity is validated structurally but not fully reference-certified. Source-listed
   previews are included; individual promo availability dates remain unknown.
-- **Deluxe Pack: Mega is not included yet**; its announced launch is 30 September.
+- All 429 Deluxe Pack: Mega prints are included; their numbers, names and rarity
+  image classifications were cross-checked with Serebii. Promo-B is listed through
+  103; source listing does not establish individual promo availability.
 
 Read the [coverage table and limitations](docs/coverage.md) before treating this
 as a complete released-card checklist. Our goal is accurate, explainable gameplay
