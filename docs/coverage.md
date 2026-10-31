@@ -50,6 +50,10 @@ B4b-426 and B4b-427 use Two Shiny Stars rather than the ambiguous source text.
 
 ## Known gaps
 
+- SP1: Pokemon Zone lists 30 First Partners prints; the official announcement
+  schedules October 31 availability, while Zone says Coming Soon and Limitless
+  has no SP1 page. Per-card details/artwork are pending verification; see
+  data/preview-inventories.json. This is an unresolved additional inventory.
 - Source-listed promos may be previews. Listing a print does not establish its
   availability or event dates.
 - Card rule text is included in enriched exports; effects are descriptive text,

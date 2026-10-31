@@ -36,6 +36,14 @@ assert.deepEqual(
   sets.map((set) => set.id).sort(),
   'Source has new/missing sets; review inventory',
 );
+const pending = require('../data/preview-inventories.json').filter(
+  (item) => item.status === 'pending-card-detail-verification',
+);
+assert.equal(
+  pending.length,
+  0,
+  `Additional source inventories still need verification: ${pending.map((item) => item.id).join(', ')}`,
+);
 console.log(
   'No new inventory or gameplay discrepancies (rarity remains unchecked).',
 );

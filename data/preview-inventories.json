@@ -4,11 +4,13 @@
     "name": "Special Pack: First Partners",
     "sourceUrl": "https://www.pokemon-zone.com/sets/sp1/",
     "referenceCount": 30,
-    "availability": "coming-soon",
-    "releaseDate": null,
+    "availability": "source-conflict",
+    "releaseDate": "2026-10-31",
     "status": "pending-card-detail-verification",
     "notes": [
-      "Pokemon Zone lists 30 preview cards; Limitless SP1 returns 404. No release or gameplay completeness inferred. Existing card prints are preserved."
-    ]
+      "Pokemon Zone lists 30 cards as Coming Soon; the official announcement schedules availability October 31 to December 26, 2026.",
+      "Limitless SP1 returns 404. Per-card details and artwork remain unverified for canonical import. Do not infer individual acquisition status."
+    ],
+    "officialSourceUrl": "https://pokemon.gamespress.com/en-GB/Dual-type-Cards-to-Debut-in-Pokemon-TCG-Pocket-with-new-Dual-Fusion-Ex"
   }
 ]
