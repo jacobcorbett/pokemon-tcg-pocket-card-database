@@ -2,7 +2,7 @@
 const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const path = require('node:path');
-const { load } = require('cheerio');
+const { parseInventory } = require('./reference-inventory');
 const sets = require('../data/sets.json');
 const verification = require('../data/verification.json');
 const cache = path.resolve(__dirname, '../.cache/reference');
@@ -28,14 +28,9 @@ for (const entry of report) {
     `${entry.id}: new reference discrepancies; review comparison.json`,
   );
 }
-const $ = load(fs.readFileSync(path.join(cache, 'sets.html'), 'utf8'));
-const observed = [];
-$('table tr').each((_, row) => {
-  const href = $(row).find('a').first().attr('href');
-  if (!href || !/^\/cards\/(?:[AB]\d+[ab]?|P-[AB])$/.test(href)) return;
-  observed.push(href.slice('/cards/'.length).toLowerCase());
-});
-assert(observed.length > 0, 'Could not parse the reference set inventory');
+const observed = parseInventory(
+  fs.readFileSync(path.join(cache, 'sets.html'), 'utf8'),
+);
 assert.deepEqual(
   observed.sort(),
   sets.map((set) => set.id).sort(),

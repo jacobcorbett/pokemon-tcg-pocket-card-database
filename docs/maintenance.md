@@ -19,6 +19,15 @@ unknown energy/rarity encoding or incomplete numbering fails closed.
 For one set: npm run reference -- b4a --refresh. The full check-reference command
 requires a full comparison and a fetched set inventory.
 
+Inventory discovery includes all source-listed series, promos and special pack
+identifiers. Never restrict it to already-known series. New inventory must fail
+the freshness check until reviewed and registered, rather than count as no change.
+Cross-check [Pokemon Zone's set index](https://www.pokemon-zone.com/sets/) for sets,
+special packs and preview cards absent from Limitless. Save both source inventories
+with each daily run. Reconcile differences at print level: displayed totals may
+count different kinds of variants. Preserve source URLs, availability uncertainty
+and unresolved conflicts; a source listing alone does not prove a card is released.
+
 Read .cache/reference/comparison.json. It separates current and reference values;
 source failure does not prove missing data. Review counts, missing sets, gameplay
 fields and supplementary rules. The freshness check suppresses rarity comparisons
