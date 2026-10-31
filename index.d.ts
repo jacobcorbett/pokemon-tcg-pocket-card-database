@@ -40,7 +40,7 @@ export interface Ability {
 export interface Card {
   id: string;
   name: string;
-  element: EnergyType | null;
+  element: EnergyType | 'Water/Darkness' | 'Psychic/Fighting' | null;
   type: CardType;
   subtype: CardSubtype;
   effect: string | null;
@@ -80,6 +80,8 @@ export declare const en: {
   teamRocketsAmbition: Card[];
   deluxePackMega: Card[];
   promoB: Card[];
+  dualFusion: Card[];
+  promoC: Card[];
 };
 
 /** Schema v1 print; legacy fields and print IDs are retained. */

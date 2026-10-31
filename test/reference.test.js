@@ -123,3 +123,19 @@ test('published schema rejects contradictory Pokemon and Trainer records', () =>
   trainer.attacks = [{ name: 'Impossible', damage: '10', cost: [] }];
   assert(!validate(trainer));
 });
+
+test('dual-type cards retain both types through parsing, schema and gameplay grouping', () => {
+  const dual = parseSet(
+    html().replace(' - Grass - ', ' - Water/Darkness - '),
+    set,
+  )[0].card;
+  assert.equal(dual.element, 'Water/Darkness');
+  const Ajv = require('ajv');
+  const validate = new Ajv().compile(require('../schema/card.schema.json'));
+  assert.equal(validate(dual), true);
+  const { gameplayId, gameplayFields } = require('../lib/database');
+  assert.notEqual(
+    gameplayId(gameplayFields(dual, [])),
+    gameplayId(gameplayFields({ ...dual, element: 'Water' }, [])),
+  );
+});

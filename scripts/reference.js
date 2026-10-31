@@ -100,7 +100,9 @@ function parseSet(html, set) {
       id: `${set.id}-${String(number).padStart(3, '0')}`,
       name,
       element: isPokemon
-        ? title.slice(name.length).match(/-\s*(\w+)\s*-/)?.[1]
+        ? title
+            .slice(name.length)
+            .match(/-\s*([A-Za-z]+(?:\/[A-Za-z]+)?)\s*-/)?.[1]
         : null,
       type: isPokemon ? 'Pokemon' : 'Trainer',
       subtype,

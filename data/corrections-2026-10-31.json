@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-31",
+  "addedSets": [
+    "c1",
+    "p-c"
+  ],
+  "addedPrints": 230,
+  "sources": [
+    "https://pocket.limitlesstcg.com/cards/C1",
+    "https://pocket.limitlesstcg.com/cards/P-C",
+    "https://www.pokemon-zone.com/sets/c1/",
+    "https://www.pokemon-zone.com/sets/promo-c/"
+  ],
+  "notes": [
+    "Source inventories agree on 217 C1 and 13 Promo C prints. Promo release dates unknown.",
+    "Seven dual-type prints preserve both types. Rarity remains reference-uncertified.",
+    "SP1 is explicitly tracked separately as an unresolved coming-soon inventory. No existing prints deleted."
+  ]
+}

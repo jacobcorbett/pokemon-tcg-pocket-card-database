@@ -1,0 +1,5813 @@
+[
+  {
+    "id": "c1-001",
+    "name": "Bulbasaur",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Leech Seed",
+        "damage": "30",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "effect": "Heal 10 damage from this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-002",
+    "name": "Ivysaur",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 100,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Leaf Drain",
+        "damage": "50",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Heal 20 damage from this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Bulbasaur",
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-003",
+    "name": "Venusaur",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 150,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Solar Beam",
+        "damage": "90",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Sunny Heal",
+        "effect": "Once during your turn, you may heal 30 damage from your Active Pok\u00e9mon."
+      }
+    ],
+    "evolvesFrom": "Ivysaur",
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-004",
+    "name": "Exeggcute",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Nap",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Heal 20 damage from this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-005",
+    "name": "Alolan Exeggutor ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 180,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Long-Neck Hammering",
+        "damage": "100",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass"
+        ],
+        "effect": "1 of your opponent's Benched Pok\u00e9mon is chosen at random. This attack also does 50 damage to it."
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Exeggcute",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "c1-006",
+    "name": "Pinsir",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 90,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Vise Grip",
+        "damage": "30",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-007",
+    "name": "Combee",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 50,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Flap",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-008",
+    "name": "Vespiquen",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 80,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Honey Rush",
+        "damage": "50x",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "effect": "Reveal all of the Sweet Honey in your hand, and this attack does 50 damage for each card you revealed in this way."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Combee",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-009",
+    "name": "Deerling",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Flop",
+        "damage": "40",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-010",
+    "name": "Sawsbuck",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Leaf Litter Tackle",
+        "damage": "100",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Discard a Grass Energy from this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Deerling",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-011",
+    "name": "Foongus",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Beat",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-012",
+    "name": "Amoonguss",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 100,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Astonish",
+        "damage": "50",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "effect": "Look at a random card from your opponent's hand and shuffle it into their deck."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Foongus",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-013",
+    "name": "Genesect",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 110,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Signal Beam",
+        "damage": "60",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pok\u00e9mon is now Confused."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-014",
+    "name": "Cutiefly",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 30,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Bug Bite",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-015",
+    "name": "Ribombee",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Bug Buzz",
+        "damage": "40",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Honey Gather",
+        "effect": "Once during your turn, you may use this Ability. Put a rental card into your hand."
+      }
+    ],
+    "evolvesFrom": "Cutiefly",
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-016",
+    "name": "Charmander",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Ember",
+        "damage": "50",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "Discard a Fire Energy from this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-017",
+    "name": "Charmeleon",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 80,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Flame Tail",
+        "damage": "50",
+        "cost": [
+          "Fire",
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Charmander",
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-018",
+    "name": "Charizard",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 150,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Fire Wing",
+        "damage": "90",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Flame Aura",
+        "effect": "Whenever you attach a Fire Energy from your Energy Zone to this Pok\u00e9mon, do 30 damage to your opponent's Active Pok\u00e9mon."
+      }
+    ],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-019",
+    "name": "Volcanion",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Dynamite Steam",
+        "damage": "110x",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 110 damage for each heads."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-020",
+    "name": "Salandit",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 50,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Flare",
+        "damage": "30",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-021",
+    "name": "Salazzle",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 90,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Heat Blast",
+        "damage": "70",
+        "cost": [
+          "Fire",
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Salandit",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-022",
+    "name": "Scorbunny",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 50,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Rabbit Jumping",
+        "damage": "20x",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-023",
+    "name": "Raboot",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "damage": "30",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Jumping Coach",
+        "effect": "As long as this Pok\u00e9mon is in play, flip 3 more coins for the Rabbit Jumping attack used by your Pok\u00e9mon."
+      }
+    ],
+    "evolvesFrom": "Scorbunny",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-024",
+    "name": "Cinderace",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 140,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Spinning Kick",
+        "damage": "100",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "effect": "This Pok\u00e9mon also does 20 damage to itself."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Raboot",
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-025",
+    "name": "Fuecoco ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 130,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "30",
+        "cost": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Feisty Flames",
+        "damage": "50+",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "If this Pok\u00e9mon has damage on it, this attack does 70 more damage."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "c1-026",
+    "name": "Charcadet",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Will-O-Wisp",
+        "damage": "40",
+        "cost": [
+          "Fire",
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-027",
+    "name": "Armarouge",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Boundless Power",
+        "damage": "130",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "effect": "During your next turn, this Pok\u00e9mon can't attack."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Charcadet",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-028",
+    "name": "Ceruledge",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Rally Back",
+        "damage": "70+",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "If any of your Pok\u00e9mon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 70 more damage."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Charcadet",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-029",
+    "name": "Squirtle",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Bubble",
+        "damage": "10",
+        "cost": [
+          "Water"
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-030",
+    "name": "Wartortle",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 90,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Spinning Attack",
+        "damage": "50",
+        "cost": [
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Squirtle",
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-031",
+    "name": "Blastoise",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 150,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Surf",
+        "damage": "100",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Aqua Charge",
+        "effect": "Once during your turn, you may take a Water Energy from your Energy Zone and attach it to this Pok\u00e9mon."
+      }
+    ],
+    "evolvesFrom": "Wartortle",
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-032",
+    "name": "Seel",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Waterfall",
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-033",
+    "name": "Dewgong",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Dual Blizzard",
+        "damage": "",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "effect": "Discard 2 Water Energy from this Pok\u00e9mon, and this attack does 60 damage to 2 of your opponent's Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Seel",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-034",
+    "name": "Shellder",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-035",
+    "name": "Cloyster",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Blizzard",
+        "damage": "60",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "effect": "This attack also does 20 damage to each of your opponent's Benched Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Shellder",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-036",
+    "name": "Jynx",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 80,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Slap",
+        "damage": "30",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-037",
+    "name": "Lapras",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 100,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Ice Blade",
+        "damage": "",
+        "cost": [
+          "Water"
+        ],
+        "effect": "This attack does 20 damage to 1 of your opponent's Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-038",
+    "name": "Palkia",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Spacial Rend",
+        "damage": "70",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "effect": "If your opponent has a Stadium in play, discard it."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-039",
+    "name": "Basculin",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Rock Head",
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "effect": "During your opponent's next turn, this Pok\u00e9mon takes \u221230 damage from attacks."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-040",
+    "name": "Froakie",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Pound",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-041",
+    "name": "Frogadier",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Wave Splash",
+        "damage": "30",
+        "cost": [
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Sudden Duplication",
+        "effect": "Once during your turn, when you play this card from your hand to evolve 1 of your Pok\u00e9mon, you may use this Ability. Put a random Frogadier from your deck onto your Bench."
+      }
+    ],
+    "evolvesFrom": "Froakie",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-042",
+    "name": "Mega Greninja ex",
+    "element": "Water/Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 200,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Splash of Darkness",
+        "damage": "100",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat."
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Frogadier",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "c1-043",
+    "name": "Pikachu ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Pika Punch",
+        "damage": "30",
+        "cost": [
+          "Lightning"
+        ]
+      },
+      {
+        "name": "Thundertail",
+        "damage": "130",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "effect": "Discard 2 Lightning Energy from this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "c1-044",
+    "name": "Voltorb",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rollout",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-045",
+    "name": "Electrode",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 90,
+    "set": "Dual Fusion (C1)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Self-Destruct",
+        "damage": "90",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This Pok\u00e9mon also does 90 damage to itself."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Voltorb",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-046",
+    "name": "Stunfisk",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 100,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Electric Ball",
+        "damage": "80",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-047",
+    "name": "Zeraora",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 90,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Thunderbolt",
+        "damage": "90",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "Discard all Energy from this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-048",
+    "name": "Pawmi",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 40,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Zap Kick",
+        "damage": "20",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-049",
+    "name": "Pawmo",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 80,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Electric Punch",
+        "damage": "40",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Pawmi",
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-050",
+    "name": "Pawmot",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Mach Bolt",
+        "damage": "50",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Electrocreation",
+        "effect": "Once during your turn, you may take a Lightning Energy from your Energy Zone and attach it to the Lightning Pok\u00e9mon in the Active Spot."
+      }
+    ],
+    "evolvesFrom": "Pawmo",
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-051",
+    "name": "Jigglypuff",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 50,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Soothing Lullaby",
+        "damage": "30",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Your opponent's Active Pok\u00e9mon is now Asleep. Your opponent flips 2 coins for this Special Condition, and if either of them is tails, that Pok\u00e9mon is still Asleep."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-052",
+    "name": "Wigglytuff",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 100,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Do the Wave",
+        "damage": "30x",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "This attack does 30 damage for each of your Benched Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Jigglypuff",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-053",
+    "name": "Abra",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 50,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Beam",
+        "damage": "30",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-054",
+    "name": "Kadabra",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 80,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Psychic Sphere",
+        "damage": "50",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Abra",
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-055",
+    "name": "Alakazam",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 130,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Mind Jack",
+        "damage": "50+",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "This attack does 30 more damage for each of your opponent's Benched Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Kadabra",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-056",
+    "name": "Mega Mewtwo X ex",
+    "element": "Psychic/Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 180,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Dual Impact",
+        "damage": "100+",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "If a Stadium is in play, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "c1-057",
+    "name": "Mew ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 130,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Secret Guidance",
+        "damage": "",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "Flip 3 coins. Take an amount of Psychic Energy from your Energy Zone equal to the number of heads and attach it to your Benched Psychic Pok\u00e9mon in any way you like."
+      },
+      {
+        "name": "Psyburn",
+        "damage": "60",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "c1-058",
+    "name": "Marill",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Rollout",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-059",
+    "name": "Azumarill",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Rabbit Jumping",
+        "damage": "60x",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 60 damage for each heads."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Marill",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-060",
+    "name": "Espeon",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 90,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Brainwave",
+        "damage": "10+",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "This attack does 20 more damage for each Psychic Energy attached to this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-061",
+    "name": "Wobbuffet",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 90,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Headbutt Bounce",
+        "damage": "30",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-062",
+    "name": "Deoxys",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 100,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Psycho Boost",
+        "damage": "100",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "During your next turn, this Pok\u00e9mon's Psycho Boost does \u221250 damage."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-063",
+    "name": "Mimikyu",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Dress Up",
+        "damage": "20+",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "If this Pok\u00e9mon has a Pok\u00e9mon Tool attached, this attack does 30 more damage."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-064",
+    "name": "Cosmog",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dust Gathering",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Draw a card."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-065",
+    "name": "Cosmoem",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 100,
+    "set": "Dual Fusion (C1)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Cosmog",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-066",
+    "name": "Lunala",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 150,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Wings of the Moone",
+        "damage": "110",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Move all Energy from this Pok\u00e9mon to your Benched Pok\u00e9mon in any way you like."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-067",
+    "name": "Diglett",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 50,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Dig",
+        "damage": "10",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from\u2014and effects of\u2014attacks done to this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-068",
+    "name": "Dugtrio",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 90,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Triple Smash",
+        "damage": "30x",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "Flip 3 coins. This attack does 30 damage for each heads."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Diglett",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-069",
+    "name": "Rhyhorn",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 80,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Lunge Out",
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-070",
+    "name": "Rhydon",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 110,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Megahorn",
+        "damage": "100",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Rhyhorn",
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-071",
+    "name": "Rhyperior",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 160,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Earthen Press",
+        "damage": "110",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Rhydon",
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-072",
+    "name": "Sudowoodo",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 100,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Elbow Strike",
+        "damage": "40",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-073",
+    "name": "Paldean Wooper",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Mud-Slap",
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-074",
+    "name": "Paldean Clodsire",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 130,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Earthquake",
+        "damage": "130",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "This attack also does 20 damage to each of your Benched Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Paldean Wooper",
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-075",
+    "name": "Larvitar",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 50,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-076",
+    "name": "Pupitar",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 100,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Amass",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Take 2 Fighting Energy from your Energy Zone and attach it to this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Larvitar",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-077",
+    "name": "Barboach",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Vibration",
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-078",
+    "name": "Whiscash",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Power Press",
+        "damage": "40+",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "If this Pok\u00e9mon has at least 3 extra Fighting Energy attached, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Barboach",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-079",
+    "name": "Rockruff",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Paw Shake Punch",
+        "damage": "10",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-080",
+    "name": "Lycanroc ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 150,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Slashing Claw",
+        "damage": "70",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Grass",
+    "abilities": [
+      {
+        "name": "Reflexive Retaliation",
+        "effect": "If this Pok\u00e9mon is in the Active Spot and is damaged by an attack from your opponent's Pok\u00e9mon, do 30 damage to the Attacking Pok\u00e9mon."
+      }
+    ],
+    "evolvesFrom": "Rockruff",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "c1-081",
+    "name": "Gastly",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Severe Gas",
+        "damage": "",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "Your opponent's Active Pok\u00e9mon is now Poisoned."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-082",
+    "name": "Haunter",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 80,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Suffocating Gas",
+        "damage": "30",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Gastly",
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-083",
+    "name": "Gengar",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 130,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Twilight Poison",
+        "damage": "50",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "Your opponent's Active Pok\u00e9mon is now Poisoned and Asleep."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Haunter",
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-084",
+    "name": "Umbreon",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 90,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Moonlit Raid",
+        "damage": "30+",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "If your opponent's Active Pok\u00e9mon is a Basic Pok\u00e9mon, this attack does 50 more damage."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-085",
+    "name": "Mega Tyranitar ex",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 240,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Crushing Rampage",
+        "damage": "180",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Discard the top 2 cards of your deck."
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Pupitar",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "c1-086",
+    "name": "Seviper",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 80,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Venomous Fang",
+        "damage": "40",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "effect": "Your opponent's Active Pok\u00e9mon is now Poisoned."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-087",
+    "name": "Zorua",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Scratch",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-088",
+    "name": "Zoroark",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 100,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Foul Play",
+        "damage": "",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Choose 1 of your opponent's Active Pok\u00e9mon's attacks and use it as this attack."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Zorua",
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-089",
+    "name": "Nickit",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Rear Kick",
+        "damage": "20",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-090",
+    "name": "Thievul",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 100,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Claw Slash",
+        "damage": "70",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Nickit",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-091",
+    "name": "Mega Skarmory ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 170,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Shredding Claw",
+        "damage": "90+",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "effect": "Flip a coin until you get tails. This attack does 50 more damage for each heads."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "c1-092",
+    "name": "Dialga",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Roar of Time",
+        "damage": "70",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "effect": "Discard the top card of your opponent's deck."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-093",
+    "name": "Ferroseed",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Pierce",
+        "damage": "40",
+        "cost": [
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-094",
+    "name": "Ferrothorn",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Hammer In",
+        "damage": "90",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Ferroseed",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-095",
+    "name": "Solgaleo",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 160,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Claws of the Sunne",
+        "damage": "90+",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ],
+        "effect": "This attack does 30 more damage for each point you have gotten."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-096",
+    "name": "Meltan",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": "40",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-097",
+    "name": "Melmetal",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Confront",
+        "damage": "70",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Metal Scrum",
+        "effect": "As long as this Pok\u00e9mon is in play, all of your Metal Pok\u00e9mon take \u221220 damage from attacks from your opponent's Pok\u00e9mon. This effect doesn't stack."
+      }
+    ],
+    "evolvesFrom": "Meltan",
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-098",
+    "name": "Dratini",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Hook",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-099",
+    "name": "Dragonair",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 100,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Beam",
+        "damage": "60",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dratini",
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-100",
+    "name": "Mega Dragonite ex",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 240,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Draconic Meteor",
+        "damage": "",
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "1 of your opponent's Pok\u00e9mon is chosen at random. Do 250 damage to it."
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dragonair",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "c1-101",
+    "name": "Giratina ex",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 150,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Slash",
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Dragon Impact",
+        "damage": "140",
+        "cost": [
+          "Grass",
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "Discard 2 random Energy from this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "c1-102",
+    "name": "Pidgey",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Find a Friend",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Put 1 random Colorless Pok\u00e9mon from your deck into your hand."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-103",
+    "name": "Pidgeotto",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Cutting Wind",
+        "damage": "40",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Pidgey",
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-104",
+    "name": "Pidgeot",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 130,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Clean Hit",
+        "damage": "40+",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "If your opponent's Active Pok\u00e9mon is an Evolution Pok\u00e9mon, this attack does 80 more damage."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Pidgeotto",
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-105",
+    "name": "Spearow",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Flap",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-106",
+    "name": "Fearow",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 90,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Drill Peck",
+        "damage": "50",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Spearow",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-107",
+    "name": "Eevee",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Signs of Evolution",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Put a random card that evolves from Eevee from your deck into your hand."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-108",
+    "name": "Porygon",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Powered Ball",
+        "damage": "30",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Discard a random Energy from this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-109",
+    "name": "Porygon2",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 90,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": "30",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Porygon",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-110",
+    "name": "Porygon-Z",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 130,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Overdrive Smash",
+        "damage": "50",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "During your next turn, this Pok\u00e9mon's Overdrive Smash attack does +50 damage."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Porygon2",
+    "rarity": "Rare"
+  },
+  {
+    "id": "c1-111",
+    "name": "Snorlax",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 130,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Body Slam",
+        "damage": "80",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-112",
+    "name": "Zangoose",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 80,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Claw Slash",
+        "damage": "30",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Immunity",
+        "effect": "This Pok\u00e9mon can't be affected by any Special Conditions."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-113",
+    "name": "Bidoof",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-114",
+    "name": "Bibarel",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Strength",
+        "damage": "80",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Bidoof",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-115",
+    "name": "Buneary",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 50,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Rabbit Jumping",
+        "damage": "20x",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-116",
+    "name": "Lopunny",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 100,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Rabbit Jumping",
+        "damage": "40x",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 40 damage for each heads."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Buneary",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-117",
+    "name": "Stufful",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Beat",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "c1-118",
+    "name": "Bewear ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 160,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Hyper Lariat",
+        "damage": "100+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Stufful",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "c1-119",
+    "name": "Sweet Honey",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "effect": "Choose 1 of your Pok\u00e9mon, and then flip a coin until you get tails. For each heads, heal 20 damage from that Pok\u00e9mon.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-120",
+    "name": "Super Potion",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "effect": "Heal 40 damage from 1 of your Pok\u00e9mon that has any Energy attached. If you healed any damage in this way, discard a random Energy from that Pok\u00e9mon.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-121",
+    "name": "Max Repel",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "effect": "Switch out your opponent's Active Stage 2 Pok\u00e9mon to the Bench. (Your opponent chooses the new Active Pok\u00e9mon.)",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-122",
+    "name": "Full Heal",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "effect": "Your Active Pok\u00e9mon recovers from all Special Conditions.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-123",
+    "name": "Eviolite",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Tool",
+    "effect": "The Basic Pok\u00e9mon this card is attached to takes \u221220 damage from attacks from your opponent's Pok\u00e9mon.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-124",
+    "name": "Light Ball",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Tool",
+    "effect": "Attacks used by the Pikachu ex this card is attached to do +30 damage to your opponent's Active Pok\u00e9mon.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-125",
+    "name": "Lorelei",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Dewgong, Cloyster, or Lapras do +30 damage to your opponent's Pok\u00e9mon.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-126",
+    "name": "Blue's Provocation",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "effect": "You can use this card only if you have Venusaur, Charizard, Blastoise, or Pidgeot in play. Switch in 1 of your opponent's Benched Pok\u00e9mon to the Active Spot.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-127",
+    "name": "Serena's Choice",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "effect": "Look at the top 3 cards of your deck and put 1 of them into your hand. Shuffle back into your deck.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-128",
+    "name": "Rika",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "effect": "Produce 2 Fighting Energy from your Energy Zone, and attach it to 1 of your Whiscash or Paldean Clodsire.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-129",
+    "name": "Pok\u00e9 Mart Guy",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "effect": "Put 2 random cards from among Super Potion, Max Repel, and Full Heal from your deck into your hand.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-130",
+    "name": "Rising Star",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "effect": "You can use this card only if you have 3 or more different Pok\u00e9mon types in play. Switch your Active Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-131",
+    "name": "Abandoned Station",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Stadium",
+    "effect": "Once during each player's turn, that player may use this effect. Flip a coin. If heads, draw a card.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "c1-132",
+    "name": "Venusaur",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 150,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Solar Beam",
+        "damage": "90",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Sunny Heal",
+        "effect": "Once during your turn, you may heal 30 damage from your Active Pok\u00e9mon."
+      }
+    ],
+    "evolvesFrom": "Ivysaur",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-133",
+    "name": "Exeggcute",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Nap",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Heal 20 damage from this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-134",
+    "name": "Deerling",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Flop",
+        "damage": "40",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-135",
+    "name": "Ribombee",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Bug Buzz",
+        "damage": "40",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Honey Gather",
+        "effect": "Once during your turn, you may use this Ability. Put a rental card into your hand."
+      }
+    ],
+    "evolvesFrom": "Cutiefly",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-136",
+    "name": "Charizard",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 150,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Fire Wing",
+        "damage": "90",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Flame Aura",
+        "effect": "Whenever you attach a Fire Energy from your Energy Zone to this Pok\u00e9mon, do 30 damage to your opponent's Active Pok\u00e9mon."
+      }
+    ],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-137",
+    "name": "Raboot",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "damage": "30",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Jumping Coach",
+        "effect": "As long as this Pok\u00e9mon is in play, flip 3 more coins for the Rabbit Jumping attack used by your Pok\u00e9mon."
+      }
+    ],
+    "evolvesFrom": "Scorbunny",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-138",
+    "name": "Ceruledge",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Rally Back",
+        "damage": "70+",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "If any of your Pok\u00e9mon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 70 more damage."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Charcadet",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-139",
+    "name": "Blastoise",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 150,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Surf",
+        "damage": "100",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Aqua Charge",
+        "effect": "Once during your turn, you may take a Water Energy from your Energy Zone and attach it to this Pok\u00e9mon."
+      }
+    ],
+    "evolvesFrom": "Wartortle",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-140",
+    "name": "Palkia",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Spacial Rend",
+        "damage": "70",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "effect": "If your opponent has a Stadium in play, discard it."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-141",
+    "name": "Frogadier",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Wave Splash",
+        "damage": "30",
+        "cost": [
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Sudden Duplication",
+        "effect": "Once during your turn, when you play this card from your hand to evolve 1 of your Pok\u00e9mon, you may use this Ability. Put a random Frogadier from your deck onto your Bench."
+      }
+    ],
+    "evolvesFrom": "Froakie",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-142",
+    "name": "Pawmot",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Mach Bolt",
+        "damage": "50",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Electrocreation",
+        "effect": "Once during your turn, you may take a Lightning Energy from your Energy Zone and attach it to the Lightning Pok\u00e9mon in the Active Spot."
+      }
+    ],
+    "evolvesFrom": "Pawmo",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-143",
+    "name": "Mimikyu",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Dress Up",
+        "damage": "20+",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "If this Pok\u00e9mon has a Pok\u00e9mon Tool attached, this attack does 30 more damage."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-144",
+    "name": "Cosmoem",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 100,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Cosmog",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-145",
+    "name": "Larvitar",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 50,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-146",
+    "name": "Pupitar",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 100,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Amass",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Take 2 Fighting Energy from your Energy Zone and attach it to this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Larvitar",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-147",
+    "name": "Paldean Clodsire",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 130,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Earthquake",
+        "damage": "130",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "This attack also does 20 damage to each of your Benched Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Paldean Wooper",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-148",
+    "name": "Gengar",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 130,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Twilight Poison",
+        "damage": "50",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "Your opponent's Active Pok\u00e9mon is now Poisoned and Asleep."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Haunter",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-149",
+    "name": "Dialga",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Roar of Time",
+        "damage": "70",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "effect": "Discard the top card of your opponent's deck."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-150",
+    "name": "Melmetal",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Confront",
+        "damage": "70",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Metal Scrum",
+        "effect": "As long as this Pok\u00e9mon is in play, all of your Metal Pok\u00e9mon take \u221220 damage from attacks from your opponent's Pok\u00e9mon. This effect doesn't stack."
+      }
+    ],
+    "evolvesFrom": "Meltan",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-151",
+    "name": "Bidoof",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-152",
+    "name": "Sweet Honey",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "effect": "Choose 1 of your Pok\u00e9mon, and then flip a coin until you get tails. For each heads, heal 20 damage from that Pok\u00e9mon.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-153",
+    "name": "Alolan Exeggutor ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 180,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Long-Neck Hammering",
+        "damage": "100",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass"
+        ],
+        "effect": "1 of your opponent's Benched Pok\u00e9mon is chosen at random. This attack also does 50 damage to it."
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Exeggcute",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-154",
+    "name": "Fuecoco ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 130,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "30",
+        "cost": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Feisty Flames",
+        "damage": "50+",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "If this Pok\u00e9mon has damage on it, this attack does 70 more damage."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-155",
+    "name": "Mega Greninja ex",
+    "element": "Water/Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 200,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Splash of Darkness",
+        "damage": "100",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat."
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Frogadier",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-156",
+    "name": "Pikachu ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Pika Punch",
+        "damage": "30",
+        "cost": [
+          "Lightning"
+        ]
+      },
+      {
+        "name": "Thundertail",
+        "damage": "130",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "effect": "Discard 2 Lightning Energy from this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-157",
+    "name": "Mega Mewtwo X ex",
+    "element": "Psychic/Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 180,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Dual Impact",
+        "damage": "100+",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "If a Stadium is in play, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-158",
+    "name": "Mew ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 130,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Secret Guidance",
+        "damage": "",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "Flip 3 coins. Take an amount of Psychic Energy from your Energy Zone equal to the number of heads and attach it to your Benched Psychic Pok\u00e9mon in any way you like."
+      },
+      {
+        "name": "Psyburn",
+        "damage": "60",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-159",
+    "name": "Lycanroc ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 150,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Slashing Claw",
+        "damage": "70",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Grass",
+    "abilities": [
+      {
+        "name": "Reflexive Retaliation",
+        "effect": "If this Pok\u00e9mon is in the Active Spot and is damaged by an attack from your opponent's Pok\u00e9mon, do 30 damage to the Attacking Pok\u00e9mon."
+      }
+    ],
+    "evolvesFrom": "Rockruff",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-160",
+    "name": "Mega Tyranitar ex",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 240,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Crushing Rampage",
+        "damage": "180",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Discard the top 2 cards of your deck."
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Pupitar",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-161",
+    "name": "Mega Skarmory ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 170,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Shredding Claw",
+        "damage": "90+",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "effect": "Flip a coin until you get tails. This attack does 50 more damage for each heads."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-162",
+    "name": "Mega Dragonite ex",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 240,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Draconic Meteor",
+        "damage": "",
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "1 of your opponent's Pok\u00e9mon is chosen at random. Do 250 damage to it."
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dragonair",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-163",
+    "name": "Giratina ex",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 150,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Slash",
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Dragon Impact",
+        "damage": "140",
+        "cost": [
+          "Grass",
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "Discard 2 random Energy from this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-164",
+    "name": "Bewear ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 160,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Hyper Lariat",
+        "damage": "100+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Stufful",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-165",
+    "name": "Lorelei",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "effect": "During this turn, attacks used by your Dewgong, Cloyster, or Lapras do +30 damage to your opponent's Pok\u00e9mon.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-166",
+    "name": "Blue's Provocation",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "effect": "You can use this card only if you have Venusaur, Charizard, Blastoise, or Pidgeot in play. Switch in 1 of your opponent's Benched Pok\u00e9mon to the Active Spot.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-167",
+    "name": "Serena's Choice",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "effect": "Look at the top 3 cards of your deck and put 1 of them into your hand. Shuffle back into your deck.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-168",
+    "name": "Rika",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "effect": "Produce 2 Fighting Energy from your Energy Zone, and attach it to 1 of your Whiscash or Paldean Clodsire.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-169",
+    "name": "Pok\u00e9 Mart Guy",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "effect": "Put 2 random cards from among Super Potion, Max Repel, and Full Heal from your deck into your hand.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-170",
+    "name": "Rising Star",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "effect": "You can use this card only if you have 3 or more different Pok\u00e9mon types in play. Switch your Active Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.",
+    "health": null,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-171",
+    "name": "Alolan Exeggutor ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 180,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Long-Neck Hammering",
+        "damage": "100",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass"
+        ],
+        "effect": "1 of your opponent's Benched Pok\u00e9mon is chosen at random. This attack also does 50 damage to it."
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Exeggcute",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-172",
+    "name": "Fuecoco ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 130,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "30",
+        "cost": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Feisty Flames",
+        "damage": "50+",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "If this Pok\u00e9mon has damage on it, this attack does 70 more damage."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-173",
+    "name": "Mega Greninja ex",
+    "element": "Water/Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 200,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Splash of Darkness",
+        "damage": "100",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat."
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Frogadier",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-174",
+    "name": "Pikachu ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Pika Punch",
+        "damage": "30",
+        "cost": [
+          "Lightning"
+        ]
+      },
+      {
+        "name": "Thundertail",
+        "damage": "130",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "effect": "Discard 2 Lightning Energy from this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-175",
+    "name": "Mega Mewtwo X ex",
+    "element": "Psychic/Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 180,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Dual Impact",
+        "damage": "100+",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "If a Stadium is in play, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-176",
+    "name": "Mew ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 130,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Secret Guidance",
+        "damage": "",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "Flip 3 coins. Take an amount of Psychic Energy from your Energy Zone equal to the number of heads and attach it to your Benched Psychic Pok\u00e9mon in any way you like."
+      },
+      {
+        "name": "Psyburn",
+        "damage": "60",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-177",
+    "name": "Lycanroc ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 150,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Slashing Claw",
+        "damage": "70",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Grass",
+    "abilities": [
+      {
+        "name": "Reflexive Retaliation",
+        "effect": "If this Pok\u00e9mon is in the Active Spot and is damaged by an attack from your opponent's Pok\u00e9mon, do 30 damage to the Attacking Pok\u00e9mon."
+      }
+    ],
+    "evolvesFrom": "Rockruff",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-178",
+    "name": "Mega Tyranitar ex",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 240,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Crushing Rampage",
+        "damage": "180",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Discard the top 2 cards of your deck."
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Pupitar",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-179",
+    "name": "Mega Skarmory ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 170,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Shredding Claw",
+        "damage": "90+",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "effect": "Flip a coin until you get tails. This attack does 50 more damage for each heads."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-180",
+    "name": "Mega Dragonite ex",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 240,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Draconic Meteor",
+        "damage": "",
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "1 of your opponent's Pok\u00e9mon is chosen at random. Do 250 damage to it."
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dragonair",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-181",
+    "name": "Giratina ex",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 150,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Slash",
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Dragon Impact",
+        "damage": "140",
+        "cost": [
+          "Grass",
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "Discard 2 random Energy from this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-182",
+    "name": "Bewear ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 160,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Hyper Lariat",
+        "damage": "100+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Stufful",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-183",
+    "name": "Pikachu ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pika Punch",
+        "damage": "30",
+        "cost": [
+          "Lightning"
+        ]
+      },
+      {
+        "name": "Thundertail",
+        "damage": "130",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "effect": "Discard 2 Lightning Energy from this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "c1-184",
+    "name": "Jigglypuff",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 50,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Soothing Lullaby",
+        "damage": "30",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Your opponent's Active Pok\u00e9mon is now Asleep. Your opponent flips 2 coins for this Special Condition, and if either of them is tails, that Pok\u00e9mon is still Asleep."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "c1-185",
+    "name": "Mega Mewtwo X ex",
+    "element": "Psychic/Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 180,
+    "set": "Dual Fusion (C1)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dual Impact",
+        "damage": "100+",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "If a Stadium is in play, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "c1-186",
+    "name": "Umbreon",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 90,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Moonlit Raid",
+        "damage": "30+",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "If your opponent's Active Pok\u00e9mon is a Basic Pok\u00e9mon, this attack does 50 more damage."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Immersive"
+  },
+  {
+    "id": "c1-187",
+    "name": "Celebi",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Smack",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Time Recall",
+        "effect": "Each of your evolved Pok\u00e9mon can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)"
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-188",
+    "name": "Treecko",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Pound",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-189",
+    "name": "Grovyle",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 80,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Slicing Snipe",
+        "damage": "",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "effect": "This attack does 50 damage to 1 of your opponent's Benched Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Treecko",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-190",
+    "name": "Cyndaquil",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Singe",
+        "damage": "",
+        "cost": [
+          "Fire"
+        ],
+        "effect": "Your opponent's Active Pok\u00e9mon is now Burned."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-191",
+    "name": "Quilava",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 80,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Heat Wave",
+        "damage": "30",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "effect": "Your opponent's Active Pok\u00e9mon is now Burned."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Cyndaquil",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-192",
+    "name": "Seel",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Waterfall",
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-193",
+    "name": "Dewgong",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Dual Blizzard",
+        "damage": "",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "effect": "Discard 2 Water Energy from this Pok\u00e9mon, and this attack does 60 damage to 2 of your opponent's Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Seel",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-194",
+    "name": "Pachirisu",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Crackling Snap",
+        "damage": "30+",
+        "cost": [
+          "Lightning"
+        ],
+        "effect": "Discard the top card of your deck, and if that card is an Item, this attack does 20 more damage."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-195",
+    "name": "Abra",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 50,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Beam",
+        "damage": "30",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-196",
+    "name": "Kadabra",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 80,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Psychic Sphere",
+        "damage": "50",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Abra",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-197",
+    "name": "Alakazam",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 130,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Mind Jack",
+        "damage": "50+",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "This attack does 30 more damage for each of your opponent's Benched Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Kadabra",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-198",
+    "name": "Lunala",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 150,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Wings of the Moone",
+        "damage": "110",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Move all Energy from this Pok\u00e9mon to your Benched Pok\u00e9mon in any way you like."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-199",
+    "name": "Rhyhorn",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 80,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Lunge Out",
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-200",
+    "name": "Rhydon",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 110,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Megahorn",
+        "damage": "100",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Rhyhorn",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-201",
+    "name": "Morpeko",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Energizer Wheel",
+        "damage": "50",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "effect": "Move 2 Darkness Energy from this Pok\u00e9mon to 1 of your Benched Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-202",
+    "name": "Solgaleo",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 160,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Claws of the Sunne",
+        "damage": "90+",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ],
+        "effect": "This attack does 30 more damage for each point you have gotten."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-203",
+    "name": "Spearow",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Flap",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-204",
+    "name": "Fearow",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 90,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Drill Peck",
+        "damage": "50",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Spearow",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-205",
+    "name": "Hisuian Zorua",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Run Around",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-206",
+    "name": "Stufful",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 70,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Beat",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "c1-207",
+    "name": "Mega Sceptile ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 210,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Terminating Tail",
+        "damage": "130",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "effect": "Discard a Grass Energy from this Pok\u00e9mon. Your opponent's Active Pok\u00e9mon is now Poisoned."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Grovyle",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-208",
+    "name": "Typhlosion ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 180,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Destructive Inferno",
+        "damage": "110",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Quilava",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-209",
+    "name": "Mega Gallade ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 220,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Resonating Blade",
+        "damage": "100+",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Kirlia",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-210",
+    "name": "Lycanroc ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 150,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Slashing Claw",
+        "damage": "70",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Grass",
+    "abilities": [
+      {
+        "name": "Reflexive Retaliation",
+        "effect": "If this Pok\u00e9mon is in the Active Spot and is damaged by an attack from your opponent's Pok\u00e9mon, do 30 damage to the Attacking Pok\u00e9mon."
+      }
+    ],
+    "evolvesFrom": "Rockruff",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-211",
+    "name": "Mega Dragonite ex",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 240,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Draconic Meteor",
+        "damage": "",
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "1 of your opponent's Pok\u00e9mon is chosen at random. Do 250 damage to it."
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dragonair",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-212",
+    "name": "Mega Audino ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 180,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Heartfelt Shine",
+        "damage": "90",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Heal 30 damage from each of your Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-213",
+    "name": "Hisuian Zoroark ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 150,
+    "set": "Dual Fusion (C1)",
+    "pack": "Pikachu",
+    "attacks": [
+      {
+        "name": "Spiteful Illusion",
+        "damage": "80+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack does 20 more damage for each Pok\u00e9mon in your discard pile."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Hisuian Zorua",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-214",
+    "name": "Bewear ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 160,
+    "set": "Dual Fusion (C1)",
+    "pack": "Mega Mewtwo X",
+    "attacks": [
+      {
+        "name": "Hyper Lariat",
+        "damage": "100+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Stufful",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "c1-215",
+    "name": "Fuecoco ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 130,
+    "set": "Dual Fusion (C1)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "30",
+        "cost": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Feisty Flames",
+        "damage": "50+",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "If this Pok\u00e9mon has damage on it, this attack does 70 more damage."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Gold Crown"
+  },
+  {
+    "id": "c1-216",
+    "name": "Pawmot",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 120,
+    "set": "Dual Fusion (C1)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Mach Bolt",
+        "damage": "50",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Electrocreation",
+        "effect": "Once during your turn, you may take a Lightning Energy from your Energy Zone and attach it to the Lightning Pok\u00e9mon in the Active Spot."
+      }
+    ],
+    "evolvesFrom": "Pawmo",
+    "rarity": "Gold Crown"
+  },
+  {
+    "id": "c1-217",
+    "name": "Giratina ex",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 150,
+    "set": "Dual Fusion (C1)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Slash",
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Dragon Impact",
+        "damage": "140",
+        "cost": [
+          "Grass",
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "Discard 2 random Energy from this Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Gold Crown"
+  }
+]

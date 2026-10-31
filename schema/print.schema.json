@@ -30,7 +30,7 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^(?:[ab][0-9]+[ab]?|p-[ab])-[0-9]{3}$"
+      "pattern": "^(?:[a-z][0-9]+[a-z]?|p-[a-z])-[0-9]{3}$"
     },
     "name": {
       "type": "string",
@@ -49,7 +49,9 @@
             "Darkness",
             "Metal",
             "Dragon",
-            "Colorless"
+            "Colorless",
+            "Water/Darkness",
+            "Psychic/Fighting"
           ]
         },
         {
@@ -128,7 +130,7 @@
           },
           "damage": {
             "type": "string",
-            "pattern": "^(?:[0-9]+[+×x−-]?)?$"
+            "pattern": "^(?:[0-9]+[+\u00d7x\u2212-]?)?$"
           },
           "cost": {
             "type": "array",
@@ -241,7 +243,7 @@
     },
     "setId": {
       "type": "string",
-      "pattern": "^(?:[ab][0-9]+[ab]?|p-[ab])$"
+      "pattern": "^(?:[a-z][0-9]+[a-z]?|p-[a-z])$"
     },
     "number": {
       "type": "integer",
@@ -275,7 +277,7 @@
       "uniqueItems": true,
       "items": {
         "type": "string",
-        "pattern": "^(?:[ab][0-9]+[ab]?|p-[ab])-[0-9]{3}$"
+        "pattern": "^(?:[a-z][0-9]+[a-z]?|p-[a-z])-[0-9]{3}$"
       }
     }
   },
@@ -308,7 +310,9 @@
               "Darkness",
               "Metal",
               "Dragon",
-              "Colorless"
+              "Colorless",
+              "Water/Darkness",
+              "Psychic/Fighting"
             ]
           },
           "health": {

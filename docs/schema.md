@@ -65,3 +65,11 @@ metadata.json records the package/schema version, counts and SHA-256 hashes of
 all generated data files. It excludes its own hash to avoid a self-reference.
 Builds contain no wall-clock timestamp and are reproducible from the same inputs.
 The listed reference dates come from source retrieval, not the build time.
+
+Dual-type Pokémon retain both types in the legacy `element` string, separated
+by `/` (for example `Water/Darkness`). Energy costs and weakness remain single
+energy types. Consumers filtering elements should match either component.
+
+`data/preview-inventories.json` records additional source-listed previews whose
+card details are not yet verified for canonical import. These are unresolved
+inventories, not an assertion that the cards are released or a no-change result.

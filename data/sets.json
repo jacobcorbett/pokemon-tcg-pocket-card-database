@@ -238,5 +238,25 @@
     "expectedCount": 103,
     "releaseDate": null,
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B"
+  },
+  {
+    "id": "c1",
+    "code": "C1",
+    "name": "Dual Fusion",
+    "file": "c1-dual-fusion.json",
+    "exportName": "dualFusion",
+    "expectedCount": 217,
+    "releaseDate": "2026-10-29",
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/C1"
+  },
+  {
+    "id": "p-c",
+    "code": "P-C",
+    "name": "Promo-C",
+    "file": "promo-c.json",
+    "exportName": "promoC",
+    "expectedCount": 13,
+    "releaseDate": null,
+    "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-C"
   }
 ]

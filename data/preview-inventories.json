@@ -1,0 +1,14 @@
+[
+  {
+    "id": "sp1",
+    "name": "Special Pack: First Partners",
+    "sourceUrl": "https://www.pokemon-zone.com/sets/sp1/",
+    "referenceCount": 30,
+    "availability": "coming-soon",
+    "releaseDate": null,
+    "status": "pending-card-detail-verification",
+    "notes": [
+      "Pokemon Zone lists 30 preview cards; Limitless SP1 returns 404. No release or gameplay completeness inferred. Existing card prints are preserved."
+    ]
+  }
+]

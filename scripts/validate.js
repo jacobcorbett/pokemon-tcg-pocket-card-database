@@ -141,7 +141,10 @@ for (const [file, [prefix, expectedCount, exportName]] of Object.entries(
         pokemonSubtypes.has(card.subtype),
         `${card.id} has an invalid Pokemon subtype`,
       );
-      assert(energies.has(card.element), `${card.id} has an invalid element`);
+      assert(
+        card.element.split('/').every((type) => energies.has(type)),
+        `${card.id} has an invalid element`,
+      );
       assert(
         Number.isInteger(card.health) && card.health > 0,
         `${card.id} has invalid health`,

@@ -29,7 +29,7 @@ function validateMetadata() {
     'verification inventory mismatch',
   );
   for (const set of inventory) {
-    assert.match(set.id, /^(?:[ab]\d+[ab]?|p-[ab])$/);
+    assert.match(set.id, /^(?:[a-z]\d+[a-z]?|p-[a-z])$/);
     assert.equal(set.code.toLowerCase(), set.id, `${set.id}: code mismatch`);
     assert.match(set.file, /^[a-z0-9-]+\.json$/);
     assert(Number.isInteger(set.expectedCount) && set.expectedCount > 0);

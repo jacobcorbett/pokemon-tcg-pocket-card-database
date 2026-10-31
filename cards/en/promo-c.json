@@ -1,0 +1,341 @@
+[
+  {
+    "id": "p-c-001",
+    "name": "Pikachu",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Promo-C",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Thunder Jolt",
+        "damage": "30",
+        "cost": [
+          "Lightning"
+        ],
+        "effect": "This Pok\u00e9mon also does 10 damage to itself."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-c-002",
+    "name": "Mega Mewtwo Y ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 170,
+    "set": "Promo-C",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psychic Blaster",
+        "damage": "60x",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Flip a coin for each Psychic Energy attached to this Pok\u00e9mon. This attack does 60 damage for each heads."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-c-003",
+    "name": "Deoxys",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 100,
+    "set": "Promo-C",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psycho Boost",
+        "damage": "100",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "During your next turn, this Pok\u00e9mon's Psycho Boost does \u221250 damage."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-c-004",
+    "name": "Inkay",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Promo-C",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Perplex",
+        "damage": "",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "Your opponent's Active Pok\u00e9mon is now Confused."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-c-005",
+    "name": "Malamar",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 90,
+    "set": "Promo-C",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pester the Dizzy",
+        "damage": "10+",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "If your opponent's Active Pok\u00e9mon is Confused, this attack does 90 more damage."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Inkay",
+    "rarity": null
+  },
+  {
+    "id": "p-c-006",
+    "name": "Cosmog",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 60,
+    "set": "Promo-C",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dust Gathering",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Draw a card."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-c-007",
+    "name": "Cosmoem",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 100,
+    "set": "Promo-C",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Cosmog",
+    "rarity": null
+  },
+  {
+    "id": "p-c-008",
+    "name": "Lunala",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 150,
+    "set": "Promo-C",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Wings of the Moone",
+        "damage": "110",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Move all Energy from this Pok\u00e9mon to your Benched Pok\u00e9mon in any way you like."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Cosmoem",
+    "rarity": null
+  },
+  {
+    "id": "p-c-009",
+    "name": "Genome Converter Y",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "effect": "Move all Psychic Energy from 1 of your Benched Psychic Pok\u00e9mon to your Mega Mewtwo Y ex in the Active Spot.",
+    "health": null,
+    "set": "Promo-C",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-c-010",
+    "name": "Stantler",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 80,
+    "set": "Promo-C",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Enhanced Horns",
+        "damage": "20+",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If this Pok\u00e9mon has a Pok\u00e9mon Tool attached, this attack does 50 more damage."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-c-011",
+    "name": "Alcremie",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "effect": null,
+    "health": 80,
+    "set": "Promo-C",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sweets Overload",
+        "damage": "40x",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "This attack does 40 damage for each time your Pok\u00e9mon used Sweets Relay during this game."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Milcery",
+    "rarity": null
+  },
+  {
+    "id": "p-c-012",
+    "name": "Delibird",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "effect": null,
+    "health": 80,
+    "set": "Promo-C",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Box of Surprises",
+        "damage": "",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 70 damage to your opponent's Active Pok\u00e9mon. If tails, heal 30 damage from your opponent's Active Pok\u00e9mon."
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "p-c-013",
+    "name": "Mega Dragonite ex",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "effect": null,
+    "health": 240,
+    "set": "Promo-C",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Draconic Meteor",
+        "damage": "",
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "1 of your opponent's Pok\u00e9mon is chosen at random. Do 250 damage to it."
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dragonair",
+    "rarity": null
+  }
+]

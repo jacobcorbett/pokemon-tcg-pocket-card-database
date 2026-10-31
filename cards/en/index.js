@@ -23,7 +23,12 @@ const teamRocketsAmbition = require('./b4a-team-rockets-ambition.json');
 const deluxePackMega = require('./b4b-deluxe-pack-mega.json');
 const promoB = require('./promo-b.json');
 
+const dualFusion = require('./c1-dual-fusion.json');
+const promoC = require('./promo-c.json');
+
 module.exports = {
+  dualFusion,
+  promoC,
   geneticApex,
   mythicalIsland,
   spaceTimeSmackdown,
