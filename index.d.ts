@@ -82,6 +82,7 @@ export declare const en: {
   promoB: Card[];
   dualFusion: Card[];
   promoC: Card[];
+  firstPartners: Card[];
 };
 
 /** Schema v1 print; legacy fields and print IDs are retained. */

@@ -26,7 +26,9 @@ const promoB = require('./promo-b.json');
 const dualFusion = require('./c1-dual-fusion.json');
 const promoC = require('./promo-c.json');
 
+const firstPartners = require('./sp1-first-partners.json');
 module.exports = {
+  firstPartners,
   dualFusion,
   promoC,
   geneticApex,

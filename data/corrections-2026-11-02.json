@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-02",
+  "addedSets": [
+    "sp1"
+  ],
+  "addedPrints": 30,
+  "sources": [
+    "https://www.serebii.net/tcgpocket/firstpartners/",
+    "https://www.pokemon-zone.com/sets/sp1/",
+    "https://pokemon.gamespress.com/en-GB/Dual-type-Cards-to-Debut-in-Pokemon-TCG-Pocket-with-new-Dual-Fusion-Ex"
+  ],
+  "notes": [
+    "All 30 numbered Serebii card pages and original artwork checked, including Mew 028, 029 and 030. Pokemon Zone names match as a multiset; its display order places Mew first and is not treated as numbering.",
+    "Release date follows the official announcement. Serebii promo-marked Mew rarity is null, not invented.",
+    "Existing records unchanged. Source-specific gameplay, audit and artwork adapters replace the stale pending inventory without fabricating Limitless URLs."
+  ]
+}

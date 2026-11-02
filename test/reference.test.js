@@ -139,3 +139,79 @@ test('dual-type cards retain both types through parsing, schema and gameplay gro
     gameplayId(gameplayFields({ ...dual, element: 'Water' }, [])),
   );
 });
+
+test('SP1 preserves all numbered prints, source provenance and the three Mew variants', () => {
+  const cards = require('../cards/en/sp1-first-partners.json');
+  const details = require('../data/card-details.json');
+  assert.equal(cards.length, 30);
+  assert.deepEqual(
+    cards.slice(-3).map((c) => [c.id, c.name, c.rarity]),
+    [
+      ['sp1-028', 'Mew', null],
+      ['sp1-029', 'Mew', null],
+      ['sp1-030', 'Mew', null],
+    ],
+  );
+  assert(
+    cards.every((c, i) => c.id === `sp1-${String(i + 1).padStart(3, '0')}`),
+  );
+  assert(
+    cards.every((c) =>
+      details[c.id].sourceUrl.startsWith(
+        'https://www.serebii.net/tcgpocket/firstpartners/',
+      ),
+    ),
+  );
+  const {
+    parseSerebiiCard,
+    parseSerebiiInventory,
+    serebiiChecklist,
+  } = require('../scripts/reference-serebii');
+  assert.throws(
+    () => parseSerebiiCard('', { id: 'sp1' }, 1, null),
+    /Missing Serebii card/,
+  );
+  assert.throws(
+    () =>
+      serebiiChecklist('', {
+        sourceUrl: 'https://www.serebii.net/tcgpocket/firstpartners/',
+        expectedCount: 30,
+      }),
+    /Checklist count/,
+  );
+  assert.deepEqual(
+    parseSerebiiInventory(
+      '<ul><li><b>Sets</b></li><li><a href="/tcgpocket/dualfusion/">Dual Fusion</a></li><li>Special Packs</li><li><a href="/tcgpocket/firstpartners/">First Partners</a></li><li>Promos</li><li><a href="/tcgpocket/promo-c/">Promo-C</a></li><li>Features</li></ul>',
+    ),
+    ['/tcgpocket/dualfusion', '/tcgpocket/firstpartners', '/tcgpocket/promo-c'],
+  );
+});
+
+test('Serebii gameplay parser reads source Mew fields and rejects unknown energy', () => {
+  const fs = require('node:fs');
+  const { parseSerebiiCard } = require('../scripts/reference-serebii');
+  const fixture = fs.readFileSync(
+    require('node:path').join(__dirname, 'fixtures/serebii-sp1-028.html'),
+    'utf8',
+  );
+  const set = require('../data/sets.json').find((s) => s.id === 'sp1');
+  const result = parseSerebiiCard(fixture, set, 28, null);
+  assert.deepEqual(
+    result.card,
+    require('../cards/en/sp1-first-partners.json')[27],
+  );
+  assert.throws(
+    () =>
+      parseSerebiiCard(
+        fixture.replaceAll('/psychic.png', '/unknown.png'),
+        set,
+        28,
+        null,
+      ),
+    /Unknown/,
+  );
+  assert.throws(
+    () => parseSerebiiCard(fixture, set, 29, null),
+    /Artwork number/,
+  );
+});

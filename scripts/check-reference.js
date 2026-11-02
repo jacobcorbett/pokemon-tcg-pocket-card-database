@@ -28,12 +28,33 @@ for (const entry of report) {
     `${entry.id}: new reference discrepancies; review comparison.json`,
   );
 }
+const serebiiObserved = require('./reference-serebii').parseSerebiiInventory(
+  fs.readFileSync(path.join(cache, 'serebii-index.html'), 'utf8'),
+);
+const slug = (value) => value.toLowerCase().replace(/[^a-z0-9]/g, '');
+const serebiiExpected = sets.map(
+  (set) =>
+    '/tcgpocket/' +
+    (set.referenceSource === 'serebii'
+      ? 'firstpartners'
+      : set.id.startsWith('p-')
+        ? 'promo-' + set.id.slice(2)
+        : slug(set.name)),
+);
+assert.deepEqual(
+  serebiiObserved.map(slug).sort(),
+  serebiiExpected.map(slug).sort(),
+  'Serebii has new/missing inventories',
+);
 const observed = parseInventory(
   fs.readFileSync(path.join(cache, 'sets.html'), 'utf8'),
 );
 assert.deepEqual(
   observed.sort(),
-  sets.map((set) => set.id).sort(),
+  sets
+    .filter((set) => set.referenceSource !== 'serebii')
+    .map((set) => set.id)
+    .sort(),
   'Source has new/missing sets; review inventory',
 );
 const pending = require('../data/preview-inventories.json').filter(

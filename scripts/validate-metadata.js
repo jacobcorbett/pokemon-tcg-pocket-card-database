@@ -29,7 +29,7 @@ function validateMetadata() {
     'verification inventory mismatch',
   );
   for (const set of inventory) {
-    assert.match(set.id, /^(?:[a-z]\d+[a-z]?|p-[a-z])$/);
+    assert.match(set.id, /^(?:[a-z]\d+[a-z]?|p-[a-z]|sp\d+)$/);
     assert.equal(set.code.toLowerCase(), set.id, `${set.id}: code mismatch`);
     assert.match(set.file, /^[a-z0-9-]+\.json$/);
     assert(Number.isInteger(set.expectedCount) && set.expectedCount > 0);
@@ -38,7 +38,9 @@ function validateMetadata() {
     );
     assert.equal(
       set.sourceUrl,
-      `https://pocket.limitlesstcg.com/cards/${set.code}`,
+      set.referenceSource === 'serebii'
+        ? 'https://www.serebii.net/tcgpocket/firstpartners/'
+        : `https://pocket.limitlesstcg.com/cards/${set.code}`,
     );
     const file = path.join(root, 'cards/en', set.file);
     const cards = JSON.parse(fs.readFileSync(file, 'utf8'));
@@ -100,7 +102,9 @@ function validateMetadata() {
       assert.deepEqual(extra.packs, card.pack === null ? [] : [card.pack]);
       assert.equal(
         extra.sourceUrl,
-        `${set.sourceUrl}/${Number(card.id.split('-').pop())}`,
+        set.referenceSource === 'serebii'
+          ? `${set.sourceUrl}${card.id.split('-').pop()}.shtml`
+          : `${set.sourceUrl}/${Number(card.id.split('-').pop())}`,
       );
     }
   }

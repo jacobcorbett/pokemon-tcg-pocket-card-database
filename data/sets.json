@@ -258,5 +258,17 @@
     "expectedCount": 13,
     "releaseDate": null,
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-C"
+  },
+  {
+    "id": "sp1",
+    "code": "SP1",
+    "name": "First Partners",
+    "file": "sp1-first-partners.json",
+    "exportName": "firstPartners",
+    "expectedCount": 30,
+    "releaseDate": "2026-10-31",
+    "sourceUrl": "https://www.serebii.net/tcgpocket/firstpartners/",
+    "referenceSource": "serebii",
+    "artworkUrlTemplate": "https://www.serebii.net/tcgpocket/firstpartners/{number}.jpg"
   }
 ]

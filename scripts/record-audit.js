@@ -87,11 +87,18 @@ for (const set of inventory) {
     ],
     uncheckedFields: ['rarity'],
     unresolvedDifferences: differences,
-    notes: [
-      'One community reference comparison, not an independent in-game audit.',
-      'Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.',
-      'Numbered inventory may include preview cards; individual release/availability dates are unknown.',
-    ],
+    notes:
+      set.referenceSource === 'serebii'
+        ? [
+            'Complete Serebii numbered checklist and all 30 per-card pages compared; Pokemon Zone independently confirms the names and count.',
+            'SP1 release date follows the official announcement; Pokemon Zone Coming Soon label is stale.',
+            'Serebii star1 artwork rarity retained; promo-marked Mew rarity is unknown (null). No in-game rarity certification.',
+          ]
+        : [
+            'One community reference comparison, not an independent in-game audit.',
+            'Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.',
+            'Numbered inventory may include preview cards; individual release/availability dates are unknown.',
+          ],
   };
 }
 fs.writeFileSync(

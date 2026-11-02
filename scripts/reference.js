@@ -35,6 +35,21 @@ const rarityMap = {
   'Shiny Super Rare': 'Two Shiny Stars',
 };
 function parseSet(html, set) {
+  if (set.referenceSource === 'serebii') {
+    const {
+      serebiiChecklist,
+      parseSerebiiCard,
+    } = require('./reference-serebii');
+    const bundle = JSON.parse(html);
+    return serebiiChecklist(bundle.checklist, set).map((item) =>
+      parseSerebiiCard(
+        bundle.pages[item.number - 1],
+        set,
+        item.number,
+        item.rarity,
+      ),
+    );
+  }
   const $ = load(html);
   $('br').replaceWith(' ');
   const result = [];
@@ -203,6 +218,9 @@ async function main() {
     const inventoryFile = path.join(cache, 'sets.html');
     if (refresh && fs.existsSync(inventoryFile)) fs.unlinkSync(inventoryFile);
     await fetchPage('https://pocket.limitlesstcg.com/cards', inventoryFile);
+    const serebiiIndex = path.join(cache, 'serebii-index.html');
+    if (refresh && fs.existsSync(serebiiIndex)) fs.unlinkSync(serebiiIndex);
+    await fetchPage('https://www.serebii.net/tcgpocket/', serebiiIndex);
   }
   if (selection && !sets.some((s) => s.id === selection))
     throw new Error(`Unknown set ${selection}`);
@@ -210,10 +228,43 @@ async function main() {
   for (const set of sets.filter((s) => !selection || s.id === selection)) {
     const cachedFile = path.join(cache, `${set.id}.html`);
     if (refresh && fs.existsSync(cachedFile)) fs.unlinkSync(cachedFile);
-    const html = await fetchPage(
-      `${set.sourceUrl}?display=full&show=all`,
-      path.join(cache, `${set.id}.html`),
-    );
+    let html;
+    if (set.referenceSource === 'serebii') {
+      if (fs.existsSync(cachedFile)) html = fs.readFileSync(cachedFile, 'utf8');
+      else {
+        const checklistFile = path.join(cache, `${set.id}-serebii.html`);
+        if (refresh && fs.existsSync(checklistFile))
+          fs.unlinkSync(checklistFile);
+        const checklist = await fetchPage(set.sourceUrl, checklistFile);
+        const pages = [];
+        for (let number = 1; number <= set.expectedCount; number++) {
+          const file = path.join(
+            cache,
+            `${set.id}-${String(number).padStart(3, '0')}.html`,
+          );
+          if (refresh && fs.existsSync(file)) fs.unlinkSync(file);
+          pages.push(
+            await fetchPage(
+              `${set.sourceUrl}${String(number).padStart(3, '0')}.shtml`,
+              file,
+            ),
+          );
+        }
+        html = JSON.stringify({ checklist, pages });
+        fs.writeFileSync(cachedFile, html);
+        fs.writeFileSync(
+          cachedFile.replace(/\.html$/, '.meta.json'),
+          JSON.stringify({
+            url: set.sourceUrl,
+            retrievedAt: new Date().toISOString(),
+          }),
+        );
+      }
+    } else
+      html = await fetchPage(
+        `${set.sourceUrl}?display=full&show=all`,
+        cachedFile,
+      );
     const parsed = parseSet(html, set);
     fs.writeFileSync(
       path.join(cache, `${set.id}.json`),

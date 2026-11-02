@@ -81,3 +81,13 @@ The existing B4-019 spacing conflict is documented rather than silently accepted
 Run npm run check, npm pack, node scripts/check-package.js and git diff --check.
 Follow releases.md for versioning and publication. Daily reference checks report
 changes for human review; they never import, commit or publish automatically.
+
+## Alternative reference sources
+
+SP1 is sourced from Serebii: `referenceSource: serebii` dispatches the reviewed
+Basic-card parser and caches a bundle of the complete numbered checklist plus
+all 30 individual pages. Audit hashes cover that bundle; per-print URLs point to
+the actual Serebii pages. Artwork uses the set's verified URL template. Numbered
+Mew prints 028, 029 and 030 must remain separate. Promo-marked rarity remains null.
+The source adapter fails for unreviewed sets instead of assuming matching layouts.
+The normal full refresh also fetches Serebii's expansion/special/promo inventory.

@@ -1,7 +1,7 @@
 {
   "a1": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/A1",
     "sourceHtmlSha256": "24f4a016e7862ed9fa2797d32ccbb8e05753e5ebf382398c60be23e26b9168d6",
     "cardFileSha256": "1d63d3f54c66b93fb5269ffc80d9fc0f4bde184de24a078650e0fab0b278a926",
@@ -36,7 +36,7 @@
   },
   "a1a": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/A1a",
     "sourceHtmlSha256": "5a8820ad91a56e53798a8cd3d6705ff0b9655bd26f110ce9e3d7162e68aaf6b6",
     "cardFileSha256": "49df5af5be9f4aed573597399024b543a01ced7a3c9a7e00da236225c27d7801",
@@ -71,7 +71,7 @@
   },
   "a2": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/A2",
     "sourceHtmlSha256": "18ff18cbe6a900a532e2bb30180f5e33e564d83203df18ca6ca747fec289ba85",
     "cardFileSha256": "490af238790ee5e7a4901bbb6c1d18902bc310a08979410f363929b0336ff8df",
@@ -106,7 +106,7 @@
   },
   "a2a": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/A2a",
     "sourceHtmlSha256": "e2d7fc742ae09ce934568c7509369eb3792f2611f3163aeb707564c364435ffa",
     "cardFileSha256": "afe4f2313c3a642db86be0a59bc6fa88fd40bd0c3db8b04ffb0fe79e0ad4b591",
@@ -141,7 +141,7 @@
   },
   "a2b": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/A2b",
     "sourceHtmlSha256": "2efeb1c80a62fbd40f6ec44cbba02aaf2182b78eab6104e82e0fabc4810cbb46",
     "cardFileSha256": "f98f7d39d8537824fb406f3b4e18efc4d1835334bcc5c8db69f55d12fbcced3f",
@@ -176,7 +176,7 @@
   },
   "a3": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/A3",
     "sourceHtmlSha256": "668137c0a0f5edad67cb1b1eb7e5c76cc123e46668e4694772a911c15bbd579d",
     "cardFileSha256": "ec9b974576f8a76d69fbb0da8e89415bc23bbb3983ad6b62a4289a61081118b9",
@@ -211,7 +211,7 @@
   },
   "a3a": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/A3a",
     "sourceHtmlSha256": "d27e84fa98832872a87b2382696e3bf64b355e69fb8fafdd1fd3f21207df7a87",
     "cardFileSha256": "02b000b5b250a90d7cfca280b9dc939b1ffdb332ef1b12648159b4093bc00b9c",
@@ -246,7 +246,7 @@
   },
   "a3b": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/A3b",
     "sourceHtmlSha256": "8be90d8c38dc682df12eda2467e5582074ae4de19f4a5910be4063b012e8d8aa",
     "cardFileSha256": "4c1e835abaafcee3556da07e6b3737cf4b844fceb97bbf6d0b3a036a0f752306",
@@ -281,7 +281,7 @@
   },
   "a4": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/A4",
     "sourceHtmlSha256": "948f062a048b490aaeeb22920c8fea94775882571e6b2967dea3114295610ea8",
     "cardFileSha256": "95369a893da811039e5ba22c58437e887623eb87bb218690c1c261a532068cda",
@@ -316,7 +316,7 @@
   },
   "a4a": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/A4a",
     "sourceHtmlSha256": "3bf78f64c24a638e6b621202b71cf82e4d24ff03cf699355e89c434b2980fcd6",
     "cardFileSha256": "c7a5e4e77b5b878e70c28f022b792df6d3399bfd2517afe694c28a9f36592489",
@@ -351,7 +351,7 @@
   },
   "a4b": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/A4b",
     "sourceHtmlSha256": "875314d79bacb0537e3dac5b4a4a2a8b94578f1deda5af5bb5cc92ef19e298c9",
     "cardFileSha256": "970c6d6877de25b87a36cf845e70c289ba9f5b78dbcb85de880fadcbcfa7b068",
@@ -386,7 +386,7 @@
   },
   "p-a": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-A",
     "sourceHtmlSha256": "10036cea5858e0281017d0a2198d7153d8dab3e628164983e53fd73cab648f86",
     "cardFileSha256": "fd24ed52911d67684ce97c64a9634a3d6dc94b4c235a375ae44c28dd3edfa1bc",
@@ -421,7 +421,7 @@
   },
   "b1": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/B1",
     "sourceHtmlSha256": "e1533a9a4dc9ac1cd3380da4fe3ac45a3e8f355c2f2fb09087ed120ecf2efcc1",
     "cardFileSha256": "95c5c2fd8a9405e66952178eb9f3286317abc4eb4716e6bdd8e093da4dfbcf3a",
@@ -456,7 +456,7 @@
   },
   "b1a": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/B1a",
     "sourceHtmlSha256": "cf366242f0ca88e6b4d69d9f50eb75e181a6c91376d9fc965f15f2bdadc8e07d",
     "cardFileSha256": "6a121f83ac934862cecb5795f6dfdc01d043fdb86fb1f1c4d8485a398728a17c",
@@ -491,7 +491,7 @@
   },
   "b2": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/B2",
     "sourceHtmlSha256": "26fba8db3e636a2b7110dd69a9491b939603f1e7e3202fee06b23fde59b40ba1",
     "cardFileSha256": "7a7e72b0df220946cd5e520f161afd624bcf560e4af11ecfcfc493989d05d417",
@@ -526,7 +526,7 @@
   },
   "b2a": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/B2a",
     "sourceHtmlSha256": "eb432e943df303e556b34f6e7f6488a7999edf1f401fd013882c3e4ed47b90b8",
     "cardFileSha256": "96ccf9a562b3c2e2d1ac5cffb483e80cd3350ee564f7a8577d24c9e43c8c560c",
@@ -561,7 +561,7 @@
   },
   "b2b": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/B2b",
     "sourceHtmlSha256": "633c6a4525187c69fa7d2e8fcf0678e637d8477997f2aa84efeabdac3b5b869c",
     "cardFileSha256": "1eabcb006f1997b7bf5611121814b57f23f110e840bb1fe455277cf8fa74fef8",
@@ -596,7 +596,7 @@
   },
   "b3": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/B3",
     "sourceHtmlSha256": "9b0a9330509602d37c5c7ba4825b7b9a87707c2b36e0f6b5ddf2306dc2cd4234",
     "cardFileSha256": "bbeb627d5088a6575680bd6831f5dd87a561af9eff427fea183caa7df6efa3e9",
@@ -631,7 +631,7 @@
   },
   "b3a": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/B3a",
     "sourceHtmlSha256": "40f4ea2060469d8db068167d3856e5b479dedac8ca930fe76bf4460288405cad",
     "cardFileSha256": "86942df873557b34126051a5504f3d3c9626b71e6ba4b0d6e87e2eb06831f521",
@@ -666,7 +666,7 @@
   },
   "b3b": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/B3b",
     "sourceHtmlSha256": "a3e8f8f2fedbe5fa5e1b5479581caafafd92b89edd33a9176e996e3014f5abbc",
     "cardFileSha256": "e04a732cafb20c81a64bf3f7d4155c716ad1a037d48cce08d75ec86e39ed38c0",
@@ -701,7 +701,7 @@
   },
   "b4": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4",
     "sourceHtmlSha256": "d219be7c67d901920feecca1265c1239dc408df3134f81ac636d06fbf1b7a786",
     "cardFileSha256": "8d2123f8ce1c1879bbbe1fa883207c1907646f334bb20625cbd02cf3e149aeee",
@@ -736,7 +736,7 @@
   },
   "b4a": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4a",
     "sourceHtmlSha256": "c808f90ccdf15355b5adb778be30aac8a0802f831f301a60988711a5073d7cab",
     "cardFileSha256": "8371e70b2ce48d4c23b2a2d2b20ffc61b2a7ab4f6dd666219ec67e3ee2741206",
@@ -771,7 +771,7 @@
   },
   "b4b": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/B4b",
     "sourceHtmlSha256": "f8acdb9e45a7545ed4d5e50444dbed1edcfed69d1adf0aa4cc1915ed52863c11",
     "cardFileSha256": "61c1770a6f03776e2e1881c93f62904113946d470bdc0d96ef2cadbf595d79ae",
@@ -806,7 +806,7 @@
   },
   "p-b": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-B",
     "sourceHtmlSha256": "4abe1f3366b54bc996ad72c158172981479ab97e1aafa41018b02458971f16d0",
     "cardFileSha256": "930a68ce4e3c148f36ede5a253590cce39d38ed2b3836a6d970a1e3915a07076",
@@ -841,7 +841,7 @@
   },
   "c1": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/C1",
     "sourceHtmlSha256": "8b9f773135df0926b9542e87b89fe740e6be06ac1151b2194fa3963cc046cf58",
     "cardFileSha256": "5a107bfdae52b4a786ade774b04ea143ffa270fd4289176e4940f39673af0759",
@@ -876,7 +876,7 @@
   },
   "p-c": {
     "status": "reference-compared",
-    "checkedAt": "2026-10-31",
+    "checkedAt": "2026-11-02",
     "sourceUrl": "https://pocket.limitlesstcg.com/cards/P-C",
     "sourceHtmlSha256": "4b05b53799d02f6e84f51fa08d2e901fae06436a2814e059ef577ede0ba32465",
     "cardFileSha256": "aab4eb038cc87d622cb891937c0dc867abf61eac6f8f15997f32e9e8ac649f10",
@@ -907,6 +907,41 @@
       "One community reference comparison, not an independent in-game audit.",
       "Rarity not certified: source symbols do not distinguish shiny from ordinary art rarities.",
       "Numbered inventory may include preview cards; individual release/availability dates are unknown."
+    ]
+  },
+  "sp1": {
+    "status": "reference-compared",
+    "checkedAt": "2026-11-02",
+    "sourceUrl": "https://www.serebii.net/tcgpocket/firstpartners/",
+    "sourceHtmlSha256": "df545f72c2d40d1359be0aaaadd1066463916af5b096f11ad26e9f371aa4f610",
+    "cardFileSha256": "0420ce6f9ca31751ab0de7dbee0a5f542f3c9d6d5b7acfd30f160af1009a9df1",
+    "supplementarySha256": "be579985f5376299b733b76ea91fd0dfee85f1a068b360e2901eeb1a0acead1d",
+    "checkedFields": [
+      "id",
+      "name",
+      "element",
+      "type",
+      "subtype",
+      "effect",
+      "health",
+      "pack",
+      "attacks",
+      "retreatCost",
+      "weakness",
+      "abilities",
+      "evolvesFrom",
+      "rules",
+      "packs",
+      "sourceUrl"
+    ],
+    "uncheckedFields": [
+      "rarity"
+    ],
+    "unresolvedDifferences": [],
+    "notes": [
+      "Complete Serebii numbered checklist and all 30 per-card pages compared; Pokemon Zone independently confirms the names and count.",
+      "SP1 release date follows the official announcement; Pokemon Zone Coming Soon label is stale.",
+      "Serebii star1 artwork rarity retained; promo-marked Mew rarity is unknown (null). No in-game rarity certification."
     ]
   }
 }
