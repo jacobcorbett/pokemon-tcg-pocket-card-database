@@ -91,7 +91,7 @@ for (const set of inventory) {
       set.referenceSource === 'serebii'
         ? [
             'Complete Serebii numbered checklist and all 30 per-card pages compared; Pokemon Zone independently confirms the names and count.',
-            'SP1 release date follows the official announcement; Pokemon Zone Coming Soon label is stale.',
+            'SP1 release date is October 31 per the official announcement; Pokemon Zone lists October 29, so its conflicting date is not used.',
             'Serebii star1 artwork rarity retained; promo-marked Mew rarity is unknown (null). No in-game rarity certification.',
           ]
         : [

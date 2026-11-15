@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-15",
+  "changedCards": [],
+  "sources": [
+    "https://www.pokemon-zone.com/sets/sp1/",
+    "https://pokemon.gamespress.com/en-GB/Dual-type-Cards-to-Debut-in-Pokemon-TCG-Pocket-with-new-Dual-Fusion-Ex"
+  ],
+  "reviewedConflicts": [
+    {
+      "setId": "sp1",
+      "field": "releaseDate",
+      "current": "2026-10-31",
+      "reference": "2026-10-29",
+      "resolution": "Retain October 31 from the official announcement; Pokemon Zone no longer says Coming Soon but supplies a conflicting date."
+    }
+  ],
+  "notes": [
+    "No cards, numbered prints, gameplay, pack assignments, artwork or release dates changed. All 27 inventories rechecked.",
+    "Promo series-level dates in Pokemon Zone do not establish individual card availability."
+  ]
+}
